@@ -22,7 +22,7 @@ cmode("All","Screen"),Strobj.indent:=" "
 ; Client.Y Mouse 20>
 ; between(20,44)
 
-LTRIGGER:=RTRIGGER:="JoyZ",POVADD:=MWADD:=""
+POVADD:=MWADD:=""
 JoyMultiplier:=1.00,JThresh:=25,InvertYAxis:=false
 JThresUP:=50+JThresh,JThresLOW:=50-JThresh,YAxisMult:=InvertYAxis?-1:1
 "".base.__set:=func("Set_Obj"),"".base.__Get :=func("Get_Prop")
