@@ -1,0 +1,18 @@
+{"scope": "source.ahk","completions": [
+
+
+{ "trigger":"PixelSearch","contents":"PixelSearch(${1:X},${2:Y},${3:X1},${4:Y1},${5:X2},${6:Y2},${7:Color},${8:variation},${9:\"fast RGB\"})" },
+// { "trigger": "RegExReplace", "contents": "R(In,RegEx="",Replace="",Byref Count="",Limit=-1,Pos=1)" },
+// { "trigger": "RegExMatch", "contents": "M(Hay,Needle,byref Match="",Pos=1)" }
+
+// { "trigger": "RegExReplace", "contents": "R(In,RegEx=\"\",Replace=\"\",Byref Count=\"\",Limit=-1,Pos=1)" },
+// { "trigger": "RegExMatch", "contents": "M(Hay,Needle,byref Match=\"\",Pos=1)" },
+{ "trigger": "r(", "contents": "R(In,RegEx=\"\",Replace=\"\",Byref Count=\"\",Limit=-1,Pos=1)" },
+{ "trigger": "m(", "contents": "M(Hay,Needle,byref Match=\"\",Pos=1)" },
+{ "trigger": "R(", "contents": "R(In,RegEx=\"\",Replace=\"\",Byref Count=\"\",Limit=-1,Pos=1)" },
+{ "trigger": "M(", "contents": "M(Hay,Needle,byref Match=\"\",Pos=1)" },
+// { "trigger": "RegExMatch()", "contents": "RegExMatch(${1:Haystack}, ${2:NeedleRegEx [}, ${3:UnquotedOutputVar = \"\"}, ${4:StartingPos = 1]})" },
+// { "trigger": "RegExReplace()", "contents": "RegExReplace(${1:Haystack}, ${2:NeedleRegEx [}, ${3:Replacement = \"\"}, ${4:OutputVarCount = \"\"}, ${5:Limit = -1}, ${6:StartingPos = 1]})" },
+
+
+]}
