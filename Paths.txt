@@ -1,0 +1,39 @@
+%LocalAppData%\GitHub
+%AppData%\GitHub
+
+Icon Paths
+C:\icons\autorunsc64_WINLOGON.ico
+C:\icons\bass_winamp_MAINICON.ico
+C:\icons\connect_10201.ico
+C:\icons\Context Menu Editor 1_32512.ico
+C:\icons\cttune_159.ico
+C:\icons\Cyberfox_1.ico
+
+C:\Program Files (x86)\K-Meleon\Profiles\lvu8bvvw.default
+
+C:\Users\Public\Downloads
+\\BRETT-PC\Users\Public\Downloads
+
+%USERPROFILE%\Pictures\Icons\Hopstarter-Sleek-Xp-Software-Windows-Restart.ico
+
+t="%A_ProgramFiles%\SyMenu" C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+; C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+%systemdrive%\Nirsoft\;C:\Program Files\Bandizip\7z
+
+%SystemRoot%;%SystemRoot%\system32;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86);C:\Program Files\TortoiseSVN\bin;C:\ProgramData\Oracle\Java\javapath
+
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;%SystemRoot%\system32;%SystemRoot%;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin
+
+%USERPROFILE%\AppData\Roaming\NetBeans\7.2\var
+
+%ALLUSERSPROFILE%	C:\ProgramData
+%APPDATA%	C:\Users\username\AppData\Roaming
+%LOCALAPPDATA%	C:\Users\username\AppData\Local
+%ProgramData%	C:\ProgramData
+%ProgramFiles%	C:\Program Files
+%ProgramFiles(x86)%	C:\Program Files (x86)
+%PUBLIC%	C:\Users\Public
+%SystemDrive%	C:
+%USERPROFILE%	C:\Users\username
+%windir%	C:\Windows

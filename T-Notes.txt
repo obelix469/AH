@@ -1,0 +1,64 @@
+%USERPROFILE%\Downloads
+
+Path: ;C:\Program Files (x86)\Microsoft VS Code\bin
+
+;C:\Program Files (x86)\Microsoft VS Code\bin;C:\Nirsoft;%ProgramFiles(x86)%;%ProgramFiles%
+
+C:\Python35\Scripts\;C:\Python35\;C:\Python27\;C:\Python27\Scripts;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Common Files\Intuit\QBPOSSDKRuntime;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\PATHS
+
+C:\Python35\
+C:\Python27\
+C:\Windows\system32
+C:\Windows
+C:\Windows\System32\Wbem
+C:\Windows\System32\WindowsPowerShell\v1.0\
+
+C:\ProgramData\chocolatey\bin
+C:\Program Files (x86)\Common Files\Intuit\QBPOSSDKRuntime
+
+C:\Python35\; C:\Python27\; C:\Windows\system32; C:\Windows; C:\Windows\System32\Wbem; C:\Windows\System32\WindowsPowerShell\v1.0\; C:\ProgramData\chocolatey\bin;
+
+Path: C:\Python35\; C:\Python27\; C:\Windows\system32; C:\Windows; C:\Windows\System32\Wbem; C:\Windows\System32\WindowsPowerShell\v1.0\; C:\ProgramData\chocolatey\bin;
+
+Intel(R) ME UninstallLegacy | Intel Corporation | 1.0.1.0 | 9/11/2016 | 416 KB | HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{3DF3AC42-174D-4915-9ED2-448AD4338B83} | Msiexec | MsiExec.exe /I{3DF3AC42-174D-4915-9ED2-448AD4338B83} | MsiExec.exe /qb /X{3df3ac42-174d-4915-9ed2-448ad4338b83} REBOOT=ReallySuppress /norestart |
+
+I pretty much know how to add the custom context menus, that is the easy part and is everywhere on the web, I can make a context menu that opens a Windows .bat file.
+
+The .bat file that does all the work is where the hard part was and I now have that solution from another question I had asked. The code for the .bat file is below...
+
+@echo off
+set input=%1
+Echo.Input was - %input%
+set converted=%input:E:\server\htdocs\=http://localhost/%
+set converted=%converted:\=/%
+echo.Converted to - %converted%
+
+start "webpage name" %converted%
+
+.net 4 WIN SDK 7 Req: http://go.microsoft.com/fwlink/?LinkID=187668
+
+"C:\Program Files (x86)\XCOM 2\Binaries\Win64\XCom2.exe" -noRedScreens -review -nostartupmovies -offline -allowconsole -log -autodebug
+The system cannot find the batch label specified - Set_
+
+Browse For Folder
+ahk_class #32770
+ahk_exe SMARegisTry Backup.exe
+
+Export Registry File
+ahk_class #32770
+ahk_exe regedit.exe
+ClassNN:	Edit2
+Text:	HKEY_CLASSES_ROOT\Applications\sublime_t (...)
+
+23456
+12345
+dWxdyDJ7
+Armstrong#1253
+
+Concerthall123!
+Reticule469$
+
+%APPDATA%
+C:\Users\Brett\AppData\Roaming
+
+#PizzaGate

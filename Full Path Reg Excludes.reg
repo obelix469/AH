@@ -1,0 +1,36 @@
+
+HKU\S-1-5-21-997731839-1151060330-1190674604-1000_Classes\Local Settings\Software\Microsoft\Windows\Shell\BagMRU
+
+HKU\S-1-5-21-997731839-1151060330-1190674604-1000\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count
+
+
+
+HKLM\SYSTEM\ControlSet001\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\24
+
+HKLM\SYSTEM\CurrentControlSet\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\24
+
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\MMDevices\Audio\Render\{d81ad9cd-747d-436f-bd44-e04400cdf84a}\Properties
+
+
+
+
+
+HKLM = HKEY_LOCAL_MACHINE
+
+
+HKCR = HKEY_CLASSES_ROOT
+
+HKCR\Local Settings\Software\Microsoft\Windows\Shell\BagMRU
+
+HKCR\Local Settings\Software\Microsoft\Windows\Shell\Bags\AllFolders\Shell
+
+
+HKCU = HKEY_CURRENT_USER
+
+HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\UserAssist\{CEBFF5CD-ACE2-4F4F-9178-9926F41749EA}\Count
+
+
+HKU = HKEY_USERS
+
+HKCC = HKEY_CURRENT_CONFIG          (NONEXISTANT?)
+

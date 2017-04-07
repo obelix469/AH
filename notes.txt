@@ -1,0 +1,218 @@
+%localappdata%\Microsoft\Windows\Themes
+%SystemRoot%\Resources\Themes
+C:\Windows\Resources\Themes
+CurrentTheme
+%SystemRoot%\Web\Wallpaper
+C:\Windows\Web\Wallpaper
+
+lazjonsucks@yahoo.com
+
+HKEY_CLASSES_ROOT\CLSID\{f3d06e7c-1e45-4a26-847e-f9fcdee59be0}
+Copy as path menu
+
+SID for \\RAIDMAX:Software\Policies\Google\Chrome\RestoreOnStartupURLs
+S-1-5-21-43478056-3344872408-552262105
+
+\\192.168.0.1\volume1
+
+LA
+model : f001
+Software version v3.6.1.1606241841c
+Device ID: 1JFIEGBP1VFXA
+admin password: 23434158
+Guest password: 23434158
+1JFIEGBP1VFXA
+23434158
+
+192.168.0.107
+6C-FD-B9-D9-EF-1B
+
+1jfiegbp1vfxa_eth0	AE-CA-05-FA-A9-6E	192.168.0.104
+1jfiegbp1vfxa_ra0 	6C-FD-B9-D9-EF-1B	192.168.0.110
+
+192.168.188.100
+192.168.188.253
+192.168.188.254
+
+WAN
+MAC Address:	C4-6E-1F-AA-3A-6F
+IP Address:	73.100.226.86	Dynamic IP :8080
+Subnet Mask:	255.255.252.0
+Default Gateway:	73.100.224.1	Release
+DNS Server:	75.75.75.75 , 75.75.76.76
+
+obelix469
+idspispopd
+
+1JFIEGBP1VFXA
+idspispopd469
+23434158
+frostee  licorice8
+
+qb2014 holyghost = licorice8
+
+DevManView
+
+%SystemRoot%\System32\cmd.exe /C "%1" %*
+Adobe Acrobat	1016-1736-6477-5778-2603-7388
+
+homegroup benson
+Y8Nq2U7kp9
+C:\Windows\SoftwareDistribution
+
+sfc /scannow
+findstr /c:"[SR]" %windir%\logs\cbs\cbs.log >sfcdetails.txt
+
+E:\System Volume Information
+E:\$RECYCLE.BIN
+E:\WindowsImageBackup
+
+xU8VKX4vSIrkVFy6ZXc0
+C:\Windows\System32\imageres.dll
+%USERPROFILE%\AppData\Local\Temp
+C:\Windows\system32\vssvc.exe
+
+WM_WININICHANGE=0x1A
+WM_SETTINGCHANGE=0x1A
+
+SPI_GETMOUSEWHEELROUTING=0x201C
+Retrieves the routing setting for wheel button input. The routing setting determines whether wheel button input is sent to the app with focus (foreground) or the app under the mouse cursor.
+The pvParam parameter must point to a DWORD variable that receives the routing option. If the value is zero or MOUSEWHEEL_ROUTING_FOCUS, mouse wheel input is delivered to the app with focus. If the value is 1 or MOUSEWHEEL_ROUTING_HYBRID (default), mouse wheel input is delivered to the app with focus (desktop apps) or the app under the mouse cursor (Windows Store apps). The uiParam parameter is not used.
+
+Regex classes
+POSIX Description ASCII Unicode Shorthand Java
+[:alnum:] Alphanumeric characters [a-zA-Z0-9] [\p{L&}\p{Nd}]    \p{Alnum}
+[:alpha:] Alphabetic characters [a-zA-Z]  \p{L&}    \p{Alpha}
+[:ascii:] ASCII characters  [\x00-\x7F] \p{InBasicLatin}    \p{ASCII}
+[:blank:] Space and tab [ \t] [\p{Zs}\t]  \h  \p{Blank}
+[:cntrl:] Control characters  [\x00-\x1F\x7F] \p{Cc}    \p{Cntrl}
+[:digit:] Digits  [0-9] \p{Nd}  \d  \p{Digit}
+[:graph:] Visible characters (i.e. anything except spaces, control characters, etc.)  [\x21-\x7E] [^\p{Z}\p{C}]   \p{Graph}
+[:lower:] Lowercase letters [a-z] \p{Ll}    \p{Lower}
+[:print:] Visible characters and spaces (i.e. anything except control characters, etc.) [\x20-\x7E] \P{C}   \p{Print}
+[:punct:] [!"#$%&'()*+, \-./:
+<=>?@ [\\\]^_`{|}~]  [\p{P}\p{S}]    \p{Punct}
+[:space:] All whitespace characters, including line breaks  [ \t\r\n\v\f] [\p{Z}\t\r\n\v\f] \s  \p{Space}
+[:upper:] Uppercase letters [A-Z] \p{Lu}    \p{Upper}
+[:word:]  Word characters (letters, numbers and underscores)  [A-Za-z0-9_]  [\p{L}\p{N}\p{Pc}]  \w
+[:xdigit:]  Hexadecimal digits  [A-Fa-f0-9] [A-Fa-f0-9]   \p{XDigit}
+
+POSIX Non-standard  Perl/Tcl  Vim ASCII Description
+[:alnum:]       [A-Za-z0-9] Alphanumeric characters
+[:word:]  \w  \w  [A-Za-z0-9_]  Alphanumeric characters plus "_"
+\W  \W  [^A-Za-z0-9_] Non-word characters
+[:alpha:]     \a  [A-Za-z]  Alphabetic characters
+[:blank:]     \s  [ \t] Space and tab
+\b  \< \> (?<=\W)(?=\w)|(?<=\w)(?=\W) Word boundaries
+[:cntrl:]       [\x00-\x1F\x7F] Control characters
+[:digit:]   \d  \d  [0-9] Digits
+\D  \D  [^0-9]  Non-digits
+[:graph:]       [\x21-\x7E] Visible characters
+[:lower:]     \l  [a-z] Lowercase letters
+[:print:]     \p  [\x20-\x7E] Visible characters and the space character
+[:punct:]       [][!"#$%&'()*+,./:
+<=>?@\^_`{|}~-]  Punctuation characters
+[:space:]   \s  \_s [ \t\r\n\v\f] Whitespace characters
+\S  \S  [^ \t\r\n\v\f]  Non-whitespace characters
+[:upper:]     \u  [A-Z] Uppercase letters
+[:xdigit:]      \x  [A-Fa-f0-9] Hexadecimal digits
+
+[:graph:]:= [:alnum:] [:punct:]
+[:alnum:]:= [:alpha:] [:digit:]
+[:alpha:]:= [:lower:] [:upper:]
+[:punct:]:= ! " # $ % & ' ( ) * + , - . / :
+ < = > ? @ [ \ ] ^ _ ` { | } ~.
+[:digit:]:= 0 1 2 3 4 5 6 7 8 9
+[:xdigit:]:=Hexadecimal digits:0 1 2 3 4 5 6 7 8 9 A B C D E F a b c d e f.
+[:blank:]
+[:cntrl:]
+
+3269
+HTML5 Capabilities 7/7
+This result is unlocked. Log in to lock this result!
+Log in to save this result!
+Detailed version information: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.0.11603 Safari/537.36
+
+layers.offmainthreadcomposition.testing.enabled TRUE
+browser.tabs.remote.autostart TRUE
+dom.ipc.processCount ANY value you want, but I recommend to set it between 2 and 10
+5874
+
+Export Registry File
+ahk_class #32770
+ahk_exe regedit.exe
+ClassNN:	Edit2
+Text:	HKEY_CLASSES_ROOT\Applications\sublime_t (...)
+
+&yt:cc=on
+&autoplay=1&cc_lang_pref=En&cc_load_policy=1
+
+https://www.youtube.com/watch?v=m9ZxcxsvMvU&index=18&list=WL
+
+<meta property="al:web:url" content="https://www.youtube.com/watch?v=yrjQ1BADXBk&amp;list=WL&amp;index=19&amp;feature=applinks">
+<meta property="og:type" content="video">
+<meta property="og:video:url" content="https://www.youtube.com/embed/yrjQ1BADXBk?list=WL">
+<meta property="og:video:secure_url" content="https://www.youtube.com/embed/yrjQ1BADXBk?list=WL">
+<meta property="og:video:type" content="text/html">
+<meta property="og:video:width" content="1280">
+<meta property="og:video:height" content="720">
+<meta property="og:video:url" content="http://www.youtube.com/v/yrjQ1BADXBk?list=WL&amp;version=3">
+<meta property="og:video:secure_url" content="https://www.youtube.com/v/yrjQ1BADXBk?list=WL&amp;version=3">
+<meta property="og:video:type" content="application/x-shockwave-flash">
+<meta property="og:video:width" content="1280">
+<meta property="og:video:height" content="720">
+<meta property="og:video:tag" content="hillary clinton">
+<meta property="og:video:tag" content="conservative">
+<meta property="og:video:tag" content="republican">
+<meta property="fb:app_id" content="87741124305">
+<meta name="twitter:card" content="player">
+<meta name="twitter:site" content="@youtube">
+<meta name="twitter:url" content="https://www.youtube.com/watch?v=yrjQ1BADXBk&amp;list=WL&amp;index=19">
+<meta name="twitter:title" content="Dave: &quot;Sell Me on Hillary Clinton&quot; (Hilary Rosen Part 1)">
+<meta name="twitter:description" content="Hilary Rosen (CNN contributor and political consultant) joins Dave Rubin to discuss Hillary Clinton, Donald Trump, mainstream media, Wikileaks, and more. ***...">
+<meta name="twitter:image" content="https://i.ytimg.com/vi/yrjQ1BADXBk/maxresdefault.jpg">
+<meta name="twitter:app:name:iphone" content="YouTube">
+<meta name="twitter:app:id:iphone" content="544007664">
+<meta name="twitter:app:name:ipad" content="YouTube">
+<meta name="twitter:app:id:ipad" content="544007664">
+<meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=yrjQ1BADXBk&amp;list=WL&amp;index=19&amp;feature=applinks">
+<meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=yrjQ1BADXBk&amp;list=WL&amp;index=19&amp;feature=applinks">
+<meta name="twitter:app:name:googleplay" content="YouTube">
+<meta name="twitter:app:id:googleplay" content="com.google.android.youtube">
+<meta name="twitter:app:url:googleplay" content="https://www.youtube.com/watch?v=yrjQ1BADXBk&amp;list=WL&amp;index=19">
+<meta name="twitter:player" content="https://www.youtube.com/embed/yrjQ1BADXBk?list=WL">
+<meta name="twitter:player:width" content="1280">
+<meta name="twitter:player:height" content="720">
+<meta name=attribution content=RubinReport/>
+  <link rel="stylesheet" href="//s.ytimg.com/yts/cssbin/www-watch-transcript-2x-webp-vflp9_n_i.css" name="www-watch-transcript">
+
+alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+https://www.youtube.com/watch?v=jVpZBdhI72c&list=WL&index=29&cc=a.en
+yt:cc=on&
+cc_load_policy=1&
+&autoplay=1&cc_lang_pref=En&cc_load_policy=1
+autoplay":"1","hl":"en_US","cr":"US",
+"cc":"a.en"
+&autoplay=1&cc_lang_pref=a.en&cc_load_policy=1&cc=a.en&hl=en_US&cr=US
+autoplay":"1","hl":"en_US","cr":"US",
+"cc":"a.en"
+
+192.168.1.229:0	OpenWrt.lan:0
+
+My Profile
+Account Number
+RefID_1419379982773
+
+My Eligibility
+Eligibility RefID: RefID_1420480510291
+Eligibility Id:717670012
+01/10/2017	Submitted
+
+or 186,411 miles, per second) by this, you get around 200,000 kilometers (124,274 miles) per second, which is the approximate speed of light through glass. Some fiber optic cabling is made of plastic, which has an even higher refractive index, and therefore a lower speed.
+
+Moms Bday
+11-09-1955
+
+
+gpupdate /force
+BCDEDIT /SET {DEFAULT} BOOTMENUPOLICY LEGACY

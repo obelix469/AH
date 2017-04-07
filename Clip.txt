@@ -1,0 +1,7131 @@
+
+IP, "
+0,5,3000,"no"),(!instr(p,lastpath)?append((p.=(p.l?"`n":"") lastpath),"Paths.txt"):"")
+	; else,LCLIP.isurl
+ts%")
+ t(LCLIp:="C:\Users\Brett\Documen
+ps?|ftp
+|ftp)://(?<
+)(?::(?<Port>\d+))?/?(?<Path>(?:[^:/?# ]*/?)+)(?:\?(?<Query>[^#]+)?)?(?:\#(?
+"),1700
+s.txt"
+append("`n" LCLIP,"Clip.txt","N")
+N")
+	else,	if lclip.l<200
+ Yo
+CLIP, "^(?<Pr
+00,900,1500
+ ; sdelay:=d
+ELAY="",Tn
+,y="",DELA
+"",DELA
+	CoordMode, Mouse, Screen
+
+bc.allfuncs(),append(biv(),"BIV.t
+) and (
+).bind("",x,y,tnum,delay,"RTT"),ST(RTF,(delay>0?"-":"") del
++1)
+,"ENV.txt
+t("Timer1",t1:=-t1)
+if !FileExist("ENV.txt")||elapsed(FileGetTime("ENV.
+") AND !ins
+,,6,3
+ip.l<200
+ ]*/?)
+]*/?)+
+C:\Users\Brett\Downloads\insideclipboard.zip
+CloseWinTask
+CloseWinTask
+ahk_id %WindowUnderMouseID%
+ahk_id %WindowUnderMouseID%
+; gosub CloseWinTask
+One Piece - 99 (DVD, , )
+One Piece - 97 (DVD, , )
+Imagine Russia aiding a candidate that doesnt want to go to war with Russia...?
+Is it just an american thing to literally rip your shirt off ??
+Monogatari?
+Monogatari
+Monogatari?
+ Cory in the House
+Lyn (Orc)
+big booty bitches, robbers and cops?
+When you buy a gun in Brazil you automatically become an off duty cop?
+ He gave her a ladyboner for the first time in years, that's why she was so flustered?
+shes gonna need wetland protection after that one.?
+He sure did , i heard he died of pussy suffocation that night?
+FAKE! In Soviet Russia, Election hacks you!?
+Obama's Birth Certificate Is Fake Forensic Experts
+okusama ga seitokaichou
+E:\Torrents\[HorribleSubs] Okusama ga Seitokaichou! (Uncensored) (01-12) [1080p] (Batch)
+E:\Torrents\[HorribleSubs] Okusama ga Seitokaichou! (Uncensored) (01-12) [1080p] (Batch)
+Sean Spicer
+U.S. electors cast their votes
+Assassination of Russian ambassador Andrei Karlov
+Your resistance only makes my penis harder?
+ “Islam is as dangerous in a man as rabies in a dog.”
+Progressive aggressive?
+Long Legged Mack Daddy
+ Bathhouse Barry
+E:\7plus-master\7+-128.ico
+timer tooltip test
+<Time>43202000</Time>
+; MouseClick, right,,, 1, 0, D  ; Hold down the right mouse .
+</Action><Action>
+<Action>Start timer</Action>
+<Time></Time>
+<TimerID>311</TimerID>
+<Type>Control timer</Type>
+</Action>
+Designated Survivor Season 1
+
+0
+0
+report
+Designated.Survivor
+DesignatedSurvivor
+Designated Survivo
+(Kwait()<200?
+(Kwait()<200?
+Tucker Carlson and Glenn Greenwald
+[[:punct:]]
+(?=.*[[:punct:]]).{6,}
+(?=.*\.)
+(?=.*[[:punct:]]).{6,}
+C:\Users\Brett\Pictures\Untitled.png
+C:\Users\Brett\Pictures\12-11-16 04.48.PM.bmp
+C:\Users\Brett\Pictures\Clipboard01.jpg
+C:\Users\Brett\Pictures\firewall default archer openwrt.png
+C:\Users\Brett\Pictures\Icons\pngConv\Anime_FF2_Mage.ico
+
+C:\Users\Brett\Pictures\Icons\Black\1.ico
+C:\Users\Brett\Pictures\Icons\Black\2.ico
+C:\Users\Brett\Videos\brycinewyears.m4v
+Logan Lace
+Charity Love
+Hope Harper
+SetWorkingDir %A_ScriptDir%
+SetWorkingDir %A_ScriptDir%
+Ariella Ferrera
+malina mars
+malina mars
+if ID:=winexist("Sound ahk_exe rundll32.exe")
+"Ahk_ID " ID
+WinWaitActive, Ahk_ID %ID%
+WinActivate
+WinActivate
+E:\AH\lib\soundtoggle.ahk
+E:\AH\lib\soundtoggleU64.exe
+E:\AH\lib\soundtoggle.exe
+E:\AH\lib\soundtoggleU32.exe
+DllCall("SetCursorPos", int, 100, int, 400)
+CoordMode, ToolTip|Pixel|Mouse|Caret|Menu [, Screen|Window|Client]
+MouseGetPos, X, Y
+MouseGetPos, X, Y
+E:\AH\lib\soundtoggle.exe
+E:\AH\lib\soundtoggleU32.exe
+E:\AH\lib\soundtoggleU64.exe
+C:\Users\Brett\Downloads\AHK-Studio.ahk
+C:\Users\Brett\Downloads\AHK-Studio.ahk
+C:\Users\Brett\Downloads\AHK-Studio.ahk
+Realraven2000
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\Packages\User\kk.tmTheme.JSON
+>David Heinemeier Hansson
+https://www.youtube.com/watch?v=fTFlENGwLMc
+<Album Artist>\<Album>\<Disc-Track#> <Title>
+C:\Users\Brett\Downloads\AbstractsDark.themepack
+C:\Users\Brett\Downloads\AbstractsBright.themepack
+{ArchiveFolder}
+C:\Users\Brett\Downloads\closeonmiddleclickintaskbarwin7
+C:\Users\Brett\Downloads\Win7
+C:\Users\Brett\Downloads\session_buddy_export_2016_12_12_04_48_54.txt
+C:\Users\Brett\Downloads\session_buddy_backup_2016_12_12_04_48_44.json
+C:\Users\Brett\Downloads\ytcenter-settings.ytcs
+C:\Users\Brett\Downloads\(1) Twitter.mhtml
+(Keydown("Shift"),
+GKS("JOY7")
+Joy8::GKS("JOY7")?(winflip(),exit()):(Keydown("LWIN"),(Kwait()<130?send("{Enter}"):(Kwait()>2000?Exitapp("full",0):"")))
+
+		send {LWinDown}
+		send {ShiftDown}
+%add%
+%add%
+WheelDown
+Joy5?Joy6?Joy7?
+				KeyList := "Help?Sleep?Joy1?Joy2?Joy3?Joy4?Joy5?Joy6?Joy7?Joy8?Joy9?Joy10?"
+
+Joy8?Joy9?Joy10?
+WheelRight?WheelLeft?WheelDown?WheelUp?
+		Send {WheelUp}
+		Send {WheelDown}
+		Send {WheelLeft}
+		Send {WheelRight}
+				Send(add . "{WheelRight}")
+WheelUp
+WheelDown
+WheelLeft
+				Send(MWadd . "{WheelRight}")
+	Send(POVADD . "{Right}")
+MWADD:=""
+POVADD:="",MWADD:=""
+POVADD:=""
+ SendEvent #r
+ SendEvent #r
+E:\7plus-master\7plus-master\JoyControl.ahk
+(Kwait()<200?send("{Space}"):"")
+(Kwait()<200?send("{Space}"):"")
+ShellFolderFixUI 12-22-2016 02
+(Kwait()<200?send("{Space}"):"")
+Nessa
+Ariella Ferrera
+	Alexis Fawx
+Ella Hughes
+Nicoletta Axin
+ashley alban
+C:\Users\Brett\Downloads\Win7
+IUPGRADESLOTS lines to the DefaultGameData_WeaponData.ini file.
+C:\Program Files (x86)\XCOM 2\XComGame\Mods
+1:04 PM 12-22-16
+C:\Program Files (x86)\XCOM 2\XComGame\Mods
+C:\Program Files (x86)\XCOM 2\XComGame\Mods
+E:\Torrents\Black Hawk Down (2001) [1080p]
+MouseHitTes
+PINK GUY X GETTER X NICK COLLETTI
+<http://www.autohotkey.com/forum/viewtopic.php?p=308628#308628>
+Win_GetClassNN(HCtrl, HRoot="")
+Win_GetClassNN(HCtrl, HRoot="")
+DetectHiddenWindows, On
+SetBatchLines, -1
+SetFormat, FloatFast, 0.3
+Gui, +LastFound
+hWnd := WinExist()
+DetectHiddenWindows, On
+SetBatchLines, -1
+SetFormat, FloatFast, 0.3
+Gui, +LastFound
+hWnd := WinExist()
+C:\SyMenu\sdi.cfg
+C:\SyMenu\SDI_x64_R526.exe
+C:\SyMenu\tools
+C:\SyMenu\drivers
+C:\SyMenu\indexes
+C:\SyMenu\logs
+001,1,ace,arc,arj,bin,cab,cpio,cue,deb,dbx,gz,img,kgb,kge,lha,lit,lzh,lzo,pea,rpm,sit,uha,z
+C:\Users\Brett\Downloads\7plus-master.zip
+What's really blasphemous is engaging in social engineering using an art/awards program like the Nazis.
+#IfWinActive,The Witcher 3
+*~LShift::LControl
+*~LControl::CapsLock
+ControlGet, OutputVar, Hwnd,, Edit1, WinTitle
+bianka
+Jarushka Ross
+; if ID:=winexist("Sound ahk_exe rundll32.exe"){
+; winclose
+; WinWaitClose
+; }
+; WinActivate("Ahk_ID " ID)
+If GKS("Joy7")
+Send("!q")
+If GKS("Joy7")
+Send("!q")
+JoyMultiplier:=1.00, JThresh:=25, InvertYAxis := false,
+JThresUP:=50+JThresh,JThresLOW:=50-JThresh,YAxisMultiplier:=InvertYAxis?-1:1
+(Kwait()<200?send("{Space}"):"")  ; X
+
+Joy4::GKS("Joy7")?send("^{Home}"):send("{BackSpace}")  ; Y Button
+(Kwait()<200?
+HK["Joy3"]:="{Space}"
+
+send("{Space}"),t((A_CaretX?"A_Caretx = " A_Caretx "`n":"") "A_Cursor = " A_Cursor)
+send(HK[A_ThisHotkey])
+send(HK[A_ThisHotkey])
+
+Jenna Haze.?
+migrant no more likely crime than german
+red pill movie
+red pill movie
+C:\Program Files\IrfanView\i_view64.exe
+
+Taking common man for an idiot finally comes at a very high price.
+journalists face off over syria
+https://www.youtube.com/watch?v=3JFEmCKHVME
+https://www.youtube.com/watch?v=3JFEmCKHVME
+http://windows.microsoft.com/en-us/windows7/Get-a-new-Windows-product-key
+ windows 7 Home premium..the max memory you can address is 16gb ....some folks have loaded 32gb and complain of being shorted 16gb
+windows 8
+Windows 7, 8.1 or 10 for gaming?
+www.ebay.com/bhp/windows-7-product-key
+http://www.ebay.com/bhp/windows-7-product-key
+www.ebay.com/bhp/windows-7-product-key
+http://www.ebay.com/bhp/windows-7-product-key
+www.ebay.com/itm/Microsoft-Windows-8-1-PROFESSIONAL-64Bit-OEM-FULL-VERSION-Engl-DVD-Product-Key-/192056079709?hash=item2cb76f355d:g:2KoAAOSwiDFYRFEA
+http://www.ebay.com/itm/Microsoft-Windows-8-1-PROFESSIONAL-64Bit-OEM-FULL-VERSION-Engl-DVD-Product-Key-/192056079709?hash=item2cb76f355d:g:2KoAAOSwiDFYRFEA
+"C:\Users\Brett\Videos\Kentucky J.C. Penney Customer's Racist Tirade Caught On Video.mp4"
+Rename:Directory "\" SR(WGAT()," - YouTube - Google Chrome") ".mp4"
+    O[LinkFile]:=[
+FileGetTime, V, %name%,C
+"C:\Users\Brett\Videos"
+FileGetTime, V, %name%,C
+filegettime(name,"C")
+FileMove(Name,dest:=O[Name].rename,1),t(FileMove(Dest,"C:\Users\Brett\Videos",1))
+FileMove(Name,dest:=O[Name].rename,1),t(FileMove(Dest,"C:\Users\Brett\Videos",1))
+"C:\Users\Brett\Videos"
+    WorkingDir:="C:\Users\Brett\Videos"
+ WorkingDir
+ WorkingDir
+CleanFileName(SR(WGAT()," - YouTube - Google Chrome"))
+CleanFileName(SR(WGAT()," - YouTube - Google Chrome"))
+Obj[Time]
+Obj[Time]
+Obj[Time]:=filegettime(name,"C")
+Obj[Time]:=filegettime(name,"C")
+ t(strobj(Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)))
+ t(strobj(Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)))
+name, dir, ext, name_no_ext, drive
+	Splitpath(k)[p]
+	Splitpath(k)[p]
+mklink /prefix link_path file/folder_path
+runwaitone("mklink /D """ obj.linkfile """" """" obj.target """")
+runwaitone("mklink /D """ obj.linkfile """" """" obj.target """")
+cmd /C mklink C:\LNK E:\AH
+cmd /C mklink C:\LNK E:\AH
+run %comspec% /C mklink C:\LNK E:\AH
+Run("mklink /D """ obj.linkfile """" """" obj.target """")
+comspec " mklink /D """ obj.linkfile """" """" obj.target """"
+comspec " mklink /D """ obj.linkfile """" """" obj.target """"
+{ESC}
+comspec " mklink /D """ obj.linkfile """" """" obj.target """"
+mklink /D "C:\Users\Brett\Downloads\videoplayback""C:\Users\Brett\Videos\TL;DR - Femichristmas Shitshow Extravaganza.mp4"
+comspec " mklink /D """ obj.linkfile """" """" obj.target """"
+mklink /D "C:\Users\Brett\Downloads\videoplayback" "C:\Users\Brett\Videos\TL;DR - Femichristmas Shitshow Extravaganza.mp4"
+comspec " mklink /D """ obj.linkfile """" """" obj.target """"
+ t(strobj(Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)))
+
+ t(strobj(Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)))
+
+mklink /H "C:\Users\Brett\Downloads\videoplayback" "C:\Users\Brett\Downloads\Creating a Muslim Registry Is Dangerously Un-American.lnk"
+ t(strobj(Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)))
+
+{Target:Target,LinkFile:LinkFile,WorkingDir:WorkingDir,Args:Args,Description:Description,IconFile:IconFile,ShortcutKey:ShortcutKey,IconNumber:IconNumber,RunState:RunState}
+Empty(Obj)
+Empty(Obj)
+Run(comspec " /C mklink /H """ name ".lnk "" """ obj.target """")
+Run(comspec " /C mklink /H """ name ".lnk "" """ obj.target """")
+ O[Obj[Time]:=filegettime(name,"C")]:=OBJ
+ O[Obj[Time]:=filegettime(name,"C")]:=OBJ
+R:="mklink /H """ name """ """ obj.LinkFile """"
+R:="mklink /H """ name """ """ obj.LinkFile """"
+	; return (%TYPE
+fileread("clip.txt")
+MyVar = def`nabc`nmno`nFGH`nco-op`ncoop`ncop`ncon`n
+Sort, MyVar, F StringSort
+StringSort(a1, a2)
+{
+    return a1 > a2 ? 1 : a1 < a2 ? -1 : 0  ; Sorts alphabetically based on the setting of StringCaseSense.
+}
+abc
+def
+FGH
+co-op
+coop
+cop
+con
+def
+MyVar = def`nabc`nmno`nFGH`nco-op`ncoop`ncop`ncon`n
+Sort, MyVar, F StringSort
+StringSort(a1, a2)
+{
+    return a1 > a2 ? 1 : a1 < a2 ? -1 : 0  ; Sorts alphabetically based on the setting of StringCaseSense.
+}
+abc
+def
+FGH
+co-op
+coop
+cop
+con
+def
+MyVar = def`nabc`nmno`nFGH`nco-op`ncoop`ncop`ncon`n
+Sort, MyVar, F StringSort
+StringSort(a1, a2)
+{
+    return a1 > a2 ? 1 : a1 < a2 ? -1 : 0  ; Sorts alphabetically based on the setting of StringCaseSense.
+}
+	if (a_priorhotkey!="#v")
+(a_priorhotkey!="#v")
+t(myvar)
+A direct democracy system would permit the following:
+The majority white population of the US to disenfranchise Latinos and Negros.
+The majority female population of the US to vote to disenfranchise all males
+
+Basically, it will allow any majority population to shit on the rights of any minority population because remember, in a direct democracy, 1 person, 1 vote, 1 outcome, unchallenged.  Im sure you have heard the quote before but you should ponder its meaning and re-evaluate your position....."democracy is 2 wolves and 1 sheep deciding on whats for dinner"
+
+This would be like me arguing that the Cleveland Indians were the clear winners of the World Series because they scored more overall runs than the Cubs did, while ignoring all the rules and structure of the contest in the process.?
+
+Seriously, you gotta explain this shit.  We are advocating against democracy because of all the points previously raised and because it is not our system of government, as you noted in point 1.  You are advocating to overthrow our current system of government and replace it with mob rule and you call us the idiots?  Our current system has served us well since 1788, while in the same time, I believe 60 or so of the 124 countries that practiced pure democracy turned to despotism.  Just google "Why democracies fail" and read the first "Scholarly Article" that is returned in the results, and has been cited over 87 times in additional reports and was published by stanford university, one of the more liberal campuses in all of the united states.
+ Randi.
+
+I think the us would be better off if we asked Christians to swear off fundamentalism. There's more of them trying to f up America then fundamentalist Muslims. Let's face it, in any secular educated society fundamentalist anything is wrong, because it speaks to blind, head in the sand medieval thinking.
+Yeah, haven't you seen those studies that show christian conservatives have committed the vast majority of terrorist attacks in this country? I have to disagree with your claim that there's more of them trying to screw up America than muslim extremists though. Islam is a religion of peace, and it would be much better if we imported more of them and their percentage of the population went beyond just under 1% (which of course has no relevance to the idea christian conservatives commit more terrorist attacks because they make up more of the population, and that muslims are drastically over-represented in terrorist attacks.)
+C:\Users\Brett\Documents\ShellFolderFix.zip
+; https://accountants.intuit.com/tax/proseries/connected-services/access-granted.jsp?role=employee|firstName=Brett|lastName=Armstrong|email=obelix469@gmail.com|accountId=349117598&provisionalId=123145744790319&pin=490308014
+
+; Application Number	Description	Number	Type	Applicant Name	Fee
+; 9589601	1. 2017 PTIN Sign-up (With SSN)		PTIN	ARMSTRONG, BRETT	$50.00
+; Total	$50.00
+; timer1:
+; if instr(at:=wgat(),"! - Google Chrome")
+; ???????????????|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|?|? ?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?
+; winactive("Sponsored session")?(wclose(),send("{Enter}")):(append(at "`n" url(),"log.log","Dont"),(T(AT),send("^w"),sleep(250)))
+; return
+; to(v(Rstick_X:=GKS("JoyU"),Rstick_Y:=GKS("JoyR")))
+return
+added(Directory,Changes) {
+static added:={} ; Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdir
+For Each,C In Changes
+If (Action = 1)
+added.push(C.name)
+t(added)
+}
+ Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)
+; run %comspec% /C mklink C:\LNK E:\AH
+; runwaitone("mklink /D " a_scriptdir "\mlink " A_ScriptFullPath)
+#Hotstring EndChars `t ; -()[]{}:;'"/\,.?!`n
+RT_Down:= between(GKS("JoyZ"),0,49)
+Daniel Brezenoff,
+POV_Watch: ; JoyPOV Up Down Left Right
+	If(POV:=GKS("JoyPOV"))>=0{
+		; if GKS("Joy8")
+			; POVADD:="#"
+			; else,POVADD:=""
+
+	; 		; add:="#+"
+	; 	; send {LWinDown}
+	; 	; send {ShiftDown}
+	; }
+	; ; else,add:=""
+	; add:=""
+	; If(POV=0||POV=4500||POV=31500)
+	;     Send %add%{Up}
+	; If(POV=22500||POV=27000||POV=31500)
+	;     Send %add%{Left}
+	; If(POV=13500||POV=18000||POV=22500)
+	;     Send %add%{Down}
+	; If(POV=4500||POV=9000||POV=13500)
+	;     Send %add%{Right} ; t(POV,,,500)
+; POVADD:="",MWADD:=""
+If(POV=0||POV=4500||POV=31500)
+; Send {Up}
+Send(POVADD . "{Up}")
+If(POV=22500||POV=27000||POV=31500)
+t(	Send(POVADD . "{Left}"),,,2000)
+If(POV=13500||POV=18000||POV=22500)
+; Send {Down}
+Send(POVADD . "{Down}")
+If(POV=4500||POV=9000||POV=13500)
+; Send {Right} ; t(POV,,,500)
+Send(POVADD . "{Right}")
+
+}Return
+C:\Users\Brett\Google Drive
+C:\Users\Brett\Documents
+cmd /C mklink  /H C:\Users\Brett\Google Drive C:\Users\Brett\Documents
+
+nk /H C:\Users\Brett\Dropbox\Pics C:\Users\Brett\Pictures
+
+C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+Run(comspec " /C mklink /H """ name ".lnk "" """ obj.target """")
+A_ProgramFiles "\SyMenu"
+C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+t="%A_ProgramFiles%\SyMenu" C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+Run(comspec " /K mklink /J " t
+#if
+WaitForLeftUp:
+if GetKeyState(A)
+    return  ; The  is still, down, so keep waiting.
+SetTimer, WaitForLeftUp, off
+SetMouseDelay, -1
+Click Left Up
+return
+WaitForRightUp:
+if GetKeyState("Joy2")
+    return  ; The  is still, down, so keep waiting.
+SetTimer, WaitForRightUp, off
+SetMouseDelay, -1
+Click Right Up
+return
+#IfWinExist, ahk_class iTunes
+Media_Next::
+Media_Play_Pause::
+Media_Prev::
+Media_Stop::
+^Numpad0::
+^Numpad1::
+^Numpad2::
+^Numpad3::
+^Numpad4::
+^Numpad5::
+; ^Numpad6::
+; ^Numpad7::
+^NumpadAdd::
+^NumpadSub::
+ratesong()
+Return
+#ifwinactive Calculator
+~delete::presses>0?(presses+=1,exit()):presses:=1,ST("KeyWinC")
+KeyWinC:
+ST("KeyWinC",-250),(presses>1?send("^+{d}"):),presses:=0
+Return
+t="%A_ProgramFiles%\SyMenu" C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+; C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+Run(comspec " /K mklink /J " t)
+t="%A_ProgramFiles%\SyMenu" C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+; C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+Run(comspec " /K mklink /J " t)
+C:\SyMenu
+C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\ExtractNow_sps\extractmenu64.dll
+C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\SterJo_Chrome_Passwords_sps
+Registry (HKCU\Software\HWiNFO64)
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+{ArchiveFolder}\{ArchiveName}\
+C:\Users\Brett\Downloads
+{Env:TEMP}
+ArchiveFolder
+C:\Users\Brett\Downloads\Zips\7plus-master.zip
+C:\Users\Brett\Downloads\vwp.zip
+C:\Users\Brett\Downloads\win32wm.zip
+C:\Users\Brett\Downloads\VWPreview_1.6.zip
+C:\Users\Brett\Downloads\VWDesktopIcons_1.4.zip
+C:\Users\Brett\Downloads\smartcoolname.zip
+C:\Users\Brett\Downloads\sldn10a.zip
+C:\Users\Brett\Downloads\vws.zip
+C:\Users\Brett\Downloads\MessagePassthrough.zip
+C:\Users\Brett\Downloads\iconized-vw-4.x-100530-a9e1534d.zip
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\MessagePassthrough\jahkvwmsg.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\jahkvwmsg.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\iconized-vw-4.x-100530-a9e1534d\i-conized.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\iconized-vw-4.x-100530-a9e1534d\i-conized-COPYING.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\iconized-vw-4.x-100530-a9e1534d\i-conized-HISTORY.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\iconized-vw-4.x-100530-a9e1534d\i-conized-readme.txt
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\iconized-vw-4.x-100530-a9e1534d\i-conized skins
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWDesktopIcons_1.4\COPYING.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWDesktopIcons_1.4\README.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWDesktopIcons_1.4\VWDesktopIcons.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWDesktopIcons_1.4\VWDesktopIcons_unicode.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\win32wm\Win32WM.exe
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWPreview_1.6\COPYING.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWPreview_1.6\README.TXT
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\VirtuaWin_sps\modules\VWPreview_1.6\VWPreview.exe
+	, "PTR", &guiThreadInfo) = 0)
+	, "PTR", &guiThreadInfo) = 0)
+E:\7plus-master\JoyControl-E.ahk
+E:\7plus-master\1249246.ahk
+E:\7plus-master\JoyContr ol.ahk
+		Menu, Placeholders_Accessor, add, ${AccAll} - All parameters of the Accessor command (for an event using an Accessor trigger), PlaceholderHandler
+		Menu, Placeholders, add, Accessor, :Placeholders_Accessor
+				Menu, Placeholders, add, Custom, :Custom
+	if(Placeholder = "Clip")
+		Menu, Placeholders_Accessor, add, 1,PlaceholderHandler
+		Menu, Placeholders_Accessor, DeleteAll
+PlaceholderHandler
+GKS("Joy7")
+GKS("JoyZ")=50
+t(between(strsplit(a,",")*))
+ between(GKS("JoyZ"),0,49)
+t(between(Joyz,strsplit(a,",")*) "`n"  between(GKS("JoyZ"),0,49))
+LowerBound, UpperBound
+Kwait()
+	Return A_TimeSinceThisHotkey
+	; for K, V in strsplit(Sym){
+	; 	if Modifier.haskey(V)
+	; 		V:=Modifier[V]
+	; keywait(V,"L")
+	; }
+WGT(WinTitle="A", WinText="", ExcludeTitle="", ExcludeText="") {
+	WinGetTitle, v, %WinTitle%, %WinText%, %ExcludeTitle%, %ExcludeText%
+	Return, v
+	}
+WGAT(byref Atitle=""){
+	WinGetActiveTitle, v
+	return Atitle and !(Atitle=v)?false:v
+	}
+
+WGT(WinTitle="A", WinText="", ExcludeTitle="", ExcludeText="") {
+	WinGetTitle, v, %WinTitle%, %WinText%, %ExcludeTitle%, %ExcludeText%
+	Return, v
+	}
+WGAT(byref Atitle=""){
+	WinGetActiveTitle, v
+	return Atitle and !(Atitle=v)?false:v
+	}
+
+HKEY_USERS\.DEFAULT\Control Panel\Desktop
+Ctrl Panel
+C:\Users\Brett\Downloads\manifest.json
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\manifest.json
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\manifest.json
+(CabinetWClass|ExploreWClass|WorkerW|Progman)
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\newplot.png
+C:\Users\Brett\Downloads\Tucker Carlson  Liberals STOPPING Education At Universities And Colleges.lnk
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\manifest.json
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\Jonathan Haidt_Final.mp3
+C:\Users\Brett\Downloads\zipinst.exe
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\VirtuaWin_SDK_4.4.zip
+C:\Users\Brett\Downloads\ShellFolderFixSetup.exe
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\vwrun11.zip
+
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\On Contact_ A New McCarthyism with Ellen Schrecker - YouTube.mhtml
+C:\Users\Brett\Downloads\vwrun11.zip
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Design-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Master-Collection.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Production-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Web-Premium.ico
+IcoFX 12-28-2016 06
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Design-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Master-Collection.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Production-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Web-Premium.ico
+IcoFX 12-28-2016 06
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Design-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Master-Collection.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Production-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons\CS3-Web-Premium.ico
+C:\Users\Brett\Pictures\Icons\Folder-HW-Icons
+C:\Users\Brett\Pictures\Icons\Folders
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\Recycle Bin_full256X256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\Configuration256X256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\E-Mail256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\Games256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\InternetExpl256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\Messenger256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\My Computer256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\My Documents256X256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\My Music256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\My Pictures256x256.png
+C:\Users\Brett\Pictures\Icons\Rar\Blue-crystal-by-lgp-85\Recycle Bin_empty256X256.png
+C:\Users\Brett\Pictures\Icons\Rar
+C:\Users\Brett\Pictures\Icons\Rar\CS3-Master-Collection.ico
+C:\Users\Brett\Pictures\Icons\Rar\diskicons2 - Gray External.ico
+C:\Users\Brett\Pictures\Icons\Icon\CS3-Master-Collection (2).ico
+C:\Users\Brett\Pictures\Icons\Icon\CS3-Design-Premium.ico
+C:\Users\Brett\Pictures\Icons\Icon\photo (4)_48x48-24.ico
+C:\Users\Brett\Pictures\Icons\Icon\photo (4) (2).ico
+C:\Users\Brett\Pictures\Icons\Trump-Pepe.ico
+C:\Users\Brett\Pictures\Icons\Anime_FF2_Mage.ico
+C:\Users\Brett\Pictures\Icons\Cat.ico
+C:\Users\Brett\Pictures\Icons\cat4.ico
+C:\Users\Brett\Pictures\Icons\consciousnesss.ico
+C:\Users\Brett\Pictures\Icons\FB_IMG_1451068666509.ico
+C:\Users\Brett\Pictures\Icons\January-20-2014-20-46-56-k.ico
+C:\Users\Brett\Pictures\Icons\Phoenix.ico
+C:\Users\Brett\Pictures\Icons\photo (1).ico
+C:\Users\Brett\Pictures\Icons\photo (2).ico
+C:\Users\Brett\Pictures\Icons\photo (3).ico
+C:\Users\Brett\Pictures\Icons\photo (4).ico
+C:\Users\Brett\Pictures\Icons\photo (5).ico
+C:\Users\Brett\Pictures\Icons\photo (6).ico
+C:\Users\Brett\Pictures\Icons\photo (7).ico
+C:\Users\Brett\Pictures\Icons\photo (8).ico
+C:\Users\Brett\Pictures\Icons\Rainbow-Lion.ico
+C:\Users\Brett\Pictures\Icons\restart-icon.ico
+C:\Users\Brett\Pictures\Icons\Orb.ico
+C:\Users\Brett\Pictures\Icons\Trump-Pepe.ico
+C:\Users\Brett\Pictures\Icons\Anime_FF2_Mage.ico
+C:\Users\Brett\Pictures\Icons\Cat.ico
+C:\Users\Brett\Pictures\Icons\cat4.ico
+C:\Users\Brett\Pictures\Icons\consciousnesss.ico
+C:\Users\Brett\Pictures\Icons\FB_IMG_1451068666509.ico
+C:\Users\Brett\Pictures\Icons\January-20-2014-20-46-56-k.ico
+C:\Users\Brett\Pictures\Icons\Orb.ico
+C:\Users\Brett\Pictures\Icons\Phoenix.ico
+C:\Users\Brett\Pictures\Icons\photo (1).ico
+C:\Users\Brett\Pictures\Icons\photo (2).ico
+C:\Users\Brett\Pictures\Icons\photo (3).ico
+C:\Users\Brett\Pictures\Icons\photo (5).ico
+C:\Users\Brett\Pictures\Icons\photo (6).ico
+C:\Users\Brett\Pictures\Icons\photo (7).ico
+C:\Users\Brett\Pictures\Icons\photo (8).ico
+C:\Users\Brett\Pictures\Icons\Rainbow-Lion.ico
+C:\Users\Brett\Pictures\Icons\restart-icon.ico
+C:\Users\Brett\Pictures\Icons\pngConv\Orb.ico
+C:\Users\Brett\Pictures\Icons\pngConv\restart-icon.ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\Disk Ico.icl
+C:\Users\Brett\Pictures\Icons\Rar\ICO\Untitled - 8 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\Movie Cut (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\8 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\9 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\6 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\7 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\4 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\5 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\2 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\3 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\1 (2).ico
+C:\Users\Brett\Pictures\Icons\Rar\ICO\10 (2).ico
+C:\Users\Brett\Pictures\Icons\pngConv\Anime_FF2_Mage.ico
+C:\Users\Brett\Pictures\Icons\pngConv\Cat.ico
+C:\Users\Brett\Pictures\Icons\pngConv\cat4.ico
+C:\Users\Brett\Pictures\Icons\pngConv\consciousnesss.ico
+C:\Users\Brett\Pictures\Icons\pngConv\FB_IMG_1451068666509.ico
+C:\Users\Brett\Pictures\Icons\pngConv\January-20-2014-20-46-56-k.ico
+C:\Users\Brett\Pictures\Icons\pngConv\Phoenix.ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (1).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (3).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (4).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (5).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (6).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (7).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (8).ico
+C:\Users\Brett\Pictures\Icons\pngConv\photo (10).ico
+C:\Users\Brett\Pictures\Icons\pngConv\Rainbow-Lion.ico
+C:\Users\Brett\Pictures\Icons\pngConv\Trump-Pepe.ico
+C:\Users\Brett\Pictures\BMP\App-Quick-restart-icon_128x128-24.ico
+C:\Users\Brett\Pictures\BMP\Apps-Dialog-Shutdown-icon_128x128-24.ico
+C:\Users\Brett\Pictures\Icons\7.ico
+C:\Users\Brett\Pictures\Icons\1.ico
+C:\Users\Brett\Pictures\Icons\2.ico
+C:\Users\Brett\Pictures\Icons\3.ico
+C:\Users\Brett\Pictures\Icons\4.ico
+C:\Users\Brett\Pictures\Icons\5.ico
+C:\Users\Brett\Pictures\Icons\6.ico
+C:\Users\Brett\Pictures\Icons\Icon\Folder Pictures.ico
+C:\Users\Brett\Pictures\Icons\Icon\Picture.ico
+C:\Users\Brett\Pictures\Icons\Icon\pic.ico
+C:\Users\Brett\Pictures\Folder Pictures.ico
+C:\Users\Brett\Pictures\pic.ico
+C:\Users\Brett\Pictures\Picture.ico
+C:\Users\Brett\Pictures\Icons\Icon\Photoshop-CS3 2.ico
+SetDefaultMouseSpeed, 0 ; Move the mouse instantly.
+SetKeyDelay, -1
+SetMouseDelay, -1
+SetDefaultMouseSpeed, 0 ; Move the mouse instantly.
+SetKeyDelay, -1
+SetMouseDelay, -1
+SetDefaultMouseSpeed, 0 ; Move the mouse instantly.
+C:\Users\Brett\Dropbox\Pics\Themes
+C:\Users\Brett\Dropbox\Icon
+C:\Users\Brett\Dropbox\SS
+C:\Users\Brett\Dropbox\JPG
+C:\Users\Brett\Dropbox\PNG
+https://java.com/en/download/
+C:\Users\Brett\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+www.ebay.com/itm/Microsoft-Windows-8-Genuine-Professional-64bit-x64-COA-License-Key-/291979787038
+http://www.ebay.com/itm/Microsoft-Windows-8-Genuine-Professional-64bit-x64-COA-License-Key-/291979787038
+www.ebay.com/itm/Microsoft-Windows-8-Pro-32-and-64-bit-1-PC-Key-/192062997388?hash=item2cb7d8c38c:g:A20AAOSw2xRYYdMv
+http://www.ebay.com/itm/Microsoft-Windows-8-Pro-32-and-64-bit-1-PC-Key-/192062997388?hash=item2cb7d8c38c:g:A20AAOSw2xRYYdMv
+www.ebay.com/itm/Microsoft-Windows-8-Pro-32-and-64-bit-1-PC-Key-/192062997388?hash=item2cb7d8c38c:g:A20AAOSw2xRYYdMv
+http://www.ebay.com/itm/Microsoft-Windows-8-Pro-32-and-64-bit-1-PC-Key-/192062997388?hash=item2cb7d8c38c:g:A20AAOSw2xRYYdMv
+www.ebay.com/itm/Microsoft-Windows-8-1-PROFESSIONAL-64Bit-OEM-FULL-VERSION-Engl-DVD-Product-Key-/192056079709?hash=item2cb76f355d:g:2KoAAOSwiDFYRFEA
+http://www.ebay.com/itm/Microsoft-Windows-8-1-PROFESSIONAL-64Bit-OEM-FULL-VERSION-Engl-DVD-Product-Key-/192056079709?hash=item2cb76f355d:g:2KoAAOSwiDFYRFEA
+Linda Gottfredson's dismantling of Gardner's doubletalk.?
+Linda Gottfredson's dismantling of Gardner's doubletalk.?
+SpecialFolders
+C:\Users\Brett\Desktop\Administrative Tools.lnk
+C:\Users\Brett\Desktop\Desktop.lnk
+C:\Users\Brett\Desktop\Downloads.lnk
+C:\Users\Brett\Desktop\History.lnk
+C:\Users\Brett\Desktop\My Pictures.lnk
+C:\Users\Brett\Desktop\My Video.lnk
+C:\Users\Brett\Desktop\NetHood.lnk
+C:\Users\Brett\Desktop\PrintHood.lnk
+C:\Users\Brett\Desktop\Profile Folder.lnk
+C:\Users\Brett\Desktop\Program Files x86.lnk
+C:\Users\Brett\Desktop\Program Files.lnk
+C:\Users\Brett\Desktop\Quick Launch.lnk
+C:\Users\Brett\Desktop\Recent.lnk
+C:\Users\Brett\Desktop\Send To.lnk
+C:\Users\Brett\Desktop\Start Menu.lnk
+C:\Users\Brett\Desktop\Startup.lnk
+C:\Users\Brett\Desktop\System Directory x86.lnk
+C:\Users\Brett\Desktop\System Directory.lnk
+C:\Users\Brett\Desktop\Temporary Folder.lnk
+C:\Users\Brett\Desktop\Temporary Internet Files.lnk
+C:\Users\Brett\Desktop\Windows Directory.lnk
+C:\Users\Brett\Documents\SpecialFolders
+http://www.ebay.com/itm/Microsoft-Windows-8-1-PRO-64-Bit-Full-English-Version-with-DVD-New-Sealed-/172463534049?hash=item2827a0afe1:g:IEYAAOSwcLxYHiuc
+	; IfIn|IfNotIn||IfIs|IfNotIs|IfContains|IfNotContains|InBetween|InNotBetween
+	else if(SubEvent.Operator = "contains")
+		return InStr(Compare, With) > 0
+	else if(SubEvent.Operator = "matches regular expression")
+		return RegexMatch(Compare, With) > 0
+	else if(SubEvent.Operator = "starts with")
+		return InStr(Compare, With) = 1
+	else if(SubEvent.Operator = "ends with")
+		return strEndsWith(Compare, With)
+"The situation of guns in chicago... the reason people get guns is because if somebody else has a gun, you need a gun.  So it's really something that's just a cycle."  ...
+86400
+"C:\Users\Brett\Downloads\Benjamin Netanyahu is Done with Obama and Kerry's BS Weasel Moves Against Israel.lnk"
+elapsed(prev,unit="Minutes"){
+	now:=a_now
+	envsub now,prev,% unit
+	if (unit="Seconds")
+	return formatseconds(now)
+	return now
+	}
+elapsed(
+elapsed(
+	envsub now,prev,% unit
+return DC
+	if (unit="Seconds")
+	return formatseconds(now)
+compare
+abs(DC)
+ Hours " Hours, " mmss "`n" Hours ":" mmass
+86400
+
+	Hours:=NumberOfSeconds//3600
+86400
+NumberOfSeconds
+Days:=NumberOfSeconds/86400
+Minutes
+"":Hours " Hours, " mmss "`n" Hours ":" mmass
+{"":Hours " Hours, " mmss "`n" Hours ":" mmass,Hours:Hours,Days:days,NumberOfSeconds:NumberOfSeconds,Minutes:Minutes}
+[""]
+ datecreated("C:\Users\Brett\Downloads\Benjamin Netanyahu is Done with Obama and Kerry's BS Weasel Moves Against Israel.lnk",A_now,"Seconds")[""]
+"The situation of guns in chicago... the reason people get guns is because if somebody else has a gun, you need a gun.  So it's really something that's just a cycle."  ...  LOL what?  he just got done saying how in the south everyone has a gun and don't have this kind of violence.  So are they getting a gun for self defense or just cuz "everybody else has one" or not?
+!GKS("Joy7")
+#If Winactive("Ahk_Exe sublime_text.exe")&&GKS("JoyZ")=50
+Joy3::GKS("Joy7")?send("^{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::GKS("Joy7")?send("^{Home}"):(Kwait()<200?send("{BackSpace}"):"")  ; Y Button; Joy4::GKS("Joy7")?send("^{Home}"):send("{BackSpace}")  ; Y Button
+#If Winactive("Ahk_Exe sublime_text.exe")&&GKS("JoyZ")=50
+Joy3::GKS("Joy7")?send("^{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::GKS("Joy7")?send("^{Home}"):(Kwait()<200?send("{BackSpace}"):"")  ; Y Button; Joy4::GKS("Joy7")?send("^{Home}"):send("{BackSpace}")  ; Y Button
+-J-Djava.net.preferIPv4Stack=true
+7	C:\Users\joe\AppData\Roaming\NetBeans\
+C:\Program Files\Java\jdk1.8.0_112
+-Djava.net.preferIPv4stack=true
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;%SystemRoot%\system32;%SystemRoot%;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin
+
+	else if var[""]
+	v:=var[""]
+org.word.editor.core
+org.word.editor.core
+https://svn.java.net/svn/nb-api-samples~api-samples
+
+
+Ip:="C:\Users\Brett\Documents")
+	; else,
+	if !instr(LCLIP,"`n") && instr(LCLIP,"youtu") AND RegExMatch(LCLIP, "^(?<Protocol>https?|ftp)://(?<Domain>(?:[\w-]+\.)+\w\w+)(?::(?<Port>\d+))?/?(?<Path>(?:[^:/?# ]*/?)
+
+C:\Users\Brett\AppData\Roaming\ClassicShell\Pinned\Restart - 8.lnk
+
+T(a "`n" strobj(win()) "`nA_Temp " A_temp "`nA_now=" a_now)
+
+	#if GKS("JoyZ")!=50&&!GKS("Joy7") ; &&winactive("ahk_exe chrome.exe"))
+	Joy3::Tab
+
+C:\Users\Brett\Videos
+
+${file}
+
+"%WinDir%\explorer.exe" /n,/e,${P}
+
+C:\Symenu
+
+if A_LoopFileAttrib contains H,R,S  ; Skip any file that is either H (Hidden), R (Read-only), or S (System). Note: No spaces in "H,R,S".
+    continue  ; Skip this file and
+
+A_LoopFileExt
+
+whatsnew
+
+C:\Users\Brett\Google Drive\freecell.exe
+C:\Users\Brett\Google Drive\cards.dll
+
+"%WinDir%\explorer.exe" /n,/e,${P}
+
+"%WinDir%\explorer.exe" /n,/e,${File}
+
+Free Porn, Sex, Tube Videos, XXX Pics, Pussy in Porno Movies -
+
+Bijou / daydreamcutie
+
+C:\Users\Brett\Dropbox\photo (4).jpg
+C:\Users\Brett\Dropbox\Cat.jpg
+C:\Users\Brett\Dropbox\cat4.jpg
+C:\Users\Brett\Dropbox\CRLvYeaUYAEtT9T.jpg
+C:\Users\Brett\Dropbox\FB_IMG_1451068666509.jpg
+C:\Users\Brett\Dropbox\images (1).jpg
+C:\Users\Brett\Dropbox\photo (1).jpg
+C:\Users\Brett\Dropbox\photo (2).jpg
+C:\Users\Brett\Dropbox\photo (3).jpg
+
+SKIN_DESCRIPTION
+
+Georgian
+
+Indonesian
+
+Vietnamese
+
+English
+
+Russian
+
+Slovenian
+
+Italian
+
+version
+
+appinfo
+
+Catalan(Spain)
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Spanish(Spain).ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Dutch(Nederlands).ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\German.ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Japanese.ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Korean.ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Slovak.ini
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\Languages\Chinese(Simplified).ini
+
+C:\Users\Brett\Google Drive\cards.dll
+
+Gersh Kuntzman
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\NirSof
+
+ WM_COPY := 0x301
+  996:         ,WM_CLEAR := 0x0303
+  997:         ,WM_CUT := 0x0300
+  998:         ,WM_PASTE := 0x0302
+
+		Placeholder := SubStr(Placeholder, 4+max(strLen(number), 1))
+		quote := InStr(Placeholder, "Q")
+		Filename := InStr(Placeholder, "NE")
+		FilenameNoExt := !Filename && InStr(Placeholder, "N")
+		Extension := !Filename && InStr(Placeholder, "E")
+		FilePath := InStr(Placeholder, "D")
+		NewLine := InStr(Placeholder, "M")
+
+	else if(Placeholder = "SelText")
+		return GetSelectedText()
+
+RegExMatch(Placeholder,"Sel\d+",number)
+
+SplitPath, file, name, path, ext, namenoext
+
+(file|name|path|ext|namenoext)
+
+CustomFilePath
+
+E:\AH\Exile.ahk
+
+${E:\AH\Exile.ahk.ext}
+
+${file}  `r`n ${file.ext}  ${${file}.name}
+
+${file} NNO= ${{File}.namenoext}  Ext= ${file.ext} Name=  ${${file}.name}
+
+{{File}.namenoext}  Ext= ${file.ext} Name=  ${${file}.name}
+
+${{File}.namenoext}  Ext= ${{file}.ext} Name=  ${${file}.name}
+
+namenoext
+
+ Name=  ${${file}.name}
+
+Name,Dir,Ext,NameNoExt,Drive
+
+CFilePath
+
+CFilePath1
+
+NameNoExt
+
+(%CFilePath2%)
+
+NNO|NameNoExt|
+
+(CFilePath3="NameNoExt")?NNO:
+
+www.hyperorg.com/misc/ConvertURLsToLinks.html
+
+www.warriorforum.com/search-engine-optimization/1061916-can-links-put-into-youtube-comments.html
+
+www.warriorforum.com/search-engine-optimization/1061916-can-links-put-into-youtube-comments.html
+
+http://www.warriorforum.com/search-engine-optimization/1061916-can-links-put-into-youtube-comments.html
+
+\\IBM-PC\Users\Public\Downloads
+
+C:\Users\Public\Downloads
+
+
+\\BRETT-PC\Users\Public\Downloads
+
+
+\\IBM-PC\Users\Public\Downloads
+
+\\BRETT-PC\Users\Public\Downloads
+
+
+\\IBM-PC\Users\IBM\Desktop
+
+
+MKlink /J \\IBM-PC\Users\IBM\Desktop\Brett_Symenu \\BRETT-PC\Users\Public\Downloads
+
+IBM-PC\Users\IBM\Desktop
+
+Brett_Symenu
+
+MKlink /J C:\Junc C:\TEMP
+
+cmd /K
+
+cmd /K MKlink /J \\IBM-PC\Users\IBM\Desktop\Brett_Symenu \\BRETT-PC\Users\Public\Downloads
+
+C:\Users\Brett\Downloads\freecell.exe
+C:\Users\Brett\Downloads\cards.dll
+
+C:\Users\Brett\Dropbox\Client\freecell.zip
+
+C:\Users\Public\Downloads
+\\BRETT-PC\Users\Public\Downloads
+
+
+Shell Menu
+shutdown
+$Menu.Shutdown
+$Menu.ShutdownTip
+shell32.dll,329
+
+restart
+$Menu.Restart
+$Menu.RestartTip
+%USERPROFILE%\Pictures\Icons\Hopstarter-Sleek-Xp-Software-Windows-Restart.ico
+
+C:\Users\Brett\Downloads\cards.zip
+
+C:\Users\Brett\Downloads\zipinst.exe
+
+C:\Users\Brett\Google Drive\freecell.exe
+
+C:\Users\Brett\Google Drive\freecell.zip
+
+FreeCell
+
+C:\Users\Brett\Google Drive\freecell.zip
+
+	if ID:=Winexist("A")
+	cmode("All","Screen"),screen:=mgp(),Move("x"(Screen.x>1800?1920:100) "y1 w1725 h985") ; ,cmode("Mouse")
+
+	if ID:=Winexist("A")
+	cmode("All","Screen"),screen:=mgp(),Move("x"(Screen.x>1800?1920:5) "y1 w1895 h985") ; ,cmode("Mouse")
+
+	WinWaitClose Tidy Sidebar
+
+	w:=win(p1),100,50,Move("x"(m.x<1919?250:2350) "y25")
+
+	w:=win(p1),100,50,Move("x"(m.x<1919?250:2350) "y25")
+
+	M:=MGP()
+
+ SetTitleMatchMode, regex
+
+; t(cmode("tooltip","Screen")) t(cmode("all","Client"))
+
+; t(cmode("tooltip","Screen")) t(cmode("all","Client"))
+
+\\IBM-PC\Users\IBM
+
+FOF_RENAMEONCOLLISION := 0x0008
+
+ ROBERTO D. HERNÁNDEZ
+
+
+"C:\Program Files\NetBeans 8.2\bin\netbeans64.exe"
+
+[%USERPROFILE%|$Env:UserProfile]\.netbeans\...\projectui.properties
+
+set _JAVA_OPTIONS=-Duser.home=%HOMEDRIVE%%HOMEPATH%
+
+C:\Users\Brett\Downloads\Installs\jdk-8u111-nb-8_2-windows-x64.exe
+
+.youtube.com
+
+*://www.facebook.com/plugins/*
+
+set _JAVA_OPTIONS=-Duser.home=%HOMEDRIVE%%HOMEPATH%
+
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;%SystemRoot%\system32;%SystemRoot%;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin
+
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;
+
+%SystemRoot%;
+
+%SystemRoot%;%SystemRoot%\system32;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86);C:\Program Files\TortoiseSVN\bin;C:\ProgramData\Oracle\Java\javapath
+
+%systemdrive%\Nirsoft\;C:\Program Files\Bandizip\7z
+
+Duser.home=%HOMEDRIVE%%HOMEPATH%
+
+-Duser.home=%HOMEDRIVE%%HOMEPATH%
+
+%systemdrive%\Nirsoft\;C:\Program Files\Bandizip\7z
+
+%SystemRoot%;%SystemRoot%\system32;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86);C:\Program Files\TortoiseSVN\bin;C:\ProgramData\Oracle\Java\javapath
+
+
+C:\Users\Brett\Downloads\freecell.zip
+
+C:\Users\Brett\AppData\Roaming\NetBeans.lnk
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\WSUS_Offline_Update_sps
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\FastStone_Image_Viewer_sps
+
+Lexi luna
+
+Hope Harper
+
+src/gz chaos_calmer_base http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/base
+src/gz chaos_calmer_luci http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/luci
+src/gz chaos_calmer_management http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/management
+src/gz chaos_calmer_packages http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/packages
+src/gz chaos_calmer_routing http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/routing
+src/gz chaos_calmer_telephony http://downloads.openwrt.org/chaos_calmer/15.05.1/ar71xx/generic/packages/telephony
+
+
+dest root /
+dest ram /tmp
+lists_dir ext /var/opkg-lists
+option overlay_root /overlay
+option check_signature 1
+
+
+192.168.1.191
+
+192.168.1.235
+
+192.168.1.229
+
+root@openwrt.lan
+
+openwrt.lan
+
+opkg upgrade luci-lib-ip luci-theme-bootstrap luci-app-firewall luci-proto-ppp luci-mod-admin-full luci-base luci-proto-ipv6 luci-lib-nixio luci
+
+/etc/init.d/uhttpd start
+
+opkg list | grep luci-i18n-
+
+opkg install luci-ssl # enable https for luci
+
+pkg install luci-ssl
+
+opkg update && opkg list luci-*
+
+/etc/init.d/uhttpd start
+
+?http://wiki.openwrt.org/doc/howto/generic.failsafe
+
+uci get network.lan.ipaddr
+
+root@OpenWrt:/lib/config# uci
+
+uci set uhttpd.main.listen_http=8080
+
+uci commit uhttpd
+
+/etc/init.d/uhttpd restart
+
+uci show httpd
+
+uci get httpd.@httpd[0].port
+
+uci -P/var/state show network.wan
+
+uci set wireless.@wifi-device[0].disabled=0
+
+uci set wireless.@wifi-iface[0].ssid=OpenWrt0815
+
+uci commit wireless
+
+/etc/init.d/uhttpd start
+
+mkdir -p /tmp/luci-offline-packages
+
+opkg install /tmp/luci-offline-packages/*.ipk
+
+opkg list-changed-conffiles
+
+rm -r /tmp/opkg-lists/
+
+ tar xzvf -C / /path/to/your/backup-xxx.tar.gz
+
+C:\Users\Brett\Downloads\backup-OpenWrt-2017-01-02.tar.gz
+
+
+tar xzvf -C / /
+
+tar xzvf -C / C:\Users\Brett\Downloads\backup-OpenWrt-2017-01-02.tar.gz
+
+tar xzvf -C /C:/Users/Brett/Downloads/backup-OpenWrt-2017-01-02.tar.gz
+
+tar xzvf -C C:\Users\Brett\Downloads\backup-OpenWrt-2017-01-02.tar.gz
+
+vi /etc/sysupgrade.conf
+
+tar xzvf -C C:\Users\Brett\Downloads\backup-OpenWrt-2017-01-02.tar.gz
+
+kernel.panic=3
+net.ipv4.conf.default.arp_ignore=1
+net.ipv4.conf.all.arp_ignore=1
+net.ipv4.ip_forward=1
+net.ipv4.icmp_echo_ignore_broadcasts=1
+net.ipv4.icmp_ignore_bogus_error_responses=1
+net.ipv4.tcp_ecn=0
+net.ipv4.tcp_fin_timeout=30
+net.ipv4.tcp_keepalive_time=120
+net.ipv4.tcp_syncookies=1
+net.ipv4.tcp_timestamps=0
+net.core.netdev_max_backlog=30
+net.netfilter.nf_conntrack_checksum=0
+net.ipv4.netfilter.ip_conntrack_checksum=0
+net.ipv4.netfilter.ip_conntrack_max=16384
+net.ipv4.netfilter.ip_conntrack_tcp_timeout_established=3600
+net.ipv4.netfilter.ip_conntrack_udp_timeout=60
+net.ipv4.netfilter.ip_conntrack_udp_timeout_stream=180
+net.ipv6.conf.all.forwarding=1
+
+# disable bridge firewalling by default
+net.bridge.bridge-nf-call-arptables=0
+net.bridge.bridge-nf-call-ip6tables=0
+net.bridge.bridge-nf-call-iptables=0
+
+uci set wireless.@wifi-device[0].disabled=0
+
+uci set wireless.@wifi-iface[0].ssid=OpenWrt0815
+
+uci commit wireless
+
+exit 0
+
+uci get network.lan.ipaddr
+
+/etc/init.d/network restart
+
+openwrt-15.05.1-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade
+
+cd /tmp
+wget
+
+cd /tmp
+wget openwrt-15.05.1-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade
+
+http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/openwrt-15.05-ar71xx-generic-tl-wr1043nd-v1-squashfs-sysupgrade.bin
+
+http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/
+
+cd /tmp
+wget http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/openwrt-15.05.1-ar71xx-generic-archer-c7-v2-squashfs-sysupgrade
+
+opkg install diffutils
+
+root@OpenWrt:/# grep ipaddr /etc/config/network
+
+opkg install uhttpd-mod-lua luci-sgi-uhttpd
+
+uci get network.lan.ipaddr
+
+uci show network.wan
+
+ uci commit uhttpd
+
+/etc/init.d/uhttpd restart
+
+uci delete system.ntp.server
+uci add_list system.ntp.server='0.de.pool.ntp.org'
+uci add_list system.ntp.server='1.de.pool.ntp.org'
+uci add_list system.ntp.server='2.de.pool.ntp.org'
+
+
+uci -P/var/state show network.wan
+
+uci -P/var/state get network.wan.ifname
+
+ uci get wireless.@wifi-iface[-1].ssid
+
+network.wan.proto=dhcp
+network.wan.defaultroute=0
+network.wan.peerdns=0
+network.wan.device=eth0.1
+
+network.wan.broadcast=255.255.255.255
+
+network.wan.netmask=255.255.255.0
+
+uci commit network
+
+uci set wireless.@wifi-device[0].disabled=0
+
+uci set wireless.@wifi-iface[0].ssid=OpenWrt0815
+
+uci commit wireless
+
+make package/luci/clean
+
+opkg update
+
+opkg list | grep luci-i18n-
+
+opkg list | grep luci-i18n-
+
+/etc/init.d/uhttpd start
+
+ /etc/init.d/uhttpd enable
+
+   /etc/init.d/uhttpd start
+
+/etc/init.d/uhttpd restart
+
+wget http://downloads.openwrt.org/chaos_calmer/15.05/ar71xx/generic/md5sums
+
+tplinklogin.net
+
+http://tplinklogin.net/
+
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/BestMemoriesOf2016?src=hash">#BestMemoriesOf2016</a><br><br>Election Night! <a href="https://twitter.com/hashtag/MAGA?src=hash">#MAGA</a> <a href="https://t.co/pK0jyvTOOy">pic.twitter.com/pK0jyvTOOy</a></p>&mdash; Team Trump 45™ (@Team_Trump45) <a href="https://twitter.com/Team_Trump45/status/815718719313903618">January 2, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://youtu.be/os_o8JRZkCY
+
+https://www.youtube.com/watch?v=0LdK759vmmg
+
+https://youtu.be/OFQQALduhzA
+
+C:\Users\Brett\Downloads\0-0-0-02.jpg
+C:\Users\Brett\Downloads\7e746c34-9ada-4807-949e-76d79ba9e769.jpg
+C:\Users\Brett\Downloads\C1b0wyhVQAAmTCr.jpg
+C:\Users\Brett\Downloads\C1bLWRqWQAA_o81.jpg
+C:\Users\Brett\Downloads\C1d7OkiUcAMk_XM.jpg
+C:\Users\Brett\Downloads\C1dPeWTXEAAnHhu.jpg
+C:\Users\Brett\Downloads\C1dsjDZUQAAs3d0.jpg
+C:\Users\Brett\Downloads\C1NXD6DWEAANJ1f.jpg
+C:\Users\Brett\Downloads\C1WsvV7VQAA_J3W.jpg
+C:\Users\Brett\Downloads\C1Y4xfRUUAAXqpU.jpg
+C:\Users\Brett\Downloads\C1YjVOmXUAADDoX.jpg
+C:\Users\Brett\Downloads\C1YK2KBVQAE92_B.jpg
+C:\Users\Brett\Downloads\photo (1).jpg
+C:\Users\Brett\Downloads\photo (2).jpg
+C:\Users\Brett\Downloads\photo.jpg
+C:\Users\Brett\Downloads\VMLeyLVr_bigger.jpg
+
+pcs damage control
+
+Barry Gilbey - Robins Theme?
+
+https://www.youtube.com/watch?v=6GmhcSGFMag&list=WL&index=46
+
+ take Muslims on helicopter rides and throw them out
+
+lazjonsucks@yahoo.com
+
+FaustianBurgle
+
+lazjonsucks@yahoo.com
+
+FaustianBurgle
+
+|Lan_Afrikaans.ini
+|Lan_Arabic.ini
+|Lan_BrazilianPortuguese.ini
+|Lan_Bulgarian.ini
+|Lan_Catalan.ini
+|Lan_Chinese.ini
+|Lan_Czech.ini
+|Lan_English.ini
+|Lan_French.ini
+|Lan_Hrvatski.ini
+|Lan_Hungary.ini
+|Lan_Italian.ini
+|Lan_Japanese.ini
+|Lan_Korean.ini
+|Lan_Lithuanian.ini
+|Lan_Malay.ini
+|Lan_Nederlands.ini
+|Lan_Norwegian.ini
+|Lan_Polish.ini
+|Lan_PortuguesePT.ini
+|Lan_Romanian.ini
+|Lan_Russian.ini
+|Lan_Serbian.ini
+|Lan_Spanish.ini
+|Lan_Svenska.ini
+|Lan_TraditionalChinese.ini
+|Lan_Turkish.ini
+
+
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;%SystemRoot%\system32;%SystemRoot%;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin
+
+t="%A_ProgramFiles%\SyMenu" C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+; C:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+%systemdrive%\Nirsoft\;C:\Program Files\Bandizip\7z
+
+%SystemRoot%;%SystemRoot%\system32;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86);C:\Program Files\TortoiseSVN\bin;C:\ProgramData\Oracle\Java\javapath
+
+C:\ProgramData\Oracle\Java\javapath;%CommonProgramFiles%\Microsoft Shared\;%SystemRoot%\system32;%SystemRoot%;C:\Windows\system32;C:\Windows\System32\Wbem;C:\Python35\;C:\Python27\;%ProgramFiles%;%ProgramW6432%;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\TortoiseSVN\bin
+
+%USERPROFILE%\AppData\Roaming\NetBeans\7.2\var
+
+MOM BDAY=10.09.55
+
+%ALLUSERSPROFILE%	C:\ProgramData
+%APPDATA%	C:\Users\username\AppData\Roaming
+%LOCALAPPDATA%	C:\Users\username\AppData\Local
+%ProgramData%	C:\ProgramData
+%ProgramFiles%	C:\Program Files
+%ProgramFiles(x86)%	C:\Program Files (x86)
+%PUBLIC%	C:\Users\Public
+%SystemDrive%	C:
+%USERPROFILE%	C:\Users\username
+%windir%	C:\Windows
+
+%SystemRoot%\Explorer.exe /separate,/idlist,%I,%L
+
+https://en.wikipedia.org/wiki/Al_Sharpton#Comments_on_gay_and_lesbian_people
+
+Amy Schumer looked amazing tonight. #GoldenGlobes
+
+ /watch?v=DC0faZiBcG0?
+
+ Foolish Words : The Most Stupid Words Ever Spoken
+
+The Forward (December 1995)
+
+\R[^(Global)]:=[^\R]+?\R
+
+[^(Global)]
+
+\R\K[^\R]+?:=[^\R]*?\R[^(Global)]
+
+(?=WIN_7)
+
+\K.*(?=WIN_7)
+
+(?=WIN_7)
+
+(!WindowList)
+
+#80FFFF
+
+				<string>#00FF80</string>
+
+#80FFFF
+
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\Packages\User\AutoHotkey.sublime-settings
+
+"extensions":["ahk,txt,ini,text"]
+
+Plain text.sublime-settings
+
+"extensions":["ahk,*.txt,*.ini,text"]
+
+ IniWrite,% r(r(strobj(Obj),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+filegettime(name,"C")]
+
+filegettime(name,"C")]
+
+O:={}, CO[T:=filegettime(name,"C")]:=C
+
+  IniWrite,% r(r(strobj(CO),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+  IniWrite,% r(r(strobj(CO),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+r(r(strobj(CO),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T?T:"FAIL"
+
+r(r(strobj(CO),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T?T:"FAIL"
+
+  IniWrite,% r(co,"`n\W\s?`n","hi"),Download.ini,% T?T:"FAIL"
+
+    IniWrite,% r(co,"`n\W\s?`n","hi"),Download.ini,% T?T++:"FAIL"
+
+(\n|\R|`n)
+
+!regexmatch(name,"\.(crdownload|tmp|temp)")
+
+    IniWrite,% r(co,"^-\s*"),Download.ini,% T?++T:"FAIL"
+
+"^-\s+"
+
+RemoveEmptyDash(v)
+
+"^-\s*`n"
+
+r(co,"^-\s*`n"),Download.ini,% T?T++:"FAIL"
+
+      IW("",r(co,"^-\s*`n"),"Download.ini",T?T++:"FAIL")
+
+            IW("",r(co,"^-\s*`n"),"Download.ini",T?T++:"FAIL")
+
+iniwrite(Value,Filename="iniwrite.ini",section="",Key=""){
+	IniWrite, Value, Filename, Section, Key
+}
+
+IniWrite, Pairs, Filename, Section
+
+	IniWrite,% value,% Filename,% Section
+
+		IniWrite,% RemoveEmptyDash(co),Download.ini,% T?T++:"FAIL"
+
+IR(Section="ML",Key="",Filename="ini.ini",Def=""){
+	IniRead, Out, %Filename%, %Section%, %Key%, %Def%
+	return Out
+	}
+IW(K="",V="",Section="",Filename="ini.ini"){
+	IniWrite, %V%, %Filename%, %Section%, %K%
+	}
+
+IR(Section="ML",Key="",Filename="ini.ini",Def=""){
+	IniRead, Out, %Filename%, %Section%, %Key%, %Def%
+	return Out
+	}
+IW(K="",V="",Section="",Filename="ini.ini"){
+	IniWrite, %V%, %Filename%, %Section%, %K%
+	}
+ini(var,section,filename="ini.ini"){
+	IniWrite, %var%,% filename,% section ; IniRead, var,% filename,% section ; IniWrite, %var%,% filename,% section
+	return var
+	}
+
+iniwrite(Value,Filename="iniwrite.ini",section="",Key=""){
+	; if !key
+		; IniWrite,% value,% Filename,% Section
+		; else
+	IniWrite,% Value,% Filename,% Section,% Key
+}
+
+		IniWrite(r(co,"^-\s*`n"),"Download.ini",T?T++:"FAIL")
+
+		IniWrite(r(co,"^-\s*`n"),"Download.ini",T?T++:"FAIL")
+
+RemoveEmptyDash(co)
+
+Section "`n" value
+
+StrObj.Indent := "  "
+
+StrObj.Indent := " "
+
+	static Indent := " "
+
+RemoveEmptyDash(v){
+	if isobject(v)
+	v:=strobj(v)
+	return r(v,"^-\s*`n")
+}
+
+ ; O[Obj[Time]:=filegettime(name,"C")]:=OBJ
+
+C:\Users\Brett\Downloads\session_buddy_export_2017_01_10_01_13_10.txt
+C:\Users\Brett\Downloads\session_buddy_export_2017_01_10_01_13_22.json
+C:\Users\Brett\Downloads\session_buddy_export_2017_01_10_01_13_17.md
+C:\Users\Brett\Downloads\session_buddy_export_2017_01_10_01_13_15.csv
+
+session_buddy_export_
+
+ t(FileMove(Name,A_MyDocuments "\HTML",1))
+
+ t(FileMove(Name,A_MyDocuments "\HTML",1))
+
+C:\Users\Brett\Documents\Txt\session_buddy_export_2017_01_10_01_13_22.json
+C:\Users\Brett\Documents\Txt\session_buddy_export_2017_01_10_01_13_17.md
+C:\Users\Brett\Documents\Txt\session_buddy_export_2017_01_10_01_13_15.csv
+C:\Users\Brett\Documents\Txt\session_buddy_export_2017_01_10_01_13_10.txt
+C:\Users\Brett\Documents\Txt\session_buddy_export_2016_12_12_04_48_54.txt
+C:\Users\Brett\Documents\Txt\session_buddy_backup_2016_12_12_04_48_44.json
+
+	static EscapedIndent := "``t"			; when converting object to string
+
+a_space
+
+a_space
+
+rica verga
+
+Angel Smalls
+
+%USERPROFILE%
+
+    "rulers": [],
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\Packages\Default\Preferences.sublime-settings
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\Packages\Default\Preferences.sublime-settings
+
+
+    "rulers": [],
+
+    "show_definitions": true,
+
+    "tab_completion": true,
+
+    "auto_complete_commit_on_tab": false,
+
+    "find_selected_text": true,
+
+    // When auto_find_in_selection is enabled, the "Find in Selection" flag
+    // will be enabled automatically when multiple lines of text are selected
+    "auto_find_in_selection": false,
+
+HConnector1
+
+WordTimer
+
+HConnector1
+
+t(A_TimeIdle)
+
+t(A_TimeIdle)
+
+SetTimer, %A_ThisLabel%, 5000
+
+SetTimer, %A_ThisLabel%, 5000
+
+WordTimer:
+if !WinActive("WordPad")
+{
+	ST("",1000)
+; SetTimer, %A_ThisLabel%, 1000
+Return
+}
+
+t(A_TimeIdle)
+st("",5000)
+; SetTimer, %A_ThisLabel%, 5000
+return
+
+t(A_TimeIdle),st("",5000)
+
+	ST("",1000)
+
+; {
+; 	ST("",1000)
+; ; SetTimer, %A_ThisLabel%, 1000
+; Return
+; }
+
+; t(A_TimeIdle),st("",5000)
+; ; SetTimer, %A_ThisLabel%, 5000
+; return
+; WordTimer:
+; if !WinActive("WordPad")
+; {
+; 	ST("",1000)
+; ; SetTimer, %A_ThisLabel%, 1000
+; Return
+; }
+
+; t(A_TimeIdle)
+; st("",5000)
+; ; SetTimer, %A_ThisLabel%, 5000
+; return
+
+; {
+; 	ST("",1000)
+; ; SetTimer, %A_ThisLabel%, 1000
+; Return
+; }
+
+; t(A_TimeIdle),st("",5000)
+; ; SetTimer, %A_ThisLabel%, 5000
+; return
+; WordTimer:
+; if !WinActive("WordPad")
+; {
+; 	ST("",1000)
+; ; SetTimer, %A_ThisLabel%, 1000
+; Return
+; }
+
+; t(A_TimeIdle)
+; st("",5000)
+; ; SetTimer, %A_ThisLabel%, 5000
+; return
+
+a "`n" el
+
+a "`n" el
+
+	VTT:="A_TimeSinceThisHotkey = " A_TimeSinceThisHotkey "`nA_TimeSincePriorHotkey = " A_TimeSincePriorHotkey "`nA_ThisHotkey = " A_ThisHotkey "`nA_PriorHotkey = " A_PriorHotkey "`nkey = " key "`nA_PriorKey = " A_PriorKey "`nA_TimeIdlePhysical = " A_TimeIdlePhysical "`nA_TimeIdle = " A_TimeIdle
+
+	VTT:="A_TimeSinceThisHotkey = " A_TimeSinceThisHotkey "`nA_TimeSincePriorHotkey = " A_TimeSincePriorHotkey "`nA_ThisHotkey = " A_ThisHotkey "`nA_PriorHotkey = " A_PriorHotkey "`nkey = " key "`nA_PriorKey = " A_PriorKey "`nA_TimeIdlePhysical = " A_TimeIdlePhysical "`nA_TimeIdle = " A_TimeIdle
+
+A_LineNumber
+
+A_LineNumber
+
+if(K="Last")&&(P="Store")
+
+if(K="Last")&&
+
+"A_now "
+
+if(K="Last")&&(P="Store")
+
+Last:={}
+
+	return StrLen(K)
+
+Last:=HK()
+
+"HK"]:=HK()
+
+	; failed.=(LL?LL:"") "Get_Prop( " K "," P ")`n"
+
+if(K="Last")&&(P="Store")
+
+T(last.store)
+
+T(last.store)
+
+,q()
+
+,q()
+
+C:\Users\Brett\Downloads\New folder\My Profile -Massachusetts State Health Connector-Individual & Families_files
+C:\Users\Brett\Downloads\New folder\My Profile -Massachusetts State Health Connector-Individual & Families.htm
+
+ essa loira
+
+Carly Rae
+
+C:\Users\Brett\Pictures\Icons\ICO\C0LABHzUcAAacPX.ico
+
+C:\Users\Brett\Documents\C1rNJk7WgAEFHbw.jpg
+
+7:38 AM 1-11-17
+
+C:\Users\Brett\Documents\C1rNJk7WgAEFHbw.jpg
+
+try delete(A_WorkingDir "\txt\test.txt","D"),delete("testf.txt","D"),delete("Strobj LV.txt","D")
+
+; ,q(),q("END")
+
+POVADD:="",MWADD:=""
+
+SetTimer, Joy_Trigger_Watch, 60 ; Zwatch
+
+${GKS Joyz}
+
+;Returns the workspace area covered by the active monitor
+GetActiveMonitorWorkspaceArea(ByRef MonLeft, ByRef MonTop, ByRef MonW, ByRef MonH,hWndOrMouseX, MouseY = "")
+{
+	mon:=GetActiveMonitor(hWndOrMouseX, MouseY)
+	if(mon>=0)
+	{
+		SysGet, Mon, MonitorWorkArea, %mon%
+		MonW:=MonRight - MonLeft
+		MonH:=MonBottom - MonTop
+	}
+}
+
+GetActiveMonitorWorkspaceArea(ByRef MonLeft, ByRef MonTop, ByRef MonW, ByRef MonH,hWndOrMouseX, MouseY = "")
+
+Chrome_WidgetWin_1
+
+isFullScreen := isWindowFullScreen( "A" )
+MsgBox % isFullScreen ? "Full Screen" : "Windowed"
+Return
+
+isWindowFullScreen( winTitle ) {
+	;checks if the specified window is full screen
+
+	winID := WinExist( winTitle )
+
+	If ( !winID )
+		Return false
+
+	WinGet style, Style, ahk_id %WinID%
+	WinGetPos ,,,winW,winH, %winTitle%
+	; 0x800000 is WS_BORDER.
+	; 0x20000000 is WS_MINIMIZE.
+	; no border and not minimized
+	Return ((style & 0x20800000) or winH < A_ScreenHeight or winW < A_ScreenWidth) ? false : true
+}
+
+isFullScreen := isWindowFullScreen( "A" )
+MsgBox % isFullScreen ? "Full Screen" : "Windowed"
+Return
+
+isWindowFullScreen( winTitle ) {
+	;checks if the specified window is full screen
+
+	winID := WinExist( winTitle )
+
+	If ( !winID )
+		Return false
+
+	WinGet style, Style, ahk_id %WinID%
+	WinGetPos ,,,winW,winH, %winTitle%
+	; 0x800000 is WS_BORDER.
+	; 0x20000000 is WS_MINIMIZE.
+	; no border and not minimized
+	Return ((style & 0x20800000) or winH < A_ScreenHeight or winW < A_ScreenWidth) ? false : true
+}
+
+WE:=func("winexist")
+
+P="Exile",100,100,2,2000
+
+P="Exile",100,100,2,2000
+
+P="Exile",100,100,2,2000
+
+FuncN.(SS(P)*)
+
+NNO=${${File}.namenoext}  Ext= ${${file}.ext}
+
+(*UCP)
+
+\p{xx}
+
+(foo)\Kbar
+
+; t(elapsed(FileGetTime(A_ScriptDir "\ENV.txt"),"Seconds"))
+
+v:=fileread("clip.txt")
+sort, v,  U
+append(v,"clip-sort.txt")
+v:=""
+
+P=Exile,100,100,2,2000
+
+WE:=func("T").bind(SS(P)*)
+
+; loop files, C:\Symenu\*.*,RF
+; {
+; 	if A_LoopFileAttrib contains H,R,S  ; Skip any file that is either H (Hidden), R (Read-only), or S (System). Note: No spaces in "H,R,S".
+;     continue  ; Skip this file and
+
+; A_LoopFileExt
+; }
+
+; SetTimer, %A_ThisLabel%, 1000
+
+; t(isdoubleclick()?"hi":"no")
+
+==========
+
+==========
+
+C:\Users\Brett\Downloads\packjpg.zip
+C:\Users\Brett\Downloads\pngout.zip
+C:\Users\Brett\Downloads\id3.zip
+C:\Users\Brett\Downloads\archive.zip
+C:\Users\Brett\Downloads\upload.zip
+C:\Users\Brett\Downloads\zip.zip
+C:\Users\Brett\Downloads\paint.zip
+C:\Users\Brett\Downloads\PluginsSDK-win.zip
+
+Alex Tanner.
+
+Chola
+
+ashley alban
+
+Alex Blake
+
+Alex Blake
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+
+CYCLOBENZAPRINE HYDROCHLORIDE
+
+order CYCLOBENZAPRINE HYDROCHLORIDE
+
+C:\Users\Brett\Documents\C1-5vHIUsAAlBK7.jpg
+
+	,	Move("x" m.x "y" m.y)
+
+Thomas J. Sugrue
+
+Minnesotaboyy
+
+www.telegraph.co.uk/news/2017/01/08/universities-warned-snowflake-student-demands/
+
+http://www.telegraph.co.uk/news/2017/01/08/universities-warned-snowflake-student-demands/
+
+https://www.youtube.com/watch?v=ZzO4s-1xDrA&list=WL&index=80
+
+Default Programs Editor 01-15-2017 05
+
+https://www.youtube.com/watch?v=ZzO4s-1xDrA&list=WL&index=80
+
+A contrarian swims against the current. A radical tries to drown everyone in the pool.?
+
+ National Socialist German Workers' Party
+
+MM-dd-yyyy hh
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Recent
+
+^(?:(?!Andrea).)*$
+
+^(.(?!(some text)))*$
+
+String with some text inside"
+
+some text
+
+APPDATA=C:\Users\Brett\AppData\Roaming
+
+Microsoft\Windows\Recent
+
+if InStr(FileExist("C:\My Folder"), "D")
+
+File
+
+C:\Users\Brett\Videos\END THE FED-Glenn Beck got fired 10 min after this live show  share with friends.mp4
+
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Recent\sysupgrade.conf.lnk
+
+"C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Recent\WinHTTrack Website.lnk"
+
+Isfolder("C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Recent\WinHTTrack Website.lnk")
+
+Recent=A_AppData\Microsoft\Windows\Recent
+
+Recent=A_AppData\Microsoft\Windows\Recent
+
+C:\WinHTTrack Website
+
+
+SS(P)*
+
+%WE%()
+
+; %WE%()
+
+Exile,100,100,2,2000
+
+"Exile,100,100,2,2000"
+
+T(SS("Exile,100,100,2,2000")*)
+
+; T(SS("Exile,100,100,2,2000")*)
+
+"C:\Users\Brett\Downloads"
+
+WatchFolder
+
+WatchFolderFunc
+
+; stats(timer="",v=""){
+; 	global t2
+; 	for k,v in ["Screen","Window","Client"]
+; 	sep:=(v="Client"?"     ":v="Screen"?"    ":" "),cmode("all",v),n:=mgp(),mm.=v " : " sep N.X ", " N.Y (A_CaretX?" A_CaretX : " (A_CaretX):"")(A_CaretY?" A_CaretY  : " A_CaretY:"") "`n"
+; 	cmode("all","Screen"),to(instr(t2,"-")?"":win().list "`n" mm)
+; 	}
+
+Lawrence Crosby
+
+Eligibility RefID: RefID_1420480510291
+
+Eligibility Id	Received Date	Submitted Date	Status	Actions
+717670012		01/10/2017	Submitted
+
+717670012
+
+Allan
+
+Allan
+
+RefID_1419379982773
+
+http://www.nirsoft.net/utils/nirext.zip
+
+http://www.nirsoft.net/utils/nirext.zip
+
+guipropview 01-15-2017 02
+
+http://www.nirsoft.net/utils/nirext.zip
+
+guipropview 01-15-2017 02
+
+http://www.nirsoft.net/utils/nirext.zip
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Recent
+
+NirSoft
+
+\d,\d,\d,
+
+(\d,\d,)\d,
+
+(\d+,\d+,)\d+,
+
+H:\7976v1G\E7976IMS.1G0
+H:\7976v1G\7976v1x.txt
+
+H:\7976v1H\E7976IMS.1H0
+H:\7976v1H\7976v1x.txt
+
+CPU locked at 800 Mhz - MSI Z170A GAMING M7 - i5 6600K
+
+Al suite
+
+3,6,9,12,15,18,21,24,27,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72,75,78,81,84,87,90,93,96,99,102,105,108,111,114,117,120,123,126,129,132,135,138,141,144,147,150,153,156,159,162,165,168,171,174,177,180,183,186,189,192,195,198,201,204,207,210,213,216,219,222,225,228,231,234,237,240,243,246,249,252,255,258,261,264,267,270,273,276,279,282,285,288,291,294,297,300,303,306,309,312,315,318,321,324,327,330,333,336,339,342,345,348,351,354,357,360,363,366,369,372,375,378,381,384,387,390,393,396,399,402,405,408,411,414,417,420,423,426,429,432,435,438,441,444,447,450,453,456
+
+\d+,\d+,(\d+,)
+
+${GKS JoyPOV}
+
+22500|2700|31500
+
+22500|27000|31500
+
+4500||POV=9000||POV=13500
+
+0|4500||31500
+
+Between|NotBetween
+
+IfContains|IfNotContains|
+
+	else if(SubEvent.Operator = "IfIn")
+	Return IfIn(Compare,With)
+
+		else if(SubEvent.Operator = "IfIn")
+	Return IfIn(Compare,With)
+
+IfIsNot
+
+strsplit(With,",")*
+
+	Return IfIn(Compare,With)
+
+	strsplit(With,",")*
+
+13500
+
+			static HideSlideWindows 					:= 1
+			static BorderActivationRequiresMouseUp 		:= false
+			static LimitToOnePerSide 					:= false
+			static BorderSize 							:= 15
+			static ModifierKey 							:= "Control"
+
+BorderActivationRequiresMouseUp=0
+BorderSize=30
+
+HideSlideWindows:=1
+BorderActivationRequiresMouseUp 		:= false
+LimitToOnePerSide 					:= false
+BorderSize 							:= 15
+ModifierKey 							:= "Control"
+
+BorderActivationRequiresMouseUp
+
+SlideWindowRequireMouseUp
+
+		; Settings.Windows.SlideWindows.chkBorderActivationRequiresMouseUp
+
+		Page.chkBorderActivationRequiresMouseUp.Checked:=false
+		Settings.Windows.SlideWindows.chkBorderActivationRequiresMouseUp
+
+1: 		Page.chkBorderActivationRequiresMouseUp.Checked:=(Settings.Windows.SlideWindows.chkBorderActivationRequiresMouseUp=0?false:1)
+
+C:\Users\Brett\Downloads\Affidavit for MA  Residency
+
+C:\Users\Brett\Downloads\Affidavit for MA  Residency.docx
+C:\Users\Brett\Downloads\DocumentImage.png
+C:\Users\Brett\Downloads\Affidavit for MA  Residency
+
+#if GKS("JoyPOV")=-1
+Joy8::GKS("JOY7")?(winflip(),exit()):(Kwait()<200?send("{Enter}"):(Kwait()>1000?Exitapp("full",0):""))
+
+ ; send d ;Y
+
+ ; send d ;Y
+
+virtualright
+
+VirtualWidth
+
+VirtualWidth:=1920
+
+		else if(x = VirtualLeft + VirtualWidth - 1)
+			dir = 3
+
+yutan
+
+Cali Hayes
+
+Dawn Willow
+
+Alisa Ford
+
+E:\Anime\[bonkai77] Steins;Gate + OVA [1080p] [DUAL-AUDIO] [HEVC] [10bit]
+
+E:\TV\1984 (1984) [1080p]
+
+E:\Anime\[bonkai77] Steins;Gate + OVA [1080p] [DUAL-AUDIO] [HEVC] [10bit]
+
+/emma-starr
+
+mgZ6nDUJTIU
+
+https://www.youtube.com/watch?v=mgZ6nDUJTIU
+
+site:youtube
+
+https://www.youtube.com/playlist?list=PL6qjZoa0G2rA9DE_bp7o-s-Qcv15dmH84&jct=rXk-i353FEToCBfH26UN9CeW5MjQFA
+
+been making a playlist of videos I'd think you like.
+
+Youtube Playlist - Dad
+
+
+
+C:\Users\Brett\Downloads\Freecell.zip
+
+https://www.theguardian.com/us-news/2017/jan/12/intelligence-sources-vouch-credibility-donald-trump-russia-dossier-author
+
+https://www.documentcloud.org/documents/3259984-Trump-Intelligence-Allegations.html
+
+C:\Users\Brett\Pictures\JPG\photo (4).jpg
+
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+C:\Users\Brett\Pictures\JPG\Orb.jpg
+
+
+https://youtu.be/_MBWLk85WvQ?list=PL6qjZoa0G2rA2XTPPfwjMpcAywLVXI5x1
+
+https://www.theguardian.com/media/2017/jan/10/buzzfeed-publishes-donald-trump-russia-documents-ethics-questions
+
+#INCLUDE <Functions>
+
+Clamp(value, min, max)
+{
+	if(value < min)
+		value:=min
+	else if(value > max)
+		value:=max
+	return value
+}
+
+Clamp(value, min, max)
+{
+	if(value < min)
+		value:=min
+	else if(value > max)
+		value:=max
+	return value
+}
+
+	m.x:=210,
+
+		m.x:=clamp(m.x,50,1920)
+
+		m.x:=clamp(m.x,50,1920)
+
+	A_CoordModeMouse
+
+MGP(ByRef X="",ByRef Y="",ByRef ID="",ByRef control="",Mode=0){
+	; A_CoordModeMouse
+CoordMode, Mouse, Screen
+	MouseGetPos,X,Y ; MouseGetPos,X,Y,ID,control,%Mode%
+	MouseGetPos,,,ID,control
+	RETURN {X:X,Y:Y,ID:ID,control:control,MODE:MODE,A_CaretX:A_CaretX,A_CaretY:A_CaretY,	A_CoordModeMouse:	A_CoordModeMouse}
+	}
+
+MouseGetPos, X, Y
+
+		return t(MO)
+
+	t([win,M,MO])
+
+	M.x:=abs(M.x-=win.W)
+
+winflip(p1="A"){
+	if Win:=win(P1){
+
+	MO:=M:=MGP()
+			; return t(MO)
+	if (Win.H+m.y>998)
+		M.y:=abs(M.x-=win.H)
+	m.y-=Win.H
+	; m.x:=210,
+	if m.x>1920
+	{
+	if m.x+win.H>3800
+	M.x:=abs(M.x-=win.W)
+	m.x:=clamp(m.x,1925,3800)
+}
+	else,
+	m.x:=clamp(m.x,50,1920)
+	m.y:=clamp(m.y,100,985)
+		t([win,M,MO])
+		t(MO)
+	Move("x" m.x "y" m.y)
+
+	; w:=win(p1),100,50,Move("x"(m.x<1919?250:2350) "y25")
+	}}
+
+winflip(p1="A"){
+	if Win:=win(P1){
+
+	MO:=M:=MGP()
+			; return t(MO)
+	if (Win.H+m.y>998)
+		M.y:=abs(M.x-=win.H)
+	m.y-=Win.H
+	; m.x:=210,
+	if m.x>1920
+	{
+	if m.x+win.H>3800
+	M.x:=abs(M.x-=win.W)
+	m.x:=clamp(m.x,1925,3800)
+}
+	else,
+	m.x:=clamp(m.x,50,1920)
+	m.y:=clamp(m.y,100,985)
+		t([win,M,MO])
+		t(MO)
+	Move("x" m.x "y" m.y)
+
+	; w:=win(p1),100,50,Move("x"(m.x<1919?250:2350) "y25")
+	}}
+
+https://www.youtube.com/feed/subscriptions
+
+https://www.youtube.com/feed/subscriptions
+
+Clamp(value, min, max)
+{
+	if(value < min)
+		value:=min
+	else if(value > max)
+		value:=max
+	return value
+}
+
+Clamp(value, min, max)
+{
+	if(value < min)
+		value:=min
+	else if(value > max)
+		value:=max
+	return value
+}
+
+7PLUS
+
+byref(dd)
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CloneApp_sps\Backup\
+
+C:\Users\Brett\Documents\Backup
+
+
+%UserProfile%\Desktop\CloneApp (Backup)-$Date$\
+
+E:\SyMenu\
+
+E:\SyMenu\Backup\
+
+C:\Program Files (x86)\MusicBee
+
+C:\Program Files (x86)\MusicBee
+
+E:\SyMenu\Backup\
+
+Backup
+
+%appdata%\
+
+%Systemdrive%\Nirsoft\
+
+---------------------------
+Command-line options
+---------------------------
+Available Command-line options in CloneApp.
+
+
+
+/AUTO = Detect Installed Apps and run Backup
+
+/B = Normal Backup
+
+/SB = Silent Backup
+
+/CB "Backup_folder" = Custom Backup
+
+/R = Normal Restore
+
+/SR = Silent Restore
+
+/CR "Restore_folder" = Custom Restore
+
+/P = Run Preview and Export to Text file
+---------------------------
+OK
+---------------------------
+
+
+channelname
+
+A_ScreenHeight-81-Win.H
+
+clamp(
+
+NewY:=clamp(A_ScreenHeight-81-Win.H,10,950)
+
+A_ScreenWidth
+
+SysGet, VirtualWidth, 78
+SysGet, VirtualHeight, 79
+
+MonitorWorkArea [, N]
+
+    SysGet, MonitorWorkArea, MonitorWorkArea, %A_Index%
+
+SysGet, MonitorWorkArea, MonitorWorkArea,1
+
+SysGet, MWA, MonitorWorkArea
+
+SysGet, MWA2, MonitorWorkArea,2
+
+MWATop:
+
+MWA(){
+if MGP().X>1920
+SysGet, MWA, MonitorWorkArea,2
+else,SysGet, MWA, MonitorWorkArea,1
+return {Top:MWATop,Bottom:MWABottom,Left:MWALeft,Right:MWARight}
+}
+
+,SysGet, MWA, MonitorWorkArea,1
+
+{Top:MWATop,Bottom:MWABottom,Left:MWALeft,Right:MWARight}
+
+MWA%ret%
+
+{Top:MWATop,Bottom:MWABottom,Left:MWALeft,Right:MWARight}
+
+NewY:=clamp(A_ScreenHeight-81-Win.H,10,950)
+
+>MWA("Bottom")
+
+Win.W+M.X
+
+MWA.right
+
+NewY:=clamp(A_ScreenWidth-81-Win.H,10,950)
+
+MWA("Bottom")
+
+	Move("x" m.x "y" m.y)
+
+if Win.W+M.X>MWA.right
+
+	NewY:=clamp(MWA.bottom-Win.H,10,950)
+
+		else,NewY:=clamp(M.x,10,950)
+
+MWA.right
+
+MWA.Left
+
+; NewY:=clamp(A_ScreenWidth-81-Win.H,10,950)
+
+DistTo:=MWA.right-(Win.W+M.X)
+M.x+=distto
+M.x-MWA
+
+NewY:=clamp(MWA.bottom-Win.H,10,950)
+
+MWA.right
+
+NewY:=clamp(Newy,10,950
+
+MWA.right
+
+NewX:=clamp(NewX,MWA.left,MWA.right)
+
+DistTo:=MWA.right-(Win.W+M.X)
+
+M.x+=distto
+
+M.x+=distto
+
+newy:=m.y
+
+newy:=m.y
+
+	newx
+
+	newx:=m.x
+
+	newx:=m.x
+
+; M.x-MWA
+	; if m.x>A_ScreenWidth	{
+; Newx:=clamp(M.x-(MWA.right-Win.W),MWA.Left,MWA.right)
+		; else,NewX:=clamp(M.X,MWA.Left,MWA.right)
+	; if M.X>A_ScreenWidth-Win.W
+	}
+	; newy:=m.y
+	; if Win.H+M.Y>MWA.Bottom
+	; {
+	; DistTo:=MWA.Bottom-(Win.H+M.Y)
+	; newy+=distto
+	; }
+	; NewY:=clamp(MWA.bottom-Win.H,10,950)
+		; else,NewY:=clamp(M.y,10,950)
+; NewY:=clamp(A_ScreenWidth-81-Win.H,10,950)
+	; m.x-=Win.W
+	; m.x:=clamp(m.x,1925,3800)
+; }else,	m.x:=clamp(m.x,50,1920)
+	; m.y:=clamp(m.y-Win.H,100,950)
+	t([win,M],m.x+50,m.y-40,4)
+
+; M.x-MWA
+	; if m.x>A_ScreenWidth	{
+; Newx:=clamp(M.x-(MWA.right-Win.W),MWA.Left,MWA.right)
+		; else,NewX:=clamp(M.X,MWA.Left,MWA.right)
+	; if M.X>A_ScreenWidth-Win.W
+	}
+	; newy:=m.y
+	; if Win.H+M.Y>MWA.Bottom
+	; {
+	; DistTo:=MWA.Bottom-(Win.H+M.Y)
+	; newy+=distto
+	; }
+	; NewY:=clamp(MWA.bottom-Win.H,10,950)
+		; else,NewY:=clamp(M.y,10,950)
+; NewY:=clamp(A_ScreenWidth-81-Win.H,10,950)
+	; m.x-=Win.W
+	; m.x:=clamp(m.x,1925,3800)
+; }else,	m.x:=clamp(m.x,50,1920)
+	; m.y:=clamp(m.y-Win.H,100,950)
+	t([win,M],m.x+50,m.y-40,4)
+
+	DistTo:=MWA.right-(Win.W+M.X)
+
+	DistTo:=MWA.right-(Win.W+M.X)
+
+NewX:=
+
+NewX:=M.X
+
+; 	MGP(){
+; 		global
+; 	A_CoordModeMouse
+; CoordMode, Mouse, Screen
+; 	MouseGetPos,X,Y ; MouseGetPos,X,Y,ID,control,%Mode%
+; 	MouseGetPos,,,ID,control
+; 	RETURN {X:X,Y:Y,ID:ID,control:control,MODE:MODE,A_CaretX:A_CaretX,A_CaretY:A_CaretY,	A_CoordModeMouse:	A_CoordModeMouse}
+; 	}
+
+mwa()
+
+MWA(Ret=""){
+if MGP().X>1920
+SysGet, MWA, MonitorWorkArea,2
+else,SysGet, MWA, MonitorWorkArea,1
+; MWA:={Top:MWATop,Bottom:MWABottom,Left:MWALeft,Right:MWARight}
+return MWA%ret%?MWA%ret%:{Top:MWATop,Bottom:MWABottom,Left:MWALeft,Right:MWARight}
+ ; MWA[Ret]?MWA[Ret]:MWA
+}
+
+ ; MWA[Ret]?MWA[Ret]:MWA
+
+P:="Exile,100,100,2,2000" ;,WE:=func("T").bind(SS(P)*),%WE%()
+
+;how to call funcs with string split params
+P:="Exile,100,100,2,2000" ;,WE:=func("T").bind(SS(P)*),%WE%()
+
+; run("C:\Windows\System32\taskmgr.exe")
+
+; run("C:\Windows\System32\taskmgr.exe")
+
+C:\Users\Brett\Downloads\SysGet-Script.ahk
+
+Faye Lynnes
+
+	Richelle Ryan
+
+Ashlyn Rae
+
+chouette
+
+	Abella Danger
+
+dolly leigh
+
+Raylin Ann
+
+Katya Rodriguez
+
+Kellyanne Conway VS. CNN & Buzzfeed Fake News : "You Goons are Liars !"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tqJpp_v-Xxg" frameborder="0" allowfullscreen></iframe>
+
+Julia Ann
+
+10:36:13 AM [File] [from] C:\nirsoft\,,\*.cfg [to] E:\SyMenu\Backup\Custom\  <Error>
+
+C:\Nirsoft\NirSoft\*.*.cfg
+
+C:\Nirsoft\NirSoft
+
+C:\Nirsoft\NirSoft\**.cfg
+
+C:\Nirsoft\NirSoft\x64\*.cfg
+
+%systemdrive%\nirsoft\nirsoft\**\*.cfg
+
+^.*\.txt$.
+
+.*\.txt$
+
+^.*\.txt$
+
+CloneApp 01-18-2017 11
+
+^.*\.txt$
+
+The site ahead contains harmful programs
+
+Taylor Moore
+
+Kameya
+
+https://www.washingtonpost.com/graphics/politics/trump-administration-appointee-tracker/
+
+https://autohotkey.com/docs/AutoHotkey.htm
+
+fe80::38ff:3e4d:9930:a063
+
+https://autohotkey.com/docs/AutoHotkey.htm
+
+Please TEMPORARILY set your browser's proxy preferences to:
+
+Proxy's address:
+fe80::38ff:3e4d:9930:a063
+Proxy's port:
+80
+
+
+fe80::38ff:3e4d:9930:a063
+
+Tucker Carlson DESTROYS Democrat Dwight Evans Boycotting Trump Inauguration - 1/18/17
+
+Fox News
+
+src="blob:http://video.foxnews.com/ad814d84-c7bc-4ab6-96a2-3119b20bd046"
+
+http://video.foxnews.com/v/5288280074001/?#sp=show-clips
+
+html5test.com
+
+http://html5test.com/
+
+speedof.me
+
+http://speedof.me/
+
+speedof.me
+
+http://speedof.me/
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+Redirected to
+`https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&hl=en&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Fapp%3Ddesktop%26action_handle_signin%3Dtrue%26hl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26feature%3Dredirect_login&passive=true'.
+
+Redirected to
+`https://accounts.google.com/ServiceLogin?uilel=3&hl=en&passive=true&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26hl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26action_handle_signin%3Dtrue%26app%3Ddesktop'.
+
+https://accounts.google.com/ServiceLogin?uilel=3&hl=en&passive=true&service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26hl%3Den%26next%3D%252Ffeed%252Fsubscriptions%26action_handle_signin%3Dtrue%26app%3Ddesktop
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Login Data
+
+shftclick
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\GPUCache\data_0
+
+WatchFolderFunc
+
+WatchFolderFunc
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\dgmacifhhpefamjmolpipkijcofcmbgp\5.1_0
+
+
+if(e.shiftKey)
+
+www.youtube.com
+
+https://www.youtube.com
+
+https://www.youtube.com/
+
+https://www.youtube.com/watch?v=ys9SL0Z9jgs
+
+tt.=t2 " -->" V:=T1
+
+else, if v=T1
+tt.=t1 " --> " V:=T2
+
+ttog("Tvar",23,34)
+
+if !IsByRef(v)
+gset(v,t1)
+
+A Don't shoot Portland (Black lives matter) member hits and damages a UHaul truck
+
+elapsed(FileGetTime("ENV.txt"),"Hours")
+
+Black lives matter protester hits U-Haul Truck
+
+elapsed(FileGetTime("ENV.txt"),"Hours")
+
+ENV.txt
+
+ENV.txt
+
+"\w*"
+
+t(R(elapsed(FileGetTime("ENV.txt"),"Hours"),"\w*"))
+
+"0 fds"
+
+t(R(elapsed(FileGetTime("ENV.txt"),"Hours"),"\D*"))
+
+FileGetTime(Filename="",WhichTime=""){
+	FileGetTime,V,% Filename,% WhichTime
+	return % V
+	}
+
+FileGetTime(Filename="",WhichTime="")
+
+return now " " Unit
+
+!Fileexist("env.txt")
+
+Recent=A_AppData\Microsoft\Windows\Recent
+
+POV_Watch
+
+POV_Watch_P
+
+POV_Watch_P
+
+POV_Watch_P
+
+else if !IsByRef(v)
+
+tt.=
+
+Regtog(ROOT,key,Set="",VTYPE=""){
+	; O["SnapToDefault"]:=tog("HKCU\Control Panel\Mouse","SnapToDefaultButton")
+	RegRead,V,% ROOT,%key%
+	RKType:=RegKeyType(ROOT,key) ; (v!=1 and v!=0?(t("FAILED " RKType " " key " " v),exit()):
+	new:=Set!=""?set:V=1?0:V=0?1:"" ; new:=Set!=""?set:V=1?0:V=0?1:(t("FAILED"),exit())
+	RegWrite,% RKType,% ROOT ,% key,% new
+	return RKType " " key "=" V " -> " new
+	}
+
+Tog(byRef v,T1="",t2=""){
+if V=t2
+tt.=t2 " -> " V:=T1
+else, if v=T1
+tt.=t1 " -> " V:=T2
+else if !IsByRef(v)
+tt.=gset(v,t1)
+else if IsByRef(v)
+tt.="'" v "' -> " v:=t1
+t(tt,300,300,4)
+return v
+}
+
+tog(POV_Watch_P,25,50)
+
+Gset(byref v="",setV=""){
+global
+; %v%:=v
+%v%:=setv
+return v " := " setv
+}
+
+tog(POV_Watch_P,25,50)
+
+tog(POV_Watch_P,25,50) tog(POV_Watch_P,25,50)
+
+POV_Watch_P
+
+tog(POV_Watch_P,25,50)
+
+POV_Watch_P
+
+POV_Watch_P
+
+tog(POV_Watch_P,25,50), tog(POV_Watch_P,25,50),POV_Watch_P
+
+POV_Watch_P
+
+POV_Watch_P
+
+ V:=T1
+
+tog(POV_Watch_P,25,50)
+
+var:=v
+
+tog("POV_Watch_P",25,50)
+
+tog(POV_Watch_P,25,50)
+
+tog(POV_Watch_P,25,50)
+
+, Deir ez-Zor,
+
+www.truthdig.com/report/page2/report_points_to_a_pentagon_plot_to_subvert_obamas_syria_policy_20170105
+
+Tucker Carlson DESTROYS Democrat Dwight Evans Boycotting Trump Inauguration
+
+utton"") = " GKS(
+
+utton"") = " GKS(
+
+WatchFolder(,"reportf")
+
+WatchFolder(,"reportf")
+
+ReportF(Directory,Changes){
+
+ReportF(Directory,Changes){
+
+${file}
+
+	Mercedes Carrera
+
+Katt Dylan
+
+ Rio Lee
+
+Melbourne Mayor: Car deaths 'most horrific act'
+
+Three dead, more than 15 injured after driver ploughs car into Australian pedestrians
+leftright
+8/8leftright
+
+
+autralia
+
+More
+At least 3 people have died after a car plowed into a crowd in a busy shopping area in Melbourne, Australia http://cnn.it/2jT4g3J
+
+AUSTRALIA
+
+Driver in Melbourne, Fleeing Police After Stabbing, Kills 3 Pedestrians
+
+AUSTRALIA
+
+Driver in Melbourne, Fleeing Police After Stabbing, Kills 3 Pedestrians
+
+James "Jimmy" Gargasoulas,
+
+James "Jimmy" Gargasoulas
+
+Yes but yelling "Allahu Akbar" is something a stupid bogan meth-head would yell just to add some flavour to his bullshit. He actually started his "terror" by stabbing his brother, which is not your typical terrorist organised tactic. Nor is burnouts at Flinders Street Station! Think about it. He was lucky to get as far as he did. Terrorists don't begin their killing sprees with  burnouts in their shitboxes. Actual terrorists watching from afar are shaking their heads at this. "Not one of us, Noooo way".?
+
+H:\archeripconfig rest.txt
+
+Shay Fox
+
+Kendall Karson
+
+C:\Users\Brett\Downloads\Add_Maximum_processor_state.reg
+C:\Users\Brett\Downloads\Add_Minimum_processor_state.reg
+
+recentfilesview 01-20-2017 12
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+C:\Users\Brett\Desktop\2017-01-20 12_54_12-President Trump (@POTUS) _ Twitter.png
+
+or 186,411 miles, per second) by this, you get around 200,000 kilometers (124,274 miles) per second, which is the approximate speed of light through glass. Some fiber optic cabling is made of plastic, which has an even higher refractive index, and therefore a lower speed.
+
+Static "".Log:={}
+	if !Log.HasKey(k)
+	Log[k]:=v
+
+gg[df]:="FD"
+
+gg[df]:="FD"
+
+Cache\f_005201
+
+localstorage
+
+E:\7plus-master\7plus.ahk
+
+E:\7plus-master\7plus.ahk
+
+Baby One More Time
+
+FolderChanges
+
+C:\Windows\Media\Windows Minimize.wav
+
+
+csvfileview 01-22-2017 01
+
+C:\Windows\Media\Windows Minimize.wav
+
+
+E:\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\CSVFileView_x64_sps\csvfileview 01-22-2017 01.json
+
+E:\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\CSVFileView_x64_sps\csvfileview 01-22-2017 01.json
+
+; if (k="log")
+
+	Static Log:={}
+
+if (k="log")
+return Log
+
+if (k="log")
+return Log
+
+E:\AH\csvfileview 01-22-2017 01.json
+
+(\}\s*)(,)(\s*\{)
+
+(\})\s*(,)\s*(\{)
+
+,"E:\AH\StrObj_CSV.txt")
+
+t(ke " : " ve),sleep(500)
+
+t(k " : " v),sleep(500)
+
+CB:=clipboard
+
+[{a:"a",b:"b1"},{a2:"a2",b2:"b2"},"hi"]
+
+E:\AH\StrObj_CSV.txt
+
+	if !Log.HasKey(k)
+
+if (k="log")
+return Log
+
+t(MyObj["fflog"]:="ff")
+
+	listvars
+	pause
+
+	listvars
+	pause
+
+folderchangesview 01-22-2017 05
+
+	listvars
+	pause
+
+[^=]*
+
+=+\s*\K[^=]*(?==)
+
+=+\s*\K[^=]*(?==)
+
+=+\s*\K[^=]*(?==)
+
+MO.l
+
+MO.l
+
+=+\s*
+
+=+\s*[^=]*
+
+read("fc.txt")
+
+read("fc.txt")
+
+ntfslinksview 01-22-2017 06
+
+read("fc.txt")
+
+ntfslinksview 01-22-2017 06
+
+read("fc.txt")
+
+Filename
+
+folderchangesview 01-22-2017 06
+
+Filename
+
+folderchangesview 01-22-2017 06
+
+Filename
+
+folderchangesview 01-22-2017 07
+
+Filename
+
+C:\Users\Brett\Documents\My Games\XCOM2\XComGame\SaveData
+
+steamapps\common
+
+xcom 2 long war 2
+
+C:\Users\Brett\Pictures\SS\2017-01-22 20_31_51-Long War 2 at XCOM2 Nexus - Mods and Community.png
+
+C:\Users\Brett\Pictures\SS\2017-01-22 20_31_59-Long War 2 at XCOM2 Nexus - Mods and Community.png
+
+C:\Nirsoft\NirSoft
+
+E:\SyMenu
+
+WorkingDir
+
+WorkingDir:="E:\Videos"
+
+WorkingDir:="E:\Videos"
+
+43e8556146aceede9a617b81ffebea6d6cfb5ce1
+
+hash
+
+E:\xcom 2\steamapps\common\Binaries\Win64\XCom2.exe
+
+
+"E:\xcom 2\steamapps\common\Binaries\Win64\
+
+"-noRedScreens -review -offline -allowconsole -log -autodebug"
+
+ "-noRedScreens -review -offline -allowconsole -log -autodebug"
+
+%appdata%\local\Temp
+
+%userprofile%
+
+C:\Users\Brett\AppData\Local\Temp\
+
+Right}")
+
+C:\Users\Brett\AppData\Local\Temp\
+
+C:\Users\Brett\AppData\Local\Temp\
+
+ebus
+
+${file}
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+	if winexist("Tidy Sidebar")
+	winclose Tidy Sidebar
+	WinWaitClose Tidy Sidebar
+
+	LA:=MyTaskbar("Tidy Sidebar",TaskNum) 	; taskbar("Tidy Sidebar",5)
+
+		LA:=MyTaskbar("Tidy Sidebar",TaskNum) 	; taskbar("Tidy Sidebar",5)
+
+"Tidy Sidebar"
+
+Tidy Sidebar
+
+TaskNum
+
+WinActive("Tidy Sidebar")
+
+	LA:=MyTaskbar("Tidy Sidebar",TaskNum) ; taskbar("Tidy Sidebar",5)
+
+MoveFilesAndFolders(SourcePattern, DestinationFolder, DoOverwrite = false)
+
+MoveFilesAndFolders("C:\users\brett\videos\*.*","E:\Videos", DoOverwrite = false)
+
+; Obj:=strobj("E:\AH\csvfileview 01-22-2017 01.json")
+; strobj(obj,"E:\AH\StrObj_CSV.txt")
+; strobj(""["log"]:="fdf","logobj.json")
+
+; strobj([MGP:=MGP(),win()],"MGP.txt")
+; MGPO:=strobj("MGP.txt")
+; [MGP,MGPO]
+; t([MGP,MGPO])
+; NO:=strobj("E:\AH\StrObj_CSV.txt")
+; t(NO)
+
+; OO:=[{a:"a",b:"b1"},{a2:"a2",b2:"b2"},"hi"]
+; CB:=read("E:\AH\StrObj_CSV.txt")
+; t(cb)
+; for k,v in ss(CB,"},{")
+; if isobject(v)
+; for k,v in V
+; t(k " : " v),sleep(250)
+; ; t(ke " : " ve),sleep(500)
+; else,t(k " : " v),sleep(250)
+; CB:=clipboard
+; for k,v in CB
+; t(MyObj["fflog"]:="ff")
+; t(myobj["log"]:="ff")
+; 	listvars
+; 	pause
+; M.l:=1
+; Pos+=m(read("fc.txt"),"=+\s*[^=]*(?==)",M,POS)
+
+; msg(r(read("fc.txt"),"\s*=+\s*([^=]*)=+\s*","$1,`n"))
+
+; msg(MO "`n" MO.l)
+; t(strobj(mo).Filename)
+; for k,v in strobj(MO)
+; msg(MO.l k " : " v)
+
+; Obj:=strobj("E:\AH\csvfileview 01-22-2017 01.json")
+; strobj(obj,"E:\AH\StrObj_CSV.txt")
+; strobj(""["log"]:="fdf","logobj.json")
+
+; strobj([MGP:=MGP(),win()],"MGP.txt")
+; MGPO:=strobj("MGP.txt")
+; [MGP,MGPO]
+; t([MGP,MGPO])
+; NO:=strobj("E:\AH\StrObj_CSV.txt")
+; t(NO)
+
+; OO:=[{a:"a",b:"b1"},{a2:"a2",b2:"b2"},"hi"]
+; CB:=read("E:\AH\StrObj_CSV.txt")
+; t(cb)
+; for k,v in ss(CB,"},{")
+; if isobject(v)
+; for k,v in V
+; t(k " : " v),sleep(250)
+; ; t(ke " : " ve),sleep(500)
+; else,t(k " : " v),sleep(250)
+; CB:=clipboard
+; for k,v in CB
+; t(MyObj["fflog"]:="ff")
+; t(myobj["log"]:="ff")
+; 	listvars
+; 	pause
+; M.l:=1
+; Pos+=m(read("fc.txt"),"=+\s*[^=]*(?==)",M,POS)
+
+; msg(r(read("fc.txt"),"\s*=+\s*([^=]*)=+\s*","$1,`n"))
+
+; msg(MO "`n" MO.l)
+; t(strobj(mo).Filename)
+; for k,v in strobj(MO)
+; msg(MO.l k " : " v)
+
+NewName
+
+C:\Users\Brett\Downloads\Black lives matter protester hits UHaul Truck-  HatZ6m6c1AI.mp4
+C:\Users\Brett\Downloads\US stance toward Syria a titanic struggle btwn Pentagon  State Dept  journalist-  4tG53U2Ye9U.mp4
+
+C:\Users\Brett\Downloads\extreme_tuning_skl.zip
+C:\Users\Brett\Downloads\command_center_skl.zip
+C:\Users\Brett\Downloads\E7977v1.0.zip
+C:\Users\Brett\Downloads\Esmart_tool.zip
+
+Full Path	Filename	Modified Count	Created Count	Deleted Count	Renamed Count	Extension	Last Event Time	First Event Time	Created Time	Modified Time	File Size	File Owner	Attributes
+C:\Users\Brett\AppData\Local\Microsoft\WebSetup\Panther\img\device_usb.png	device_usb.png	1	1	1	0	png	1/23/2017 8:57:45 PM	1/23/2017 8:57:02 PM	1/23/2017 8:57:45 PM	1/23/2017 8:57:45 PM	1,296		ACI
+
+
+C:\Users\Brett\AppData\Local\Microsoft
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper.jpg
+
+54533251-82be-4824-96c1-47b60b740d00
+
+ powercfg -setacvalueindex
+
+ powercfg -setacvalueindex 54533251-82be-4824-96c1-47b60b740d00
+
+
+ powercfg -setacvalueindex 54533251-82be-4824-96c1-47b60b740d00 100
+
+54533251-82be-4824-96c1-47b60b740d00
+
+893dee8e-2bef-41e0-89c6-b55d0929964c
+
+ powercfg -setacvalueindex 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c
+
+ powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+ bc5038f7-23e0-4960-96da-33abaf5935ec
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+
+bc5038f7-23e0-4960-96da-33abaf5935ec
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 bc5038f7-23e0-4960-96da-33abaf5935ec 100
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+powercfg -getacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c
+
+obelix469@gmail.com
+
+Z:\Torrents
+
+MKLINK /J "Z:\Torrents" "E:\Torrents"
+
+MKLINK /D "Z:\Torrents" "E:\Torrents"
+
+XCOM-2.iso"
+
+E:\SyMenu
+
+C:\Users\Brett\Documents
+
+MoveFilesAndFolders("C:\users\brett\videos\*.*","E:\Videos", DoOverwrite = false)
+
+C:\Users\Brett\Documents
+
+C:\Users\Brett\Documents
+
+C:\Users\Brett\Documents
+
+http://www.sandiegouniontribune.com/opinion/commentary/sd-utbg-sanctuary-cities-opposition-20170120-story.html
+
+C:\Users\Brett\Documents\HTML
+
+HTML
+
+HTML
+
+C:\Nirsoft\NirSoft\lastactivityview.cfg
+
+C:\Nirsoft\NirSoft\
+
+https://twitter.com/HiddenTara
+
+ WinSet, Bottom,, WinTitle.
+
+#IfWinActive, Starbound ahk_class SDL_app
+XButton1::
+; LKDuration:=A_KeyDuration,
+; LKDelay:=A_KeyDelay
+; SetKeyDelay, -1,-1
+; t("A_KeyDuration " (LKDuration:=A_KeyDuration) "`nA_KeyDelay " LKDelay:=A_KeyDelay "A_sendLevel " A_sendLevel)
+send {d up}
+sleep 50
+send {d down}
+sleep 75
+send {d up}
+sleep 75
+send {d down}
+sleep 100
+send {d up}
+; SetKeyDelay,% LKDelay,% LKDuration
+Return
+XButton2::
+; SetKeyDelay, 100,100
+; t("A_KeyDuration " LKDuration:=A_KeyDuration "`nA_KeyDelay " LKDelay:=A_KeyDelay "A_sendLevel " A_sendLevel)
+send {a up}
+sleep 50
+send {a down}
+sleep 50
+send {a up}
+sleep 50
+send {a down}
+sleep 50
+send {a up}
+; SetKeyDelay,% LKDelay,% LKDuration
+Return
+
+ExcludeTitle, ExcludeText
+
+WS("AlwaysOnTop",,"Tidy Sidebar")
+
+	MyTaskbar("Tidy Sidebar",TaskNum) ; taskbar("Tidy Sidebar",5)
+	WS("AlwaysOnTop",,"Tidy Sidebar"),WS("AlwaysOnTop",,"Tidy Sidebar")
+
+
+WinActivate ahk_id %ID%
+
+WinActivate ahk_id %ID%
+
+0x301
+
+AVE = 0x2A2
+
+		msg = HSHELL_REDRAW
+
+lParam
+
+wParam
+
+Title%
+
+enu
+	}
+Gui(){
+	Global
+	Gui, +LastFound +Resize ; +ToolWindow
+	Gui, Margin, 0, 0
+
+	global ;  SetTitleMatchMode,
+
+	WT:=win().title
+	WinSet, % CMD,% val,% W
+
+T([a,strobj(win()),mwa(),FileGetTime("env.txt"),gg[
+
+r",23,34),tvar])
+; WatchFolder()
+WatchFolder(,"reportf")
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+ISBoxer
+
+Enabled
+
+
+Bi-directional PROCHOT#:                                                        Enabled
+
+
+Enabled
+
+
+Enhanced Features
+
+
+E:\SyMenu
+
+Lauren Southern VS Feminist SJW
+
+Jesse Watters
+
+https://www.youtube.com/watch?v=VivsXTcr3_Q&list=WL&index=69
+
+C:\Users\Brett\Documents\BRC\Transaction Copier for QBooks\QB Transaction Copier.xla
+
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 893dee8e-2bef-41e0-89c6-b55d0929964c 100
+
+
+powercfg -setacvalueindex 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c 54533251-82be-4824-96c1-47b60b740d00 bc5038f7-23e0-4960-96da-33abaf5935ec 100
+
+C:\Users\Brett\AppData\Roaming
+
+C:\Users\Brett\AppData\Roaming\ClassicShell
+
+C:\Users\Brett\AppData\Roaming\7plus
+
+C:\Users\Brett\AppData\Roaming\deluge
+
+C:\Users\Brett\AppData\Roaming\MPC-HC
+
+C:\Users\Brett\AppData\Roaming\MusicBee
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3
+
+C:\Users\Brett\AppData\Roaming\XnViewMP
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default
+
+Supported, Enabled
+
+
+DCU IP Prefetcher                                                               Supported, Enabled
+
+
+ Prime95
+
+Jim Browski 2.0
+ Subscribed20,845
+
+AesopFlop2178
+
+AesopsFlop2178
+
+AesopsFlop
+
+E:\Downloads\ahk-repo-master.zip
+E:\Downloads\AutoHotkey-Scripts-master.zip
+
+Hotstring("lic","licorice8")
+
+Hotstring(
+
+AesopsFlop2178
+
+Hotstring("lic","licorice8",2,1)
+
+Hotstring("lic","licorice8",2,1)
+
+E:\AH\lib\C21X21SVIAAz8MJ.jpg
+E:\AH\lib\C21YLQ-UcAAYgfF.jpg
+E:\AH\lib\C21YlI6VIAEG40B.jpg
+E:\AH\lib\C21es8yWEAAlEgV.jpg
+E:\AH\lib\C22A5O5VEAE1DDt.jpg
+E:\AH\lib\C2fDxKIUcAE6NaV.jpg
+E:\AH\lib\WikiLeaks on Twitter_ _Obama press conf this afternoon on WIkiLeaks & Assange. Turns lack of knowledge into smear. https___t.co_KyHq6g7spk https___t.co_VmEiqY9wnT_.mhtml
+E:\AH\lib\pro-choice.jpg
+E:\AH\lib\C2yWgZ7UcAEEuA2.jpg
+
+E:\AH\lib\Hotstring.ahk
+
+Hotstring("lic","licorice8",2,1)
+
+Hotstring("Lic","Licorice8",2,1)
+
+Hotstring("lic","licorice8",,1)
+
+Hotstring("lic","licorice8",,1)
+
+#Hotstring EndChars `t ; -()[]{}:;'"/\,.?!`n
+
+#include E:\AH\lib\Hotstring.ahk
+
+:O:ret::reticule469
+
+ -()[]{}':;"/\,.?!`n `t
+
+#Hotstring EndChars -()[]{}:;'"/\,.?!`n `t
+
+a_endchar
+
+-'"/\,.?!`n `t
+
+-'/\,.?!`n `t]
+
+a_space
+
+ifequal("$3",a_space)
+
+AesopsFlop2178
+
+aesopsflop@gmail.com
+
+ First Last
+
+AesopsFlop
+
+First Last
+AesopsFlop@gmail.com
+
+Hotstring("aes","AesopsFlop2178")
+
+Hotstring("ahk","autohotkey",1)
+
+Hotstring("Ahk","Autohotkey",2)
+
+https://www.youtube.com/watch?v=9G9boEikUFE
+
+C:\Users\Brett\Pictures
+
+C:\Users\Brett\Pictures\Top 500 YouTubers news Channels - Socialblade YouTube Stats _ YouTube Statistics.mhtml
+
+C:\Users\Brett\Documents\FolderChanges.txt
+
+C:\Users\Brett\Documents\FolderChanges.txt
+
+MoveFilesAndFolders("C:\users\brett\videos\*.*","E:\Videos", DoOverwrite = false)
+
+documents
+
+("C:\users\brett\documents","E:\documents"
+
+FileCopyDir, Source, Dest [, Flag]
+
+Source, Dest [, Flag]
+
+FileCopyDir, Source, Dest [, Flag]
+
+FileCopyDir, Source, Dest [, Flag]
+
+C:\Users\Brett\Documents
+
+ErrorCount := CopyFilesAndFolders("C:\My Folder\*.*", "D:\Folder to receive all files & folders")
+if ErrorCount <> 0
+    MsgBox %ErrorCount% files/folders could not be copied.
+
+CopyFilesAndFolders(SourcePattern, DestinationFolder, DoOverwrite = false)
+; Copies all files and folders matching SourcePattern into the folder named DestinationFolder and
+; returns the number of files/folders that could not be copied.
+{
+    ; First copy all the files (but not the folders):
+    FileCopy, %SourcePattern%, %DestinationFolder%, %DoOverwrite%
+    ErrorCount := ErrorLevel
+    ; Now copy all the folders:
+    Loop, %SourcePattern%, 2  ; 2 means "retrieve folders only".
+    {
+        FileCopyDir, %A_LoopFileFullPath%, %DestinationFolder%\%A_LoopFileName%, %DoOverwrite%
+        ErrorCount += ErrorLevel
+        if ErrorLevel  ; Report each problem folder by name.
+            MsgBox Could not copy %A_LoopFileFullPath% into %DestinationFolder%.
+    }
+    return ErrorCount
+}
+
+ErrorCount := CopyFilesAndFolders("C:\My Folder\*.*", "D:\Folder to receive all files & folders")
+if ErrorCount <> 0
+    MsgBox %ErrorCount% files/folders could not be copied.
+
+"C:\Users\Brett\Documents"
+
+E:\documents
+
+ErrorCount := CopyFilesAndFolders("C:\Users\Brett\Documents\*.*", "E:\documents")
+
+ErrorCount := CopyFilesAndFolders("C:\Users\Brett\Documents\*.*", "E:\documents")
+
+T([a,strobj(win()),mwa(),FileGetTime("env.txt"),gg["bg"]:="GG",A_MyDocuments],X+25,Y+50)
+
+tool
+
+        ; if ErrorLevel  ; Report each problem folder by name.
+
+
+GKS("JOY7")?(winflip(),exit()):(Kwait()<200?send("{Enter}"):(Kwait()>1000?Exitapp("full",0):""))
+
+if GKS("JoyPOV")=-1
+
+`nA_TimeIdle = " A_TimeIdle
+
+`nA_TimeIdle = " A_TimeIdle
+
+Families loyal to Assad paraded in cages as human shields to deter regime attack
+
+climate activist's barefoot trek across U.S.
+
+; GKS("JOY7")?(winflip(),exit()):(Kwait()<200?send("{Enter}"):(Kwait()>1000?Exitapp("full",0):""))
+
+
+Kwait()
+
+A_TimeIdle
+
+KW-A_TimeIdle
+
+t(HK("A_LineNumber =" A_LineNumber) "`n" q("End")),q() ;,st("",5000)
+
+
+a_timeidle>1000
+
+A_TimeIdlePhysical
+
+a_timeidle>1000
+
+!(a_timeidle)<200
+
+&&key=""&&GKS("JoyPOV")=-1)
+
+&&key=""&&GKS("JoyPOV")=-1)
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions
+
+angelserena
+
+JonTronShow
+
+Airports are filled with coastal elite shitlibs, hence the baggage claim mass virtue signaling. Heritage Americans don't fly nearly as much.
+
+ DIG BICK?
+
+
+http://smokeroom.com/2017/01/31/comedian-drops-truth-bomb-hillary-lost-because-she-blew-it/?utm_campaign=atdailycaller&utm_source=Twitter&utm_medium=Social
+
+http://smokeroom.com/2017/01/31/comedian-drops-truth-bomb-hillary-lost-because-she-blew-it/?utm_campaign=atdailycaller&utm_source=Twitter&utm_medium=Social
+
+http://verdantlabs.com/politics_of_professions/index.html
+
+ 1263
+
+1263
+
+Pictures
+
+White Knights with actual shields.  Trump winning literally ripped reality apart.
+
+E:\Downloads\C1bZp57W8AAANsE.jpg
+E:\Downloads\C22DMWfWgAATtnE.jpg
+E:\Downloads\C2KhSRiXcAA9SDb.jpg
+E:\Downloads\C2RG18SXUAAz5dc.jpg
+E:\Downloads\C3aD2TFWcAAMAkH.jpg
+E:\Downloads\C3FOeB0WgAEt7RF.jpg
+E:\Downloads\C3GFdBgW8AAzv6u.jpg
+E:\Downloads\C3HlrfLWIAASyvm.jpg
+E:\Downloads\C3IO6xTWQAQM5vW.jpg
+E:\Downloads\C3l36O1WQAIgbDV.jpg
+E:\Downloads\C3PwDeNW8AYxxrc.jpg
+E:\Downloads\C3W-1dSXAAEDw8i.jpg
+E:\Downloads\C3Y19lYWcAAnwD-.jpg
+
+
+https://www.youtube.com/watch?v=qE7xcb12HE8
+
+Dogecoin to the moon
+
+"You can't just use meme magic to evoke an ancient egyptian frog god in order to get elected president
+
+There's always an Asian better than you, & there's always a white person crazier than you.
+
+120 (UD) - G3 - WarCraft 3
+
+https://i.redditmedia.com/erAJwsFYyQXVn0Ofhqe4w_385bwsjfEjaUnOJztDJmg.jpg?w=1024&s=86e87d92f7ec9968623695cbdda7be7e
+
+Ben ShapiroVerified account
+?@benshapiro
+
+Following
+ More
+I can't believe the guy with the foreign model wife and a sketchy history with the rules just won after being written off.
+
+
+Women of America, Special Instructions for Your Husband.mp4
+
+E:\Music\Donald Trump\Unknown Album\# Never Come Down (3 HOURS LONG ).mp4
+
+cmode("all","Screen")
+
+cmode("all","Screen")
+
+https://twitter.com/VICtorious_VG/status/828607286637498369
+
+80FFAA
+
+				<string>#80FFFF</string>
+
+80FFAA
+
+ Target:= WorkingDir "\" Newname
+
+			; Target:= WorkingDir "\LNK\" Newname
+
+ LinkFile:=Directory "\" CleanFileName(SR(WGAT()," - YouTube - Google Chrome")) ".lnk"
+
+FileCopy, C:\*.txt, C:\My Folder
+
+C:\Users\Brett\Downloads
+
+E:\Downloads
+
+E:\Pictures
+
+FileCopy, C:\Users\Brett\Downloads\*.MP4, C:\My Folder
+
+E:\Pictures
+
+ErrorCount := CopyFilesAndFolders("C:\Users\Brett\Documents\*.*", "E:\documents")
+if ErrorCount <> 0
+    MsgBox %ErrorCount% files/folders could not be copied.
+
+
+%ErrorCount% files/folders could not be copied.
+
+C:\Users\Brett\Downloads\*.JPG, E:\Pictures
+E:\Pictures
+
+; E:\Pictures
+
+<> 0
+
+ErrorCount <> 0
+
+ErrorCount <> 0
+
+.jpg-large
+
+ <> 0
+
+<> 0?
+
+ErrorCount   := CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG") <> 0?a.=
+
+
+; A.=ErrorCount
+
+" files/folders could not be copied."
+
+A.= (Error:=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")) <> 0?Error " files/folders could not be copied.":""
+
+"E:\JPG"
+
+.jpg-large
+
+.jpg-large
+
+C3rM54mWAAAHeou
+
+C3qmqpRUYAAhwQj
+
+C3rM54mWAAAHeou
+
+A.= (Error:=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")) <> 0?Error " files/folders could not be copied.":""
+
+A.= (Error:=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")) <> 0?Error " files/folders could not be copied.":""
+
+WatchFolder("E:\Downloads","reportf")
+
+WatchFolder("E:\Downloads","reportf")
+
+RunState:=1
+
+RunState:=1
+
+E:\Downloads\C3rM54mWAAAHeou.jpg-large
+E:\Downloads\4chan-meme-too-powerful.png
+E:\Downloads\American Pepe.png
+E:\Downloads\download.png
+
+A.=FileMove("E:\JPG\*.jpg-large", "E:\JPG\*.JPG")
+
+E:\Downloads\
+
+E:\Downloads\
+
+C:\Users\Brett\Music\MusicBee\Video\
+
+Reticule469{!}
+
+Ventricle469{!}
+
+http://creativecommons.org/publicdomain/zero/1.0/
+
+http://www.autohotkey.net/~polyethene/#hotstrings
+
+Hotstring("bert`t","bertram.arnold@yahoo.com"),Hotstring("ids","idspispopd469")
+
+Hotstring("lic`t","licorice8",2)
+Hotstring("vent`t","ventricle469",2)
+Hotstring("pass`t","Klavius123")
+Hotstring("UPS`t","abcDQS132#")
+Hotstring("bert`t","bertram.arnold@yahoo.com"),Hotstring("ids","idspispopd469")
+
+Hotstring("ids","idspispopd469")
+
+Hotstring("aes","AesopsFlop2178")
+
+
+#IfWinNotActive,ahk_exe sublime_text.exe
+:O:irs::Reticule469{!}
+:O:ob::Obelix469@gmail.com
+; :O:Vent::Ventricle469{!}
+:O:laz::lazjonsucks@yahoo.com
+:O:ret::reticule469
+:O:Ret::Reticule469
+
+Hotstring("lic`t","licorice8",2)
+Hotstring("vent`t","ventricle469",2)
+Hotstring("ids","idspispopd469")
+
+Hotstring("aes","AesopsFlop2178")
+
+Hotstring("PASS`t","Klavius123",2)
+Hotstring("UPS`t","abcDQS132#",2)
+Hotstring("bert`t","bertram.arnold@yahoo.com")
+
+Hotstring("lic`t","licorice8",2)
+Hotstring("vent`t","ventricle469",2)
+Hotstring("ids`t","idspispopd469")
+Hotstring("aes`t","AesopsFlop2178")
+Hotstring("PASS`t","Klavius123",2)
+Hotstring("UPS`t","abcDQS132#",2)
+Hotstring("bert`t","bertram.arnold@yahoo.com")
+
+	; ",-,',/,\,.,?,!,`n, ,`t"))
+
+:O:Vent::Ventricle469{!}
+
+Hotstring("vent`t","ventricle469",2)
+
+:O:Vent::Ventricle469{!}
+
+:O:Vent::Ventricle469{!}
+
+Hotstring("lic`t","licorice8",2)
+Hotstring("vent`t","ventricle469",2)
+Hotstring("Vent`t","Ventricle469{!}",2)
+Hotstring("ids`t","idspispopd469")
+Hotstring("aes`t","AesopsFlop2178")
+Hotstring("PASS`t","Klavius123",2)
+Hotstring("UPS`t","abcDQS132#",2)
+Hotstring("bert`t","bertram.arnold@yahoo.com")
+
+:O:vent::ventricle469
+
+:O:laz::lazjonsucks@yahoo.com
+:O:ret::reticule469
+:O:Ret::Reticule469
+
+#Hotstring c r.
+
+#Hotstring EndChars -'"/\,.?!`n `t
+
+Source " -> " Dest "  " (ErrorLevel?"ErrorLevel=" errorlevel:A_thisfunc  " - Success")
+
+RT:=RT.L " Length " Source " -> " Dest "  " (ErrorLevel?"ErrorLevel=" errorlevel:A_thisfunc  " - Success")
+
+RT.L
+
+RT.L " Length "
+
+	return RT.L " Length " RT
+
+	if RT.L>50
+RT:=SS(RT," -> "," -> `n")
+
+add:=
+
+"`n"
+
+add:=FileMove("E:\JPG\*.jpg-large", "E:\JPG\*.JPG")?A.=A Add:""
+
+E:\Downloads\*.jpg-large
+
+E:\Downloads
+
+#Hotstring EndChars -'"/\,.?!`n `t
+
+; 					ToReturn .= CurIndent k this.Equal A_Space v this.NewLineInOutputString
+
+	return  RT <>0?RT . "`n":0
+
+CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")
+
+Could not copy %A_LoopFileFullPath% into %DestinationFolder%.
+
+a.=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")
+
+		tool=%tool% `n %ErrorCount% files/folders Could not copy %A_LoopFileFullPath% into %DestinationFolder%. `n
+
+No Error %A_LoopFileFullPath% into %DestinationFolder%
+
+(SourcePattern
+
+a.=CopyFilesAndFolders("E:\Downloads\*.JPG", "E:\JPG")
+
+"E:\JPG\*.JPG"
+
+E:\Downloads\*.JPG
+
+E:\JPG\
+
+E:\JPG\DJT_Headshot_V2_400x400.jpg
+
+E:\JPG\DJT_Headshot_V2_400x400.jpg
+
+; #Hotstring EndChars `t\{enter\}-: ; ()[]{}'"/\,.?!`n
+
+Hotstring("i)(ll)(\w+)(`n|" a_tab "|"a_space ")" ,"$1 = $2 $ 3 '$3'",3,1) 	; ",-,',/,\,.,?,!,`n, ,`t"))
+
+Hotstring("i)(ll)(\w+)(`n|" a_tab "|"a_space ")" ,"$1 = $2 $ 3 '$3'",3,1) 	; ",-,',/,\,.,?,!,`n, ,`t"))
+
+https://www.youtube.com/watch?v=UZPCp8SPfOM
+
+https://twitter.com/wizardriesANON/status/828809177153691649
+
+folderchangesview 02-07-2017 03
+
+SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Image_Uploader_sps\Data\Scripts\
+
+C:\Users\Brett\AppData\Roaming\Macromedia\Flash Player
+
+C:\Users\Brett\AppData\Roaming\Macromedia\Flash Player\#SharedObjects
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\_Trash\
+
+folderchangesview 02-07-2017 03
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\_Trash\
+
+SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Image_Uploader_sps\Data\Thumbnails\def-transp.png
+
+https://twitter.com/signup
+
+https://abs.twimg.com/k/fr/init.fr.616ce4e5e970e36a4054.js
+
+.nut
+
+.toc
+
+C:\Users\Brett\Documents\FolderChanges.txt
+
+www.cindymovies.com
+
+http://www.cindymovies.com/
+
+www.dreammovies.com
+
+http://www.dreammovies.com/
+
+http://www.neatmovies.com/
+
+Alison Tyler
+
+Operation Northwoods
+
+		If GKS("Joy8")
+		WinSet, Bottom,,% Win().title
+
+SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+
+ST("WordTimer",25)
+
+POV_Watch
+
+ST("POV_Watch",75)
+
+PoV_Pressed:=True
+
+else, if(KW>1500&&
+
+PoV_Pressed
+
+,PoV_Pressed:=True
+
+,PoV_Pressed:=True
+
+,Sleep(100)
+
+			SendInput("#{Left}"),Sleep(100)
+
+If GKS("Joy8")
+
+https://www.change.org/p/president-of-the-united-states-declare-antifa-a-terrorist-organization?recruiter=536256704&utm_source=share_petition&utm_medium=twitter&utm_campaign=share_twitter_responsive
+
+between(GKS("JoyZ"),0,49)
+
+exit()
+
+exit()
+
+www.informationliberation.com/?id=56239
+
+Subsequently, racist, anti-Semitic, and anti-Muslim attacks fell sharply in 2016 with the former seeing a decline of 58.5 per cent and the latter a drop of 57.6 per cent. These attacks are defined as being fires, violence, degradation, and threats — comments, inscriptions, insulting letters.
+
+Raylin Ann
+
+Jasmine Caro
+
+Josie Jagger
+
+Josie Jagger
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CCleaner_Portable_sps\ccleaner.ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CCleaner_Portable_sps\winapp2.ini
+
+https://twitter.com/prageru/status/828984521987010561
+
+https://twitter.com/cyberprompt/status/829006224708485121
+
+a.=CopyFilesAndFolders("E:\Downloads\*.JPG", "E:\JPG\")
+
+
+C:\users\brett\pictures\*.*
+
+C:\users\brett\pictures\*.*", "E:\pictures\*.*
+
+C:\users\brett\pictures\*.*", "E:\pictures\*.*
+
+DrvBK 02-07-2017 03
+
+C:\users\brett\pictures\*.*", "E:\pictures\*.*
+
+7d83360f8b
+
+    // Set to a value other than 0 to force wrapping at that column rather than the
+    // window width
+    "wrap_width": 0,
+
+    "font_size": 10,
+
+	"rulers":
+	[
+		70,
+		100
+	],
+
+	"font_size": 13,
+
+Bottom,,% Win().title
+
+Bottom,,% Win().title
+
+Sleep(200)
+
+; WinSet, Bottom,,% Win().title
+
+; WinSet, Bottom,,% Win().title
+
+https://www.youtube.com/playlist?list=PL7XlqX4npddfrdpMCxBnNZXg2GFll7t5y
+
+Their logic:  If we anger the terrorists, they're going to be mad at us.  And if they get mad at us, then I need to get mad at the police and destroy airports.  Signed Snowflake?
+
+Mark Hetfield
+
+Mark Hetfield
+
+Rita Jalace
+
+Christy Charming
+
+Lara from Dirty Doctor
+
+Gostosa
+
+Ki bt hau
+
+Susan Ayn
+
+Katt Dylan
+
+Amateur busty step mum rammed
+
+Clair Santos
+
+America has elected the first president that can alter reality
+
+	VTT:="A_TimeSinceThisHotkey = " A_TimeSinceThisHotkey "`nA_TimeSincePriorHotkey = " A_TimeSincePriorHotkey "`nA_ThisHotkey = " A_ThisHotkey "`nA_PriorHotkey = " A_PriorHotkey "`nkey = " key "`nA_PriorKey = " A_PriorKey "`nA_TimeIdlePhysical = " A_TimeIdlePhysical "`nA_TimeIdle = " A_TimeIdle
+
+StrObj.Auto(Input,SaveToFileFullPath)
+
+StrObj.Auto(Input,SaveToFileFullPath)
+
+StrObj.Indent := "
+
+A.=FileMove("E:\Downloads\*.jpg-large","E:\Downloads\*.JPG")
+
+
+; a.=Filemove("E:\Downloads\*.JPG", "E:\JPG\ ",1)
+
+FileCopy, C:\Users\Brett\Downloads\*.MP4, E:\Videos
+
+FileCopy, C:\Users\Brett\Downloads\*.MP4, E:\Videos
+
+catentr
+
+cat entrepreneur
+
+https://twitter.com/TheCatExpert/status/829109872176295941
+
+E:\Pictures | E:\AH | E:\Downloads | E:\TV | E:\Documents | E:\SyMenu | C:\Users\Brett\AppData\Roaming
+
+\Users\Brett\AppData
+
+	if !Log[Obj]
+	Log[Obj]:={}
+
+https://twitter.com/JackPMoore/status/796217116319883264
+
+Open Dir ${file}
+
+crdownload
+
+${file}
+
+ ->  ${NewFile}
+
+Open Dir ${NewFile}
+
+${NewFile}
+
+Open Dir ${file}
+
+1726: Open Downloaded ${File}
+
+Open Dir ${file}
+
+ ${NewFile}
+
+Open Dir ${NewFile}
+
+"%WinDir%\explorer.exe" /select,/e,${NewFile}
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+Open Di
+
+Open Dir
+
+Open Di
+
+ ${NewFile}
+
+	192.168.0.103
+
+TP-LINK_3A6D_5G
+
+192.168.0.108
+
+David Mastio
+
+ST("POV_Watch",25)
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+
+Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+; SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+; SetTimer, POV_Watch, 25
+SetTimer, MouseWheel, 25
+SetTimer, Joy_Trigger_Watch, 60 ; Zwatch
+}Else,{
+SetTimer, POV_Watch, off
+SetTimer, MouseWheel, off
+SetTimer, Joy_Trigger_Watch, off
+}Exit() ;Right STICK CLICK
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+"%WinDir%\explorer.exe" /select,/e,${NewFile}
+
+/e,${NewFile}
+
+{031E4825-7B94-4dc3-B131-E946B44C8DD5}
+
+ C:\Users\Your_User_Name\AppData\Local\Google\Chrome\User Data\Default
+
+window_placement
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+"window_placement": {
+   "bottom": 1032,
+   "left": 150,
+   "maximized": false,
+   "right": 1770,
+   "top": 0,
+   "work_area_bottom": 1032,
+   "work_area_left": 0,
+   "work_area_right": 1920,
+   "work_area_top": 0
+}
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+"window_placement":
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+"window_placement"
+
+window_placement
+
+},"window_placement":{"bottom":-48,"docked":false,"left":1128,"maximized":false,"right":1790,"top":-715,"work_area_bottom":998,"work_area_left":0,"work_area_right":1920,"work_area_top":0}
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+"window_placement": {
+   "bottom": 1032,
+   "left": 150,
+   "maximized": false,
+   "right": 1770,
+   "top": 0,
+   "work_area_bottom": 1032,
+   "work_area_left": 0,
+   "work_area_right": 1920,
+   "work_area_top": 0
+}
+
+	cmode("All","Screen"),Move("x"(mgp().x>1800?1920:205) "y1 w1695 h985")
+
+"window_placement": {
+   "bottom": 1032,
+   "left": 205,
+   "maximized": false,
+   "right": 1790,
+   "top": 0,
+   "work_area_bottom": 998,
+   "work_area_left": 0,
+   "work_area_right": 1920,
+   "work_area_top": 0
+}
+
+\\192.168.0.1\volume1
+
+HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\NetCache
+
+if not exist X:\ (
+  timeout /t 8 > nul
+  net use X:  \\xxx.xxx.xxx\xxx
+)
+
+ SilentForcedAutoReconnect
+
+\AppData\Local\Google\Chrome\
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Current Session
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Current Tabs
+
+Francisco Hernandez on Sanctuary Cities
+
+Ed Henry Takes on Immigration Attorney Francisco Hernandez on Sanctuary Cities
+
+Francisco Hernandez
+
+and Laughs
+
+Francisco Hernandez
+
+Sanctuary Cities
+
+Francisco Hernandez
+
+Francisco Hernandez Lies and Laughs about Sanctuary Cities
+
+Sanctuary Cities
+
+Typical douchebag lawyer, no concern for intellectual honesty.
+
+channelname
+
+AIzaSyDQV2_nDf0WRwj1tCMkbKsoScmMBeBUeQg
+
+Zoie Burgher
+
+Katya Rodriguez
+
+Veronica Rodriguez
+
+	cmode("All","Screen"),Move("x"(mgp().x>1800?1920:205) "y25 w1695 h960")
+
+x: 977	y: 9	w: 933	h: 961
+
+"x977	y10	w933	h961"
+
+Move("x977	y10	w933	h961")
+
+WinExist(win)
+
+Twitter
+
+		cmode("All","Screen")
+
+	; if winactive("
+
+	WS("AlwaysOnTop"
+
+WS("AlwaysOnTop")
+
+Tucker Carlson
+
+D.C. AG
+
+Tucker Carlson Stares in awe of mental D.C. AG rambling
+
+360 xbox receiver wireless driver
+
+http://support.xbox.com/en-US/xbox-on-other-devices/connections/xbox-360-wireless-gaming-receiver-windows
+
+E:\7Plus
+E:\7plus-master
+E:\AH
+E:\Anime
+E:\Documents
+E:\Downloads
+E:\icons
+E:\JPG
+E:\Music
+E:\MusicBee
+E:\Nirsoft
+E:\PDF
+E:\Pictures
+E:\Reg
+E:\Starbound 1.0.5
+E:\Sublime Text Backups
+E:\SyMenu
+E:\System Volume Information
+E:\Torrents
+E:\TV
+E:\Videos
+E:\xcom 2
+E:\ds
+E:\FolderChanges.html
+E:\MusicBee folder in my music settings.zip
+
+Know why no one says "black trash"?  Because ALL blacks are trash.  EVERY black nation is a 3rd World compost heap.  EVERY ONE.?
+Reply 4
+
+V6JVG-P67HV-7CK2N-23YC9-BKH3H
+
+joymouse
+
+7plus-master
+
+E:\7plus-master\7plus.ahk
+
+windows 8.1 xbox 360 wireless controller not being recognized on several apps like chrome
+
+E:\Downloads\ThrottleStop_840\ThrottleStop.exe
+
+ThrottleStop.exe
+
+C:\Program Files\Sublime Text 3\sublime_text.exe "%1"
+
+lazjonsucks@yahoo.com
+
+idspispopd469
+
+lazjonsucks@yahoo.com
+
+lazjonsucks@yahoo.com
+
+G:\Other\2016-09-12 Migration Clone\C\Users\Brett\AppData\Local\Google\Chrome\User Data
+
+edacconmaakjimmfgnblocblbcdcpbko
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe"
+
+"E:\AH\Exile.ahk"
+
+C:\Users\Brett\Desktop\64 UIA Exile.lnk
+
+ Exile
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\Exile.ahk"
+
+"C:\Program Files\AutoHotkey"
+
+Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+ Run, %Target%, %WorkingDir%, %Mode%, v
+
+Target
+
+winf
+
+	Ret:=False,t("run " target "  " "".PID:=run(target.target) )
+
+	if isobject(Target)
+
+ ahk_class AutoHotkey
+
+E:\AH\joymouse.ahk
+
+; "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+wclose(){
+	global
+	winclose
+	}
+close(){
+	global
+	winclose
+	}
+WA(v=""){
+	winactivate %v%
+	winwaitactive %v%
+	}
+
+close()
+
+ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+E:\AH\joymouse.ahk - AutoHotkey v1.1.24.05
+ahk_class AutoHotkey
+ahk_exe AutoHotkeyU64_UIA.exe
+
+E:\AH\joymouse.ahk - AutoHotkey v1.1.24.05
+
+	dhw:=A_DetectHiddenWindows,DHW("On")
+
+DetectHiddenWindows, On
+
+E:\AH\joymouse.ahk ahk_class AutoHotkey
+
+DetectHiddenWindows, On
+
+Process, wait, Notepad.exe, 5.5
+
+; E:\AH\joymouse.ahk - AutoHotkey v1.1.24.05
+; ahk_class AutoHotkey
+; ahk_exe AutoHotkeyU64_UIA.exe
+DetectHiddenWindows, On
+
+if WIN:=win("E:\AH\joymouse.ahk ahk_class AutoHotkey")
+{
+	Process, close,% Win.PID
+	; winclose, % Win.title
+	msgbox % strobj(Win)
+	; WinClose
+; msgbox hello
+; winclose,
+close(),ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+}
+else
+{
+Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+; If !runclose("C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk")
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+
+}
+; Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+DetectHiddenWindows, OFF
+Exit() ;Right STICK CLICK
+
+
+; "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+If !runclose("C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk")
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+Exit() ;Right STICK CLICK
+
+"E:\AH\joymouse.ahk ahk_class AutoHotkey"
+
+; If !runclose("C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk")
+
+reload(){
+	reload
+	}
+pause(){
+	pause
+	}
+exit(){
+	exit
+	}
+
+C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:
+
+"E:\AH\
+
+exile.ahk
+
+runclose("joymouse.ahk")
+
+close(),ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe"
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+
+ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+DetectHiddenWindows, On
+if WinExist("E:\AH\joymouse.ahk ahk_class AutoHotkey")
+close(),ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+else,{
+Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+} ; Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+DetectHiddenWindows, OFF
+
+; If !runclose("C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk")
+
+ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+
+; If !runclose("C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk")
+; ST("POV_Watch",25),ST("MouseWheel",25),ST("Joy_Trigger_Watch",60)
+; Else,	ST("POV_Watch","off"),ST("MouseWheel","off"),ST("Joy_Trigger_Watch","off")
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\Exile.ahk"
+
+"C:\Program Files\AutoHotkey"
+
+"E:\AH\Exile.ahk 64 UIA.lnk"
+
+?E:\AH\Exile.ahk 64 UIA.lnk
+
+?E:\AH\joymouse.ahk 64 UIA.lnk
+
+C:\Program Files\AutoHotkey\ThrottleStop.exe - Shortcut.lnk
+
+C:\Program Files\AutoHotkey\ThrottleStop.exe - Shortcut.lnk
+
+	sparky6666
+
+bosco6
+
+sparky6666
+
+bosco6
+
+https://chrome.google.com/webstore/detail/tidy-sidebar/dgmacifhhpefamjmolpipkijcofcmbgp?hl=en
+
+Watermlon6$
+
+Watermelon6$
+
+	sparky6666
+
+602391127360174
+
+994510
+
+602391127360174
+
+2016-09-12
+
+2016-09-12 Migration Clone
+
+ahk_exe chrome.exe
+
+GroupAdd, Browser, ahk_exe chrome.exe
+
+ahk_class Chrome_WidgetWin_1
+ahk_exe torch.exe
+
+GroupAdd, Browser, ahk_exe chrome.exe
+GroupAdd, Browser, ahk_exe chrome.exe
+
+ahk_class Chrome_WidgetWin_1
+
+ahk_exe torch.exe
+
+ahk_class MozillaWindowClass
+ahk_exe firefox.exe
+
+GroupAdd, Browser, ahk_class Chrome_WidgetWin_1
+GroupAdd, Browser, ahk_exe chrome.exe
+
+ahk_class MozillaWindowClass
+
+ahk_exe firefox.exe
+
+ahk_group
+
+#If winactive("Ahk_Exe chrome.exe")
+
+ahk_group
+
+GroupAdd, Browser, ahk_exe chrome.exe
+GroupAdd, Browser, ahk_exe torch.exe
+
+GroupAdd, Browser, ahk_class Chrome_WidgetWin_1
+GroupAdd, Browser, ahk_exe chrome.exe
+
+GroupAdd, Browser, ahk_class MozillaWindowClass
+GroupAdd, Browser, ahk_exe firefox.exe
+
+; a.=CopyFilesAndFolders("C:\users\brett\pictures\*.*", "E:\pictures\*.*")
+
+A.=FileMove("E:\Downloads\*.jpg-large","E:\Downloads\*.JPG")
+
+; MoveFilesAndFolders("C:\Users\Brett\Documents\HTML\*.PDF","E:\PDF")
+; MoveFilesAndFolders("C:\users\brett\videos\*.*","E:\Videos")
+; MoveFilesAndFolders("C:\users\brett\documents","E:\documents")
+
+; FileCopy, C:\Users\Brett\Downloads\*.JPG, E:\JPG ; E:\Pictures
+; a.=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")
+; a.=CopyFilesAndFolders("C:\users\brett\pictures\*.*", "E:\pictures\*.*")
+; a.=CopyFilesAndFolders("E:\Downloads\*.JPG", "E:\JPG\")
+
+"C:\Users\Brett\AppData\Roaming\ClassicShell\Pinned\ThrottleStop.exe - Shortcut.lnk"
+
+"E:\Downloads\ThrottleStop_840\ThrottleStop.exe"
+
+full_command_line := DllCall("GetCommandLine", "str")
+
+if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
+{
+    try
+    {
+        if A_IsCompiled
+            Run *RunAs "%A_ScriptFullPath%" /restart
+        else
+            Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
+    }
+    ExitApp
+}
+
+MsgBox A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%
+
+full_command_line := DllCall("GetCommandLine", "str")
+if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
+{
+ try
+ {
+     if A_IsCompiled
+         Run *RunAs "%A_ScriptFullPath%" /restart
+     else
+         Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
+ }
+ ExitApp
+}
+a=A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%
+
+https://youtu.be/J8hUUo4hzew?list=WL
+
+A Critical Look at STANDING ROCK #DAPL
+
+https://www.youtube.com/watch?v=J8hUUo4hzew
+
+E:\Downloads\ThrottleStop_840
+
+"E:\Downloads\ThrottleStop_840\ThrottleStop.exe"
+
+"C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe"
+
+ahk_exe ThrottleStop.exe
+
+if !winexist("ahk_exe ThrottleStop.exe")
+run "C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe"
+
+full_command_line:=DllCall("GetCommandLine","str")
+
+Browse For Folder
+ahk_class #32770
+ahk_exe chrome.exe
+
+C:\Users\YOUR USER NAME\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+shell:Quick Launch
+The shell: protocol gives quick access to special folders as I covered previously. Or you can enter the following path instead of the shell command:
+
+%userprofile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+E:\Downloads\PanoramicCityscapes.deskthemepack
+E:\Downloads\CommunityShowcaseAqua3.themepack
+E:\Downloads\NASAHiddenUniverse.themepack
+E:\Downloads\PanoramicBeaches.deskthemepack
+E:\Downloads\NASASpacescapes.themepack
+
+C:\Users\Brett\Desktop\Extensions\edacconmaakjimmfgnblocblbcdcpbko\3.4.14_0
+
+https://mail.google.com/mail/u/0/#inbox/15a18cdacb8631ca
+
+[Window Title]
+Compressed (zipped) Folders Error
+
+[Content]
+'\\BIGBY-PC\Users\Public\Documents\Local\Microsoft\Windows\Themes\Community\DesktopBackground\17_sašapetrovic-chotteldjeridtunisia.jpg' cannot be compressed because it includes characters that cannot be used in a compressed folder, such as šc. You should rename this file or directory.
+
+[OK]
+
+17_sa
+
+tunisia.jpg
+
+E:\Downloads\download.png
+E:\Downloads\4chan-meme-too-powerful.png
+E:\Downloads\American Pepe.png
+
+\\BIGBY-PC\Users\Public\Documents
+
+StaticEdit
+
+#00FF80
+
+<string>#002AFF</string>
+
+00FF80
+
+#0080FF
+
+				<string>#80FFFF</string>
+
+
+				<string>#00FF80</string>
+
+
+				<key>fontStyle</key>
+				<string></string>
+
+Joy7::Kwait()<200?t(send("{ESC}")):"" ;Select
+
+#if
+Joy1:: ;A BUTTON
+SetMouseDelay, -1
+Click Left Down
+SetTimer, WaitForLeftUp, 10
+return
+
+#If winactive("ahk_group browser")
+
+&&winactive("Ahk_exe sublime_Text.exe")
+
+Tidy()
+
+Tidy()
+
+what's the difference between a large pizza and a black man.......................a large pizza can feed a family of four?
+
+Black Invention Myths
+
+“If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed. So watch YouTube & smoke weed”
+? Mark Twain?
+
+Tales of Berseria
+
+speisa.com/modules/articles/index.php/item.3723/swedish-court-approves-of-child-marriage.html
+
+http://speisa.com/modules/articles/index.php/item.3723/swedish-court-approves-of-child-marriage.html
+
+I live in an an 95% agreement scenrario but leaving the room with one won't work
+
+I have a problem with shoe, armored and AIU and i'd still pick their onc
+
+con·sen·sus
+
+https://www.youtube.com/channel/UC3M7l8ved_rYQ45AVzS0RGA/videos
+
+winston mckenzie
+
+GenerusJew
+
+Generus1895!
+
+Generus1895!
+
+I don't use reddit the layout confuses me heh.
+
+Since it's already internally inconsistent
+
+E:\Downloads\in case of terror attack.jpg
+
+Brett\Roaming\XnViewMP
+
+E:\Documents\Brett\Roaming\XnViewMP\layout2.dat
+E:\Documents\Brett\Roaming\XnViewMP\bookmark.ini
+E:\Documents\Brett\Roaming\XnViewMP\default.bar
+E:\Documents\Brett\Roaming\XnViewMP\default.keys
+E:\Documents\Brett\Roaming\XnViewMP\layout1.dat
+
+E:\Documents\Brett\Roaming\XnViewMP\xnview.ini
+
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\XnViewMP_(x64)_sps\layout1.dat
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\XnViewMP_(x64)_sps\layout2.dat
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\XnViewMP_(x64)_sps\xnview.ini
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\XnViewMP_(x64)_sps\default.bar
+E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\XnViewMP_(x64)_sps\default.keys
+
+E:\Documents\Brett\Roaming\XnViewMP\layout1.dat
+E:\Documents\Brett\Roaming\XnViewMP\layout2.dat
+E:\Documents\Brett\Roaming\XnViewMP\xnview.ini
+E:\Documents\Brett\Roaming\XnViewMP\default.bar
+E:\Documents\Brett\Roaming\XnViewMP\default.keys
+
+ST("WordTimer",25)
+
+Joy_Trigger_Watch
+
+; SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+
+; SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+
+if instr(name,"session_buddy_export_")&&action=4&&!instr(name,"download")
+ 	t(Filecopy(Name,A_MyDocuments "\txt\Session_buddy\",1))
+
+WatchDownloads
+
+WatchFolder("E:\Downloads","WFF")
+
+WatchFolder("E:\Downloads","WFF")
+
+ Jade Jantzen
+
+Parker Swayze
+
+chrome.exe
+
+StaticEdit
+
+Olivia Fox
+
+ashley alban
+
+FileCopy, E:\Downloads\*.JPG, E:\Pictures
+
+FileCopy, E:\Downloads\*.JPG, E:\Pictures
+
+Armstrong
+
+atitle:=r(wgt("XVID")," *?-? ?XVID.*")
+
+atitle:=r(wgt("XVID")," *?-? ?XVID.*")
+
+    "auto_close_tags": true,
+
+
+		; ,(store=""?(ltip:=v):"")
+
+		; ,(store=""?(ltip:=v):"")
+
+slmgr.vbs /dlv
+
+---------------------------
+Windows Script Host
+---------------------------
+Software licensing service version: 6.3.9600.18376
+
+
+
+Name: Windows(R), Professional edition
+
+Description: Windows(R) Operating System, RETAIL channel
+
+Activation ID: 9e473b6d-b591-4c46-9c44-90a865f22e76
+
+Application ID: 55c92734-d682-4d71-983e-d6ec3f16059f
+
+Extended PID: 06401-01781-051-705189-01-1033-9600.0000-0432017
+
+Product Key Channel: Retail
+
+Installation ID: 241680335921238835726073775661133041854435798207277043626123524
+
+Use License URL: https://activation-v2.sls.microsoft.com/SLActivateProduct/SLActivateProduct.asmx?configextension=Retail
+
+Validation URL: https://validation-v2.sls.microsoft.com/SLWGA/slwga.asmx
+
+Partial Product Key: BKH3H
+
+License Status: Notification
+
+Notification Reason: 0xC004F00F.
+
+Remaining Windows rearm count: 1000
+
+Remaining SKU rearm count: 1001
+
+Trusted time: 2/22/2017 9:24:32 AM
+
+
+
+
+---------------------------
+OK
+---------------------------
+
+
+https://validation-v2.sls.microsoft.com/SLWGA/slwga.asmx
+
+466136	797810	591521
+
+797810
+
+591521
+
+957545
+
+894965
+
+315244
+
+221306
+
+387731
+
+net user administrator /active:yes
+
+
+
+net user administrator /active:yes
+
+
+
+define approved host URLs that standard users can use to install ActiveX controls.
+
+http://msitpros.com/?p=1105
+
+http://activex.microsoft.com/
+
+http://technet.microsoft.com/en-us/library/cc721964(v=WS.10).aspx
+
+sweden trump responcible for riots
+
+E:\Documents\Brett\MusicBee
+
+Media Woes
+
+https://www.youtube.com/feed/subscriptions
+
+https://www.youtube.com/playlist?list=WL
+
+https://www.evernote.com/Home.action#n=3c2fb4d1-f559-42fe-9a93-183fd95e6bcc&ses=4&sh=2&sds=5&
+
+https://www.evernote.com/Settings.action
+
+https://discordapp.com/channels/283517468264103936/283517468264103936
+
+www.iconarchive.com/mydesk.html
+
+http://www.iconarchive.com/mydesk.html
+
+http://www.iconarchive.com/show/plex-icons-by-cornmanthe3rd/Media-gimp-icon.html
+
+http://icons.iconarchive.com/icons/jommans/briefness/48/My-Computer-icon.png
+
+http://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Media-gimp-icon.png
+
+https://www.youtube.com/
+
+E:\Documents\certificat  e.pdf
+
+
+snapcrackle`tcrackthisbitch
+
+crackthisbitch
+
+LaughingatLiberals
+
+Brother tries sister's ass 043 1 4 81
+
+FileCopy(Name,MoveTo,1),t(FileMove(Name,"E:\ANIME\xvid",1))
+
+Dawn Willow
+
+If M(Name,"i)xvideos.*mp4$")
+t(Name "`nR(WGT(XVID)) = " r(wgt("XVID")," *?-? ?XVID.*"),1400,850,5,7000,"add")
+	 	If instr(Name,"xvideos")&&instr(oldName,"crdownload")
+	 		atitle:=r(wgt("XVID")," *?-? ?XVID.*"),t(MoveTo:="E:\ANIME\" (atitle?atitle:a_now) "." spath(name).ext),FileCopy(Name,MoveTo,1),t(FileMove(Name,"E:\ANIME\xvid",1))
+else,	If instr(Name,"videoplayback")&&instr(OldName,"crdownload")
+	 		Obj:=O[filegettime(name,"C")],t(FileMove(Name,obj.target,1)),	R:="mklink /H """ name """ """ obj.LinkFile """"
+			else,	If M(Name,".mp4$")&&instr(OldName,"crdownload")
+	 		t(FileCopy(Name,WorkingDir,1))
+
+
+atitle:=r(wgt("XVID")," *?-? ?XVID.*"),
+	 		t(MoveTo:="E:\ANIME\" atitle "." spath(name).ext)
+
+,1400,850,5,7000,"add")
+
+,1400,850,5,7000,"add")
+
+t(MoveTo:="E:\ANIME\XVID\" atitle "." spath(name).ext,1400,850,5,7000,"add")
+
+r(wgt("XVID")," *?-? ?XVID.*")
+
+t,1400,850,5,7000,"add")
+
+MoveTo:="E:\ANIME\XVID\" r(wgt("XVID")," *?-? ?XVID.*") "." spath(name).ext
+	 	T(filemove(name,Moveto,1),1400,850,5,7000,"add"))
+
+"E:\ANIME\XVID\" r(wgt("XVID")," *?-? ?XVID.*") "." spath(name).ext
+
+	; MoveTo:="E:\ANIME\XVID\" r(wgt("XVID")," *?-? ?XVID.*") "." spath(name).ext
+	;  	T(filemove(name,Moveto,1),1400,850,5,7000,"add"))
+
+SoundPlay *48 ; hitone
+
+SoundPlay *48 ; hitone
+
+SoundPlay *48 ; hitone
+
+C:\Users\Brett\AppData
+
+C:\Users\Brett\AppData\Local\Google
+
+C:\Users\Brett\AppData\Local\Google
+
+*://www.youtube.com/*
+
+Donald Trump is such a terrifying fascist dictator that literally no one fears speaking out against him on literally any platform.
+
+URL: chrome://flags
+
+chrome://flags
+
+C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+
+https://productforums.google.com/forum/#!topic/gmail/beBpN6Thex0
+
+superuser.com/questions/994283/google-chromes-drag-drop-feature-stopped-working
+
+https://www.google.com/search?q=drag+and+drop+files+chrome+no+longer+works+win+8.1&oq=drag+and+drop+files+chrome+no+longer+works+win+8.1&aqs=chrome..69i57.10475j0j1&sourceid=chrome&ie=UTF-8
+
+; MoveFilesAndFolders("C:\Users\Brett\Documents\HTML\*.PDF","E:\PDF")
+; MoveFilesAndFolders("C:\users\brett\videos\*.*","E:\Videos")
+; MoveFilesAndFolders("C:\users\brett\documents","E:\documents")
+
+FileCopy, E:\Downloads\*.JPG, E:\Pictures
+; a.=CopyFilesAndFolders("C:\Users\Brett\Downloads\*.JPG", "E:\JPG")
+; a.=CopyFilesAndFolders("C:\users\brett\pictures\*.*", "E:\pictures\*.*")
+; a.=CopyFilesAndFolders("E:\Downloads\*.JPG", "E:\JPG\")
+
+#If winactive("ahk_group browser")
+; #If winactive("Ahk_Exe chrome.exe")
+!a::TIDY() ;,t(taskbar("Tidy Sidebar",5))
+#IfWinActive ahk_class ConsoleWindowClass
+^C::send !{Space}ek
+^v::send !{Space}ep
+#ifwinactive ahk_class MediaPlayerClassicW
+Joy4::
+If GKS("JOY7")
+send !{L}  ; send d ;Y
+Else send s ;Y
+Return
+#if
+
+Reticule469
+
+AFsyimnoul4O
+
+TTOFF:
+	; If(A_TimeSinceThisHotkey>=2000||A_TimeSincePriorHotkey>=2000||A_TimeIdle>=2000){
+	If(A_TimeIdle>1500){
+	settimer, ,off
+	VTT:="A_TimeSinceThisHotkey = " A_TimeSinceThisHotkey "`nA_TimeSincePriorHotkey = " A_TimeSincePriorHotkey "`nA_ThisHotkey = " A_ThisHotkey "`nA_PriorHotkey = " A_PriorHotkey "`nkey = " key "`nA_PriorKey = " A_PriorKey "`nA_TimeIdlePhysical = " A_TimeIdlePhysical "`nA_TimeIdle = " A_TimeIdle
+	tooltip % HK()
+	sleep 2000
+	tooltip
+	}Return
+
+Balkanized Discourse
+
+Accidental Courtesy
+
+hadirostamisahzabi ·
+
+000005
+
+Sam harris: End of Faith
+
+videoTitle=videoTitle.replace(/\s*\-\s*YouTube$/i, '').replace(/'/g, '\'').replace(/^\s+|\s+$/g, '').replace(/\.+$/g, '');
+
+   videoTitle=videoTitle.replace('videoplayback').replace('hi');
+
+
+videoTitle=videoTitle.replace('videoplayback','hi')
+
+videoTitle=videoTitle.replace(videoplayback','hi')
+
+/\s*\-\s*YouTube$/i, ''
+
+videoplayback
+
+Lady mai
+
+nikki rhodes
+
+ AMANDA VERHOOKS .
+
+ AMANDA VERHOOKS .
+
+filegettime(name,"C")
+
+ 		Obj:=O[filegettime(name,"C")],t(FileMove(Name,obj.target,1)),	R:="mklink /H """ name """ """ obj.LinkFile """"
+
+O[CT()].target
+
+O[CT()].target
+
+NewName
+
+".mp4"
+
+	 		R:="mklink /H """ name """ """ O[CT(Name)].LinkFile """"
+	 		; Obj:=O[filegettime(name,"C")],t(FileMove(Name,obj.target,1)),	R:="mklink /H """ name """ """ obj.LinkFile """"
+
+
+			O[T:=filegettime(name,"C")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState:=1)
+
+
+T:=filegettime(name,"C")
+
+T:=filegettime(name,"C")]
+
+T:=filegettime(name,"C")]
+
+			Obj:=O[T]
+
+			IniWrite,% r(r(strobj(Obj),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+
+			Obj:=O[T]
+
+			IniWrite,% r(r(strobj(Obj),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+
+t(IniWrite(RemoveEmptyDash(co),"Download.ini",T?T++:"FAIL"))
+}
+
+		IniWrite,% r(r(strobj(Obj),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),Download.ini,% T
+
+r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),
+
+r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")
+
+t(IniWrite(RemoveEmptyDash(co),"Download.ini",T?T++:"FAIL"))
+
+r(r(strobj(Obj),"(`r?`n){1,}","`n")
+
+r(r(strobj(Obj),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"),
+
+	  t(IniWrite(RemoveEmptyDash(co),"Download.ini",T?T++:"FAIL"))
+
+
+r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")
+
+ t(IniWrite(RemoveEmptyDash(co),"Download.ini",T?T++:"FAIL"))
+
+r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")
+
+CO:=r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")
+ t(IniWrite(RemoveEmptyDash(co),"Download.ini",T?T++:"FAIL"))
+
+r(r(strobj(O[T]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")
+
+CT(name)
+
+ t(IniWrite(RemoveEmptyDash(r(r(strobj(O[CT(name)]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")),"Download.ini",T?T++:"FAIL"))
+
+
+ t(IniWrite(RemoveEmptyDash(r(r(strobj(O[CT(name)]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n")),"Download.ini",T?T++:"FAIL"))
+
+
+			O[T:=CT(name)]:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState:=1)
+
+
+			; if instr(name,"session_buddy_export_")&&!instr(name,"download")
+	 		; t(Filecopy(Name,A_MyDocuments "\txt\Session_buddy\",1))
+
+			; if instr(name,"session_buddy_export_")&&!instr(name,"download")
+	 		; t(Filecopy(Name,A_MyDocuments "\txt\Session_buddy\",1))
+
+	winflip
+
+AFsyimnoul4O
+
+9t5TEEOh4ruD
+
+https://www.evernote.com/Home.action
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data
+
+C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe
+
+new orleans truck drunk driver
+
+https://www.evernote.com/Home.action
+
+Reticule469
+
+Reticule469
+
+%windir%\system32\taskschd.msc /s
+
+C:\Users\Brett\AppData\Roaming\ClassicShell\Pinned
+
+E:\Downloads\[854x480] My Step Daughter Wants A New Car - XNXX.COM.mp4
+E:\Downloads\[588x392] Brother and Sister FUCK their babe-For show Whatsapp 573144345269 - XNXX.COM.mp4
+E:\Downloads\[854x480] Brunette Adria Rae spread her legs ang takes cock on the couch - XNXX.COM.mp4
+
+E:\Downloads\The End of Faith Religion, Terror & The Future of Reason by Sam Harris Audiobook.lnk
+E:\Downloads\Alone Wolf (violin).lnk
+E:\Downloads\Bernie Sanders is a F$cking Moron.lnk
+E:\Downloads\Sam Harris   The End of Faith.lnk
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/WnQqlP2IXPM?list=WL" frameborder="0" allowfullscreen></iframe>
+
+https://youtu.be/WnQqlP2IXPM?list=WL
+
+ Ohrar_aham Islamic:
+
+ Ohrar_aham Islamic
+
+boards.4chan.org/pol/thread/114251554#p114300721
+
+http://boards.4chan.org/pol/thread/114251554#p114300721
+
+CT(name)
+
+#if
+; :O:exec::
+; #INCLUDE E:\AH\inc\O_HS.ahk
+; #if winactive("Form 1095-")
+; :O:BCBS::
+; :O:NHP::winexist
+; :*B0:itunes::
+; :*B0:exec::
+; #INCLUDE E:\AH\inc\T_HS.ahk
+; #if winactive("Form 1095-")
+; :*B0:BCBS::
+; :*B0:NHP::
+; if winactive("ahk_exe sublime_text.exe")
+; t(HS().isbiv)
+; else,sendinput % HS().isbiv
+
+AutoTimer:
+isdoubleclick() ; t(isdoubleclick()?"hi":"no")
+return
+t("GKS(""RButton"") = " GKS("RButton") "`ngetkeystatefunc = " GetKeyState("RButton"))
+return
+
+	VTT:="A_TimeSinceThisHotkey = " A_TimeSinceThisHotkey "`nA_TimeSincePriorHotkey = " A_TimeSincePriorHotkey "`nA_ThisHotkey = " A_ThisHotkey "`nA_PriorHotkey = " A_PriorHotkey "`nkey = " key "`nA_PriorKey = " A_PriorKey "`nA_TimeIdlePhysical = " A_TimeIdlePhysical "`nA_TimeIdle = " A_TimeIdle
+
+
+; ::Vent::Ventricle469!
+; ::vent::ventricle469
+
+::gen::Generus1895!
+
+::lic::Licorice8
+
+Hotstring("lic`t","licorice8",2)
+
+; GenerusJew@gmail.com
+; PornHub username Stratix469
+; SocialBlade= Reticule469
+
+; if !winexist("ahk_exe ThrottleStop.exe")
+; run "C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe"
+
+; Hotstring("i)(ll)(\w+)(`n|" a_tab "|"a_space ")" ,"$1 = $2 $ 3 '$3'",3,1) 	; ",-,',/,\,.,?,!,`n, ,`t"))
+
+
+`t\{enter\}-: ; ()[]{}'"/\,.?!`n
+
+`t\{enter\}-: ; ()[]{}'"/\,.?!`n
+
+AHK forum AHK's
+
+Sublime 3 Regex
+
+RemoveEmptyDash(r(r(strobj(O[CT(name)]),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"))
+
+	RemoveEmptyDash(r(r(R),"(`r?`n){1,}","`n"),"(`r|`n)$","`r`n"))
+
+; R:=R(R,"`n[" A_space " `t]{2,}+")
+
+; R:=R(R,"`n[" A_space " `t]{2,}+")
+
+Nils Bildt
+
+GPU rasterization
+
+E:\Downloads\ThrottleStop_840
+
+E:\Downloads\SyMenu.zip
+
+LA Hallucinations - Carly Rae Jepsen
+
+LA Hallucinations
+
+E:\Music\Kevin Gates ft August Alsina\Unknown Album\# I Don't Get Tired (IDGT) Official Music Video.mp4
+
+E:\Music\Lil Bibby feat. Kevin Gates\Unknown Album\# We Are Strong.mp4
+
+E:\Music\Brave Shores\Unknown Album\#  Never Come Down (3 HOURS LONG ).mp4
+E:\Music\Brave Shores\Unknown Album\# Never Come Down [PRESIDENTIAL REMASTER].mp4
+E:\Music\Brave Shores\Unknown Album\# Never Come Down.mp4
+
+E:\Music\Kevin Gates\Unknown Album\# # Drive Ft. OG Boobie Black (Official Audio) (320  kbps).mp3
+
+carolina alvarez
+
+-847?-1,829%
+
+I can understand wanting to shift to a more popular genre but I don't think it's a good fit, no offence.   -847?-1,829%  SUBS LAST 30 DAYS .  I liked the idea of marketing you over the sketchy lipped tiger for sure, but how about try engaging with other youtubers for cross promotion to get some facetime recognition in the ANTI-SJW community before retiring to this.  GL
+
+I can understand wanting to shift to a more popular genre but I don't think it's a good fit, no offence.   -847?-1,829%  SUBS LAST 30 DAYS .  I liked the idea of marketing you over the sketchy lipped tiger for sure, but how about try engaging with other youtubers for cross promotion to get some facetime recognition in the ANTI-SJW community before retiring to this.  Hell, ThatguyT was macking it with lauren southern the other day, step your game up!.  GL
+
+[Window Title]
+System Protection
+
+[Content]
+The restore point could not be created for the following reason:
+
+The shadow copy provider had an error. Check the System and Application event logs for more information. (0x80042306)
+
+Please try again.
+
+[Close]
+
+The shadow copy provider had an error. Check the System and Application event logs for more information. (0x80042306)
+
+Irma shutzen
+
+Tina Kay
+
+Documents | E:\Documents
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\7plus.sublime-project
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\7plus.sublime-workspace
+
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\7plus.sublime-project
+C:\Users\Brett\AppData\Roaming\Sublime Text 3\7plus.sublime-workspace
+
+Failed to create restore point (Process = "C:\WINDOWS\system32\SystemPropertiesProtection.exe" ; Description = hh; Error = 0x80042306).
+
+vssadmin list providers
+
+www.tomshardware.com/faq/id-1653141/fix-system-thread-exception-handled-error-windows.html
+
+http://www.tomshardware.com/faq/id-1653141/fix-system-thread-exception-handled-error-windows.html
+
+BCDEDIT /SET {DEFAULT} BOOTMENUPOLICY LEGACY
+
+C:\Windows\Logs\CBS\CBS.log
+
+C:\Windows\Logs\CBS\CBS.log.
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools
+
+  gpupdate /force
+
+  gpupdate /force
+
+C:\Program Files\Symenu
+
+C:\Program Files\Symenu
+
+C:\Program Files\Symenu
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Console1.msc
+
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Console1.msc
+
+
+Reticule469
+
+Reticule469
+
+Domain Profile
+
+SDI (x64)
+
+.\ProgramFiles\SPSSuite\SyMenuSuite\Snappy_Driver_Installer_Lite_sps\SDI_x64.exe
+
+.\Icons\SDI_x64.exe.ico
+
+https://sdi-tool.org/
+
+R539
+
+R539
+
+This is the future that liberals want.
+
+E:\7plus-master
+
+E:\7plus-master\Tools\7plus-master.zip
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+http://www.amazon.com/Microsoft-Xbox-Wireless-Controller-Windows/dp/B004QRKWKQ/ref=sr_1_1?ie=UTF8&qid=1408137095&sr=8-1&keywords=xbox+360+controller+wireless+pc
+
+360 plug n play adapter made for the xbox 360
+
+Microsoft Xbox 360 Wireless Controller for Windows & Xbox 360 Console
+
+JR9-00011
+
+empirically
+
+empirically
+
+empirically
+
+/uiAccess=1
+
+"E:\AH\Exile.ahk" "/uiAccess=1"
+
+EAHExile.ahk uiAccess=1
+
+/uiAccess=1
+
+uiAccess=1
+
+C:\Users\Brett\AppData\Roaming
+
+APPDATA
+
+"%WinDir%\explorer.exe" /select,/e
+
+It's a shame you couldn't be a better ambassador for science on Tucker Carlson's show, I've been a fan since I was a kid and recently with star talk radio.
+Surely it'd be more effective to empirically explain your point of view than emotional pandering by asking if you care about your kids.
+There's no shortcut to knowledge or understanding. If you need emotional ploys or insults to get your point across maybe you need a better point.
+
+tobacco pipe Metal tobacco pipe smoking pipe cigarette holder ran
+
+ftp://73.100.196.119
+
+ftp://73.100.196.119/
+
+www.xvideos.com/video4805679/kitty_-_ethnic_cheerleader_part_2_#_tabComments
+
+Miranda Writes.
+
+groupby <Date>
+
+Name
+
+[none]
+
+modified
+
+System.category
+
+
+{D5CDD502-2E9C-101B-9397-08002B2CF9AE}
+
+{D5CDD502-2E9C-101B-9397-08002B2CF9AE}
+
+
+{D5CDD502-2E9C-101B-9397-08002B2CF9AE}
+
+while AFK, or turn off these notifications now.
+
+
+
+{D5CDD502-2E9C-101B-9397-08002B2CF9AE}
+
+G:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CCleaner_Portable_sps\ccleaner.ini
+
+CopyFilesAndFolders(SourcePattern, DestinationFolder, DoOverwrite = false)
+
+MoveFilesAndFolders(SourcePattern, DestinationFolder, DoOverwrite = false)
+
+ ; First copy all the files (but not the folders)
+
+E:\Downloads\ddownloads_3.08.1400.zip
+
+None
+
+none
+
+{B725F130-47EF-101A-A5F1-02608C9EEBAC}
+1
+
+{B725F130-47EF-101A-A5F1-02608C9EEBAC}
+
+date
+
+groupby date
+
+Documents | ::
+
+{B725F130-47EF-101A-A5F1-02608C9EEBAC}
+
+
+{B725F130-47EF-101A-A5F1-02608C9EEBAC}
+
+{F29F85E0-4FF9-1068-AB91-08002B27B3D9}
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CloneApp_sps
+
+E:\Downloads\session_buddy_export_2017_03_01_12_58_04.html
+E:\Downloads\01-Jan-2016_to_02-Mar-2017.csv
+E:\Downloads\session_buddy_export_2017_03_01_13_02_30.html
+
+Sys.
+
+https://hangouts.google.com/webchat/u/0/frame?v=1488231245&hl=en&pvt=AMP3uWaySBroyWFSFMd6AlDvBJj5qiDHdyRYLl-NgIvZLG5333X47QzpBHc5LY-fJM-mGzzoDw6V8l9_-hPD7Hh3JtToNkZPPQ%3D%3D&prop=gmail#tgtn_7invm0
+
+Eva Angelina
+
+Eva Angelina
+
+More
+Democrats, 1863: "Without slaves, who will pick our crops?"
+
+Democrats, 2017: "Without illegal immigrants, who will pick our crops?"
+
+
+www.breitbart.com/london/2017/03/06/watch-police-journalists-attacked-swedish-school-riot/
+
+http://www.breitbart.com/london/2017/03/06/watch-police-journalists-attacked-swedish-school-riot/
+
+www.breitbart.com/london/2017/03/06/watch-police-journalists-attacked-swedish-school-riot/
+
+http://www.breitbart.com/london/2017/03/06/watch-police-journalists-attacked-swedish-school-riot/
+
+https://www.google.com/gmail/about/
+
+Identity consistency between browser and cookie jar
+
+idspispopd469
+
+idspispopd469
+
+::Lic::Licorice8
+
+idspispopd469
+
+idspispopd469
+
+chris.r.armstrong@gmail.com
+
+E:\Torrents\South Park Season 14
+
+E:\Torrents\[HorribleSubs] Okusama ga Seitokaichou! (Uncensored) (01-12) [1080p] (Batch)
+
+E:\Torrents\Incomplete
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\dhdgffkkebhmkfjojejmpbldmpobfkfo
+
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\dhdgffkkebhmkfjojejmpbldmpobfkfo\4.2.7_0
+
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\edacconmaakjimmfgnblocblbcdcpbko
+
+
+3.4.14_0
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\chphlpgkkbolifaimnlloiipkdnihall\1.18_0
+
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\nkdalpbojfdilmiboaiedicdbigdabpb
+
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Extensions\nkdalpbojfdilmiboaiedicdbigdabpb\1.8.0_0
+
+
+https://www.google.com
+
+chrome://flags
+
+chrome://flags/
+
+%LOCALAPPDATA%\Google\Chrome\User Data\
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Local State
+
+C:\Users\Brett\AppData\Local\Google\Chrome
+
+ --
+
+
+www.motious.com
+
+http://www.motious.com/
+
+http://www.motious.com/
+
+E:\Downloads\SyMenu
+
+E:\Downloads\Sy 3.8.17.4AM
+
+E:\Downloads\SyMenu
+
+E:\Downloads\SyMenu
+
+C:\Users\Brett\AppData\Local\Google\Chrome\User Data\Default\Bookmarks
+
+takeout-20170308T123608Z-001
+
+https://www.one-tab.com/page/3Q5b0aAcSMGAFW4uepmRpA
+
+717344
+
+bosco6
+
+SULTANSMC
+
+Brackenwood138
+
+SULTANSMC
+
+Brackenwood138
+
+chrome://
+
+lazjonsucks@yahoo.com
+
+Abigail Geiger?Verified account
+
+https://www.youtube.com/watch?v=UgzxsO0iXnk
+
+192.168.0.105
+
+ Use DHCP
+  - IP address
+192.168.0.105
+  - Gateway
+192.168.0.1
+  - Network mask
+255.255.255.0
+- Use static
+DNS :
+- Use DHCP
+  - DNS
+192.168.0.1
+  - Secondary DNS
+8.8.8.8
+- Use static
+
+
+ - IP address
+192.168.0.105
+  - Gateway
+192.168.0.1
+  - Network mask
+255.255.255.0
+- Use static
+
+
+  - Gateway
+192.168.0.1
+  - Network mask
+255.255.255.0
+- Use static
+
+
+IP Address:
+73.100.196.119
+Subnet Mask:
+255.255.252.0
+Default Gateway:
+73.100.196.1
+
+C4-6E-1F-AA-3A-6F
+
+WAN mac address C4-6E-1F-AA-3A-6F
+
+6c:fd:b9:d9:ef:1b
+
+9C-D3-5B-E3-AC-5B
+
+	192.168.0.102
+
+	Unknown	60-12-8B-85-3B-5D	192.168.0.102
+
+	192.168.0.109
+
+	ftp://192.168.0.1:21
+
+
+ftp://73.100.196.119:21
+
+ftp://73.100.196.119:21
+
+ftp://192.168.0.1:21
+
+ftp://73.100.196.119:21
+
+*://192.168.0.1
+
+Microsoft Keyboard Filter
+
+NVIDIA NetworkService Container
+
+NVIDIA Display Container LS
+
+NVIDIA LocalSystem Container
+
+@{Microsoft.Reader_6.2.8516.0_x64__8wekyb3d8bbwe?ms-resource://Microsoft.Reader/resources/Description}
+
+chrome-extension_ehhkfhegcenpfoanmgfpfhnmdmflkbgk_0
+
+Administrator rights
+
+oaxray
+
+CoordMode, Mouse,
+
+WinGetTitle, title, ahk_id %id%
+WinGetClass, class, ahk_id %id%
+
+	MouseGetPos,X,Y,ID,control
+
+control's HWND
+
+ID?ID:HWND
+
+cmode("All","Screen")
+
+ST("WordTimer",25)
+
+t(strobj(MGP(,,,,,"Client")))
+
+t(strobj(MGP(,,,,,"Client")))
+
+tog(POV_Watch_P,50,75)
+
+AutoTimer
+
+ST("AutoTimer",tog(AutoTimer_P,150,-150))
+
+F1::
+
+ST("AutoTimer")
+
+ST("AutoTimer")
+
+; Hotstring("ids`t","idspispopd469")
+; Hotstring("lic`t","licorice8",2)
+; Hotstring("aes`t","AesopsFlop2178")
+; Hotstring("PASS`t","Klavius123",2)
+; Hotstring("UPS`t","abcDQS132#",2)
+; Hotstring("bert`t","bertram.arnold@yahoo.com")
+
+; Hotstring("ids`t","idspispopd469")
+; Hotstring("lic`t","licorice8",2)
+; Hotstring("aes`t","AesopsFlop2178")
+; Hotstring("PASS`t","Klavius123",2)
+; Hotstring("UPS`t","abcDQS132#",2)
+; Hotstring("bert`t","bertram.arnold@yahoo.com")
+
+tog(AT1)
+
+#Hotstring EndChars -'"/\,.?!`n`t ;`t\{enter\}-: ; ()[]{}'"/\,.?!`n
+#Hotstring C R O
+#IfWinNotActive,ahk_exe sublime_text.exe
+return
+::gen::Generus1895!
+::irs::Reticule469!
+::ob::Obelix469@gmail.com
+::lazz::lazjonsucks@yahoo.com`tidspispopd469
+::laz::lazjonsucks@yahoo.com
+::ret::reticule469
+::Ret::Reticule469
+::Vent::Ventricle469!
+::vent::ventricle469
+::lic::Licorice8
+::Lic::Licorice8
+::ids::idspispopd469
+Return
+
+; GEforce Nvidia experience account login etc
+; Reticule469
+
+; GenerusJew@gmail.com
+; PornHub username Stratix469
+; SocialBlade= Reticule469
+
+; Hotstring("i)(ll)(\w+)(`n|" a_tab "|"a_space ")" ,"$1 = $2 $ 3 '$3'",3,1) 	; ",-,',/,\,.,?,!,`n, ,`t"))
+
+RETURN
+
+AutoTimer:
+t(strobj(MGP(,,,,,"Client")))
+
+XButton2::ST("AutoTimer",tog(AT1))
+
+ST("WordTimer",25)
+ST("AutoTimer",tog(at1,150,-150))
+
+ST("POV_Watch",25),ST("MouseWheel",35),ST("WatchJoystickSub",5)
+ST("Joy_Trigger_Watch",60)
+ST("WordTimer",25)
+ST("AutoTimer",tog(at1,150,-150))
+
+XButton2::ST("AutoTimer",tog(AT1))
+
+cmode("All","Screen")
+
+cmode("All","Screen")
+
+ST("AutoTimer",tog(at1,-150,150))
+
+ST("POV_Watch",25),ST("MouseWheel",35),ST("WatchJoystickSub",5)
+ST("Joy_Trigger_Watch",60)
+ST("WordTimer",25)
+
+ST("AutoTimer",tog(at1,-150,150))
+
+ST("AutoTimer",tog(at1,-150,150))
+
+sleep(15)
+
+sleep(15)
+
+Private 192.168.0.106 : 32400  Public 73.100.196.119 : 16762   Internet
+
+Step 2: Change your IMAP settings in your email client
+Use the table below to update your client with the correct information. For help updating your settings, search your email client's Help Center for instructions on setting up IMAP.
+
+Incoming Mail (IMAP) Server
+imap.gmail.com
+
+Requires SSL: Yes
+
+Port: 993
+
+Outgoing Mail (SMTP) Server
+smtp.gmail.com
+
+Requires SSL: Yes
+
+Requires TLS: Yes (if available)
+
+Requires Authentication: Yes
+
+Port for SSL: 465
+
+Port for TLS/STARTTLS: 587
+
+Full Name or Display Name	Your name
+Account Name, User name, or Email address	Your full email address
+Password	Your Gmail password
+
+GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+"C:\Windows\explorer.exe" /LOADSAVEDWINDOWS
+
+"C:\Users\Brett\AppData\Roaming\7+ Taskbar Tweaker\7+ Taskbar Tweaker.exe" -hidewnd
+
+.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+E:\Documents\God.{ED7BA470-8E54-465E-825C-99712043E01C}
+
+"E:\Documents\God.{ED7BA470-8E54-465E-825C-99712043E01C}"
+
+C:\Users\Brett\AppData\Roaming
+
+Favorites
+
+"C:\Program Files (x86)\System Explorer\service\SystemExplorerService64.exe"
+
+> "C:\Program Files (x86)\System Explorer\service\SystemExplorerService64.exe" /snapshot ff 1 1
+
+
+ "C:\Program Files (x86)\System Explorer\service\SystemExplorerService64.exe" /snapshot ff 1 1
+
+http://userscripts-mirror.org/scripts/source/1352.user.js
+
+"C:\Program Files (x86)\System Explorer\SystemExplorer.exe"
+
+C:\ProgramData\SystemExplorer
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\7plus-master\7plus.ahk"
+
+"C:\Program Files\AutoHotkey\
+
+"C:\Program Files\AutoHotkey\
+
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Winlogon: [Shell] C:\Users\Brett\AppData\Roaming\taskmgr\taskmgr.exe <==== ATTENTION
+IFEO\taskmgr.exe: [Debugger] "C:\Program Files (x86)\System Explorer\SystemExplorer.exe"
+
+HKLM-x32\...\Run: [SystemExplorerAutoStart] => "C:\Program Files (x86)\System Explorer\SystemExplorer.exe" /TRAY
+HKLM\...\Policies\Explorer: [NoWelcomeScreen] 1
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Run: [7 Taskbar Tweaker] => C:\Users\Brett\AppData\Roaming\7+ Taskbar Tweaker\7+ Taskbar Tweaker.exe [401920 2016-09-10] (RaMMicHaeL)
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Run: [Plex Media Server] => C:\Program Files (x86)\Plex\Plex Media Server\Plex Media Server.exe [14367208 2017-03-01] (Plex, Inc.)
+
+Tcpip\Parameters: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{2825A3E8-9DE1-469D-B2A1-D7EF47EE54E2}: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{6508E05E-E027-4FBB-BD72-6D40C57E2140}: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{DFF0DBFD-528E-4FA5-B6BA-C6BA2CC1B39C}: [DhcpNameServer] 192.168.0.1
+
+
+Task: {2F771721-CD0B-4F22-A15D-B15BAA48F93A} - System32\Tasks\CCleanerSkipUAC => E:\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\CCleaner_Portable_sps\CCleaner.exe
+Task: {7FBE5B92-061A-4F19-9709-F6500B60B84E} - System32\Tasks\SamsungMagician => C:\Program Files (x86)\Samsung\Samsung Magician\Samsung Magician.exe [2014-09-28] (Samsung Electronics.)
+Task: {94194228-C134-4872-8AA5-82435193A817} - System32\Tasks\GoogleUpdateTaskMachineUA => C:\Program Files (x86)\Google\Update\GoogleUpdate.exe [2017-02-15] (Google Inc.)
+Task: {A4B4BF1B-C0E5-4B07-9E34-F40716278406} - \Microsoft\Windows\Setup\EOSNotify -> No File <==== ATTENTION
+Task: {BF93FD1C-340D-4193-8E87-0A1DC39C5101} - System32\Tasks\GoogleUpdateTaskMachineCore => C:\Program Files (x86)\Google\Update\GoogleUpdate.exe [2017-02-15] (Google Inc.)
+
+HKLM\...\Run: [Classic Start Menu] => C:\Program Files\Classic Shell\ClassicStartMenu.exe [163800 2016-07-30] (IvoSoft)
+HKLM\...\Run: [RTHDVCPL] => C:\Program Files\Realtek\Audio\HDA\RtkNGUI64.exe [9198080 2017-01-25] (Realtek Semiconductor)
+HKLM\...\Run: [MouseDriver] => C:\WINDOWS\system32\TiltWheelMouse.exe [241152 2013-04-09] (Pixart Imaging Inc)
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Run: [FreeCommanderWinEHook] => E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\FreeCommander_sps\FreeCommander.exe [12896864 2017-01-20] (Marek Jasinski)
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Policies\Explorer: [QuickLaunchEnabled] 1
+
+Handler-x32: intu-help-qb9 - {C1252096-0E63-4C06-A38B-03DF9A16AA12} - C:\Program Files (x86)\Intuit\QuickBooks 2016\HelpAsyncPluggableProtocol.dll [2016-11-25] (Intuit, Inc.)
+Handler-x32: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - C:\WINDOWS\system32\mscoree.dll [2013-08-22] (Microsoft Corporation)
+
+FF Plugin: @Microsoft.com/NpCtrl,version=1.0 -> C:\Program Files\Microsoft Silverlight\5.1.50901.0\npctrl.dll [2016-09-01] ( Microsoft Corporation)
+FF Plugin-x32: @Microsoft.com/NpCtrl,version=1.0 -> C:\Program Files (x86)\Microsoft Silverlight\5.1.50901.0\npctrl.dll [2016-09-01] ( Microsoft Corporation)
+FF Plugin-x32: @shenzhenmining.com/mme -> c:\mme\npmme.dll [2016-08-16] (Shenzhen Mining Technology Co., Ltd.)
+FF Plugin-x32: @tools.google.com/Google Update;version=3 -> C:\Program Files (x86)\Google\Update\1.3.32.7\npGoogleUpdate3.dll [2017-02-15] (Google Inc.)
+FF Plugin-x32: @tools.google.com/Google Update;version=9 -> C:\Program Files (x86)\Google\Update\1.3.32.7\npGoogleUpdate3.dll [2017-02-15] (Google Inc.)
+
+
+R2 VIAKaraokeService; C:\WINDOWS\system32\viakaraokesrv.exe [45216 2016-10-19] (VIA Technologies, Inc.)
+R2 VIAKaraokeService; C:\WINDOWS\SysWOW64\viakaraokesrv.exe [0 2017-02-25] () <==== ATTENTION (zero byte File/Folder)
+R3 WdNisSvc; C:\Program Files\Windows Defender\NisSrv.exe [366552 2017-01-24] (Microsoft Corporation)
+R2 WinDefend; C:\Program Files\Windows Defender\MsMpEng.exe [23824 2017-01-24] (Microsoft Corporation)
+R2 Winstep Xtreme Service; C:\Program Files (x86)\Winstep\WsxService [X]
+
+
+Task: {E325987E-D22E-45A7-A0A1-AD435C320393} - System32\Tasks\Symenu Test Task => E:\SyMenu\SyMenu.exe
+Task: {EC7679F8-75BD-4CCB-A10C-5B9A724DF7E6} - System32\Tasks\Throttle Stop Task
+
+
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\PAexec => ""="Service"
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\PAexec => ""="Service"
+
+
+FirewallRules: [TCP Query User{D5A63771-F2E2-4259-980A-836FB3322DDA}C:\program files (x86)\google\chrome\application\chrome.exe] => (Allow) C:\program files (x86)\google\chrome\application\chrome.exe
+FirewallRules: [UDP Query User{D0949FC7-2288-4C3D-BFF3-E8779C124882}C:\program files (x86)\google\chrome\application\chrome.exe] => (Allow) C:\program files (x86)\google\chrome\application\chrome.exe
+
+
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\...\Policies\Explorer: [NoLowDiskSpaceChecks] 1
+ShellIconOverlayIdentifiers: [ShareOverlay] -> {594D4122-1F87-41E2-96C7-825FB4796516} => C:\Program Files\Classic Shell\ClassicExplorer64.dll [2016-07-30] (IvoSoft)
+ShellIconOverlayIdentifiers-x32: [ShareOverlay] -> {594D4122-1F87-41E2-96C7-825FB4796516} => C:\Program Files\Classic Shell\ClassicExplorer32.dll [2016-07-30] (IvoSoft)
+
+RunningState StartType ServiceName; ImagePath or ServiceDll [Size CreationDate] (CompanyName)
+
+RunningState - the letter beside the number represents the Running State:
+
+R=Running
+S=Stopped
+U=Undetermined.
+
+The "StartType" numbers are:
+
+0=Boot,
+1=System,
+2=Auto,
+3=Demand,
+4=Disabled
+5=Assigned by FRST when it is unable to read the start type
+
+
+S3 DsRoleSvc; C:\WINDOWS\system32\dsrolesrv.dll [280064 2017-02-22] (Microsoft Corporation)
+R2 jhi_service; C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe [177440 2016-10-20] (Intel Corporation)
+
+S3 DsRoleSvc; C:\WINDOWS\system32\dsrolesrv.dll [280064 2017-02-22] (Microsoft Corporation)
+R2 jhi_service; C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe [177440 2016-10-20] (Intel Corporation)
+R2 PlexUpdateService; C:\Program Files (x86)\Plex\Plex Media Server\Plex Update Service.exe [1980392 2017-03-01] (Plex, Inc.)
+S3 QBCFMonitorService; C:\Program Files (x86)\Common Files\Intuit\QuickBooks\QBCFMonitorService.exe [45056 2016-11-25] (Intuit) [File not signed]
+S3 QBFCService; C:\Program Files (x86)\Common Files\Intuit\QuickBooks\FCS\Intuit.QuickBooks.FCS.exe [65536 2016-11-25] (Intuit Inc.) [File not signed]
+S3 QBVSS; C:\Program Files (x86)\Common Files\Intuit\DataProtect\QBIDPService.exe [1248256 2016-11-25] (Intuit Inc.) [File not signed]
+R3 SystemExplorerHelpService; C:\Program Files (x86)\System Explorer\service\SystemExplorerService64.exe [820960 2014-12-20] (Mister Group)
+
+Tcpip\Parameters: [DhcpNameServer] 192.168.0.1
+Tcpip\..\Interfaces\{2825A3E8-9DE1-469D-B2A1-D7EF47EE54E2}: [DhcpNameServer] 192.168.0.1
+
+
+R3 t_mouse.sys; C:\WINDOWS\system32\DRIVERS\t_mouse.sys [6144 2013-04-09] ()
+S3 VUSB3HUB; C:\WINDOWS\System32\drivers\ViaHub3.sys [227840 2014-10-31] (VIA Technologies, Inc.)
+S0 WdBoot; C:\WINDOWS\System32\drivers\WdBoot.sys [44560 2017-01-24] (Microsoft Corporation)
+R0 WdFilter; C:\WINDOWS\System32\drivers\WdFilter.sys [270168 2017-01-24] (Microsoft Corporation)
+R2 WdNisDrv; C:\WINDOWS\System32\Drivers\WdNisDrv.sys [114520 2017-01-24] (Microsoft Corporation)
+R3 WinRing0_1_2_0; C:\Program Files (x86)\ThrottleStop_840\WinRing0x64.sys [14544 2015-10-13] (OpenLibSys.org)
+S3 xhcdrv; C:\WINDOWS\System32\drivers\xhcdrv.sys [305664 2014-10-31] (VIA Technologies, Inc.)
+
+Handler-x32: intu-help-qb9 - {C1252096-0E63-4C06-A38B-03DF9A16AA12} - C:\Program Files (x86)\Intuit\QuickBooks 2016\HelpAsyncPluggableProtocol.dll [2016-11-25] (Intuit, Inc.)
+Handler-x32: qbwc - {FC598A64-626C-4447-85B8-53150405FD57} - C:\WINDOWS\system32\mscoree.dll [2013-08-22] (Microsoft Corporation)
+
+
+HKU\S-1-5-21-3301656078-755441028-1162137601-1001\Control Panel\Desktop\\Wallpaper -> C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Themes\TranscodedWallpaper
+DNS Servers: 192.168.0.1
+
+Reticule469
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\data.ddb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\data.sdb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\config.ini
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\data.ddb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\data.sdb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\App\SystemExplorer\config.ini
+
+http://start.palemoon.org/
+
+C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe
+
+
+The file you specified cannot be opened. Make sure that it is not currently being used by another program or a read-only file.
+
+The Windows error was 'The file exists.'.
+
+C:\Program Files (x86)\Intuit\QuickBooks 2016\QBW32Pro.exe
+
+
+C:\Program Files (x86)\Intuit\QuickBooks 2016\QBW32Pro.exe
+
+
+C:\NVIDIA\DisplayDriver\378.78\Win8_Win7_64\International
+
+Copy of
+
+Copy of
+
+"E:\Downloads\ThrottleStop_840\ThrottleStop.exe"
+
+ThrottleStop.exe
+
+3.13.11AM
+
+"C:\Users\Brett\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Console1.msc"
+
+\d{5}-OEM-\d{7}-\d{5}
+
+00359-OEM-8704531-74207
+
+snapcrackle
+
+crackthisbitch
+
+snapcrackle
+
+Proxy.btguard.com
+
+1025
+
+snapcrackle
+
+ 4885  crackthisbitch
+
+snapcrackle`tcrackthisbitch
+
+crackthisbitch
+
+snapcrackle
+
+Proxy.btguard.com
+
+
+\d{5}-OEM-\d{7}-\d{5}
+
+00359-OEM-8704531-74207
+
+snapcrackle
+
+crackthisbitch
+
+snapcrackle
+
+Proxy.btguard.com
+
+1025
+
+4468002
+
+idspispopd469
+
+5164781
+
+C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe
+
+
+C:\zip.zip
+C:\Sy 3.8.17.4AM
+
+C:\ProgramData\SystemExplorer
+
+%windir%\SysWOW64\cmd.exe
+
+NoUAC1
+
+schtasks /run /TN "NoUAC1"
+
+"E:\7plus-master\7plus.ahk x64 UIA.lnk"
+
+"C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\7plus-master\7plus.ahk"
+
+?E:\7plus-master\7plus.ahk x64 UIA.lnk
+
+"C:\Program Files\AutoHotkey"
+
+E:\7plus-master\7plus.ahk x64 UIA.lnk
+
+Nicky Huntsman
+
+ blancnoir
+
+/blancnoir
+
+(e)mber (s)tone
+
+Shelby Paige
+
+Kiltroarenas - 11/19/2016 5:27 pm
+keegan monroe
+
+masajes_por_tres_ricas_zorras
+
+Emily Grey
+
+ Samantha Brunner
+
+Dear Harpo
+
+Make america first on everything!                         
+FGM https://youtu.be/bb65iyWiUBY 
+
+Puta golosa
+
+Licorice8
+
+Physical RAM: 33514316 KB
+
+WEI score: 8,15 (click here to refresh)
+
+C:\Program Files\AutoHotkey
+
+E:\Downloads\Installs\guportable.exe
+
+C:\Program Files\AutoHotkey
+
+If animals don't want to be eaten then why are they made out of food?
+
+dailycaller.com/2017/03/15/alleged-trump-dossier-source-has-overstated-his-business-connections/#ixzz4bS67z25T
+
+http://dailycaller.com/2017/03/15/alleged-trump-dossier-source-has-overstated-his-business-connections/#ixzz4bS67z25T
+
+sysexp.exe /Process "taskmgr.exe" /class "SysListView32" /Visible "Yes" /shtml "c:\temp\1.html"
+
+TTntTreeView.UnicodeClass
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\SysExporter_x64_sps>sysex
+p.exe /Process "taskmgr.exe" /class "SysListView32" /Visible "Yes" /shtml "c:\te
+mp\1.html"
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\SysExporter_x64_sps>sysex
+p.exe /Process "taskmgr.exe" /class "SysListView32" /Visible "Yes" /shtml "c:\te
+mp\1.html"
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\SysExporter_x64_sps>sysex
+p.exe /Process "taskmgr.exe" /class "SysListView32" /Visible "Yes" /shtml "c:\te
+mp\1.html"
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\SysExporter_x64_sps>sysex
+p.exe /Process "systemexplorer.exe" /class "TTntTreeView.UnicodeClass" visible "
+no" /shtml "c:\temp\1.html"
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\NirSoftSuite\SysExporter_x64_sps>
+
+sysex
+p.exe /Process 7016 /shtml "c:\temp\1.html"
+
+sysexp.exe /Process 7016 /shtml "c:\temp\1.html"
+
+C:\WINDOWS\explorer.exe
+
+0x00020872
+
+5420
+
+/handle 0x00020872 /process 5420 
+
+sysexp.exe /handle 0x00020872 /process 5420 /shtml "c:\temp\1.html"
+
+    "move_to_limit_on_up_down": false,
+
+    "move_to_limit_on_up_down": false,
+
+
+Jade Noir
+
+Serbian Empire in 1350
+
+h your SPS file directly with SPS Builder inside your UGMFree cloud space or in SyMenu forum 
+
+192.168.0.1
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+E:\Anime\Queens Blade\S03E01 - Warrior of the Resistance.mkv
+
+Hottest Anime Creampie Hentai Sex Cartoon
+
+C:\Users\Brett\AppData\Local\Temp\Temp1_SyMenuItem.bak.zip\SyMenuItem.xml
+
+AppData
+
+	if InStr(W.Title,"Twitter")	;
+
+Move("x"(mgp().x>1800?1920:200) "y10 w1300 h975")
+
+1438
+
+1438
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+https://www.youtube.com/watch?v=Xx50UVch7SA&index=270&list=WL | Retarded vegan wants to blow my brains out! - YouTube
+https://www.youtube.com/watch?v=Nr8kh63fqnA&feature=youtu.be | Bearing vs Vegan Gains - YouTube
+https://www.youtube.com/watch?v=qN5L2q6hfWo | Tucker vs. Bill Nye the Science Guy - YouTube
+https://www.youtube.com/watch?v=kF0027AAZGA&t=1s | Tucker Carlson vs. Bill Nye: Round Two – The Science Guy's Reply - YouTube
+
+https://www.youtube.com/watch?v=2mboBv2aDIo&index=12#t=1217.91364
+
+https://www.youtube.com/watch?v=EUR5sglQWXo
+
+	PAExec.exe
+
+C:\Windows\System32\cmd.exe
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\data.sdb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\config3.13.zip
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\snapshots
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\settings
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\config.ini
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\config.ini
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\data.sdb
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\snapshots
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\settings
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\config3.13.zip
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\System_Explorer_Portable_sps\Data\config.zip
+
+system explor
+
+SyMenu.admin.exe
+
+E:\Documents\system explorer config\config3.13\data.sdb
+E:\Documents\system explorer config\config3.13\config.ini
+
+prev
+
+C:\windows\system32\cmd.exe
+
+E:\Downloads\SystemExplorerPortable_7.1.0.paf.exe
+
+E:\Documents\system explorer config\config3.13\config.ini
+E:\Documents\system explorer config\config3.13\data.sdb
+
+E:\Downloads\Apps\SystemExplorerPortable\Data
+
+E:\Downloads\Apps\SystemExplorerPortable\Data\snapshots
+E:\Downloads\Apps\SystemExplorerPortable\Data\data.sdb
+E:\Downloads\Apps\SystemExplorerPortable\Data\config.ini
+E:\Downloads\Apps\SystemExplorerPortable\Data\settings
+
+E:\Downloads\Apps\SystemExplorerPortable\Data
+
+E:\Documents\system explorer config\Data\settings
+E:\Documents\system explorer config\Data\snapshots
+E:\Documents\system explorer config\Data\config.ini
+E:\Documents\system explorer config\Data\data.sdb
+E:\Documents\system explorer config\Data\PortableApps.comInstaller
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch
+
+https://passwords.google.com
+
+		send +{tab}
+		send !{enter}
+
+		send +{tab}
+		send !{enter}
+
+send("!d")
+
+send("!d")
+
+send("!d"),send("!{enter}")
+
+winactive("ahk_group browser")
+
+	; sendinput {SC029}
+	; SendInput("#{Right}"),Sleep(200)
+
+			send("{F6}")
+
+ ; send("!d"),
+
+send("!{enter}"
+
+			send("!d{enter}")
+
+			if winactive("ahk_group browser")
+			send("!d{enter}")
+
+; send("!d")
+
+			if winactive("ahk_group browser")
+			send("!{d{enter}}")
+
+send("!{enter}") ; send("!d"),
+
+send("!d")
+
+send("!d")
+
+send("!d!{enter}")
+
+send("{F6}!{enter}")
+
+send("{F6}!{enter}")
+
+ OutputVar
+
+ OutputVar
+
+focus
+
+Text
+
+Text
+
+T("a_cursor" a_cursor "`n" a strobj([win(),FileGetTime("env.txt"),BIV("hotkey")]),X+25,Y+50,,-4000)
+
+T("a_cursor" a_cursor "`n" a strobj([win(),FileGetTime("env.txt"),BIV("hotkey")]),X+25,Y+50,,-4000)
+
+"a_cursor" a_cursor? "`n"
+
+a_cursor?
+
+a_cursor?
+
+Send(POVADD "{Up}")
+
+		; send("!d"),send("!{enter}")
+
+send("!d!{enter}")
+
+ST("POV_Watch",25),ST("MouseWheel",35)
+
+ST("WatchJoystickSub",5)
+
+ST("Joy_Trigger_Watch",60),ST("POV_Watch",25),ST("MouseWheel",35)
+
+ST("MouseWheel",35)
+
+,Tidy()
+
+ST("MouseWheel",35)
+
+; SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+
+; t([ttog("Tvar",23,34),tvar])
+
+MGP(X,Y)
+
+; Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+,X+25,Y+50,,-4000)
+
+MGP(X,Y)
+
+; WatchFolder("E:\Downloads","WFF")
+
+; if not (A_IsAdmin or RegExMatch(full_command_line:=DllCall("GetCommandLine","str"), " /restart(?!\S)")){
+;  try {
+;   if A_IsCompiled
+;     Run *RunAs "%A_ScriptFullPath%" /restart
+;   else, Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
+;  } ExitApp
+; 	}
+; a=A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%
+
+; if not (A_IsAdmin or RegExMatch(full_command_line:=DllCall("GetCommandLine","str"), " /restart(?!\S)")){
+;  try {
+;   if A_IsCompiled
+;     Run *RunAs "%A_ScriptFullPath%" /restart
+;   else, Run *RunAs "%A_AhkPath%" /restart "%A_ScriptFullPath%"
+;  } ExitApp
+; 	}
+; a=A_IsAdmin: %A_IsAdmin%`nCommand line: %full_command_line%
+
+E:\Documents\Backup
+
+E:\Documents\cc_20170317_183533.reg
+E:\Documents\cc_20170215_075024.reg
+E:\Documents\cc_20170215_080410.reg
+E:\Documents\cc_20170227_040042.reg
+E:\Documents\cc_20170303_113354.reg
+E:\Documents\cc_20170309_023940.reg
+E:\Documents\cc_20170309_043331.reg
+E:\Documents\cc_20170313_075925.reg
+E:\Documents\cc_20170313_080115.reg
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\Wise_Registry_Cleaner_sps\WiseRegCleaner.exe
+
+C:\Users\Brett\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
+
+TaskBar
+
+Send {Esc}
+MouseGetPos, X, Y
+MouseClick, M, 75, 45,,0
+MouseMove, X, Y, 0
+return
+
+Send {Esc}
+MouseGetPos, X, Y
+MouseClick, M, 75, 45,,0
+MouseMove, X, Y, 0
+
+E:\AH\middle duplicate.ahk
+
+duplicate tab 
+
+send("!d!{enter}")
+
+send("!d!{enter}")
+
+https://www.youtube.com/user/RubinReport/
+
+E:\Downloads\SyMenu\ProgramFiles
+
+E:\Downloads\SyMenu
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\.\*.ini
+
+E:\Downloads\SyMenu
+
+SPS_Published_Track_File_example.txt
+
+Islamic radicalism in australian schools
+
+E:\Downloads\SyMenuBackup_v1002.zip
+
+Microsoft .NET Framework 4.0.30319 
+
+SPS_Published_Track_File_example
+
+S-1-5-21-3301656078-755441028-1162137601-1001
+
+ShortcutWithArgument: C:\Users\Brett\Desktop\ImplicitAppShortcuts\3e7a1ac4ad103eec\Tidy Sidebar.lnk -> C:\Users\Brett\AppData\Local\Chromium\Application\chrome.exe (The Chromium Authors) -> --profile-directory=Default --app-id=dgmacifhhpefamjmolpipkijcofcmbgp
+
+
+S3 PAExec; C:\WINDOWS\PAExec.exe [189112 2017-03-16] (Power Admin LLC)
+R2 PlexUpdateService; C:\Program Files (x86)\Plex\Plex Media Server\Plex Update Service.exe [1982952 2017-03-15] (Plex, Inc.)
+
+E:\Downloads\xvideos.com_6302f2bc72f9ea2f161f1fd90962011e.mp4
+
+E:\Downloads\Google_Chrome_(64bit)_v57.0.2987.110.exe
+
+Samsung Galaxy Tab 4 (7-Inch, White)
+
+In the "Run" window, enter regedit.
+Click OK.
+In the "Registry Editor" window, open: HKEY_LOCAL_MACHINE\SOFTWARE\Google\Update\Clients\.
+In the "Registry Editor" window, open: HKEY_CURRENT_USER\SOFTWARE\Google\Update\Clients\.
+Right-click {430FD4D0-B729-4F61-AA34-91526481799D}.
+In the menu, select Delete.
+Close "Registry Editor."
+Install the application again.
+If you need help, contact your system administrator.
+
+C:\Users\Brett\AppData\Local\Google\Chrome.BackupByGoogleChrome64Portable\User Data\Default
+
+C:\Users\Brett\AppData\Local\Google\Chrome.BackupByGoogleChrome64Portable\User Data\Default
+
+
+edacconmaakjimmfgnblocblbcdcpbko
+
+Rayveness
+
+Katalina Mills
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\_Trash\20170320-03.52.43.GoogleChromePortable_(x64)_sps
+
+ 1: 0x80004005).
+
+ {430FD4D0-B729-4F61-AA34-91526481799D}.
+
+SandraMorgan
+
+caroline sg
+
+mater retardiranu.
+
+Megan Ludmila
+
+Asa Belle
+
+Morgan Freeman.
+
+content.xvideos.com/videos/mp4/8/4/0/xvideos.com_840ebaeb260869217108ce6b43940631.mp4?e=1490010895&h=fd88f77ccad3cadb40e5daabb38496e1&download=1
+
+http://content.xvideos.com/videos/mp4/8/4/0/xvideos.com_840ebaeb260869217108ce6b43940631.mp4?e=1490010895&h=fd88f77ccad3cadb40e5daabb38496e1&download=1
+
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+
+HKLM\Software\Policies\Microsoft\Windows NT\SystemRestore
+
+DisableConfig
+
+HKLM\Software\Policies\Microsoft\Windows NT\SystemRestore	DisableConfig	0x00000000 (0)	REG_DWORD	3/14/2017 8:17:12 AM	4	
+
+
+E:\Backup\Chrome\User Data\Default\Extensions\edacconmaakjimmfgnblocblbcdcpbko\3.4.14_0
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\TorchPortable_sps\Data\Torch_LAD\User Data\Default\Extensions\edacconmaakjimmfgnblocblbcdcpbko\3.4.14_0
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\TorchPortable_sps\App\Chrome-bin\torch.exe --user-data-dir="E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite\TorchPortable_sps\Data\Torch_LAD\User Data" --profile-directory=Default
+
+E:\Downloads\xvideos.com_32fc0fccbfa499d5fb027d984563c1e0-1.mp4
+E:\Downloads\xvideos.com_44ea1a1765bfe0decfa313d507cbb9d7.mp4
+E:\Downloads\xvideos.com_134a1f476fa06e30ce28c56a5773c663.mp4
+E:\Downloads\xvideos.com_13710215c076dea3ffc9a4ba4483cd60.mp4
+E:\Downloads\xvideos.com_59951011396f5371e2be98383656c938.mp4
+
+E:\Downloads\xvideos.com_32fc0fccbfa499d5fb027d984563c1e0-1.mp4
+E:\Downloads\xvideos.com_44ea1a1765bfe0decfa313d507cbb9d7.mp4
+E:\Downloads\xvideos.com_134a1f476fa06e30ce28c56a5773c663.mp4
+E:\Downloads\xvideos.com_13710215c076dea3ffc9a4ba4483cd60.mp4
+E:\Downloads\xvideos.com_59951011396f5371e2be98383656c938.mp4
+
+E:\Backup\Chrome\User Data\Default\Extensions\edacconmaakjimmfgnblocblbcdcpbko\3.4.14_0
+
+E:\Backup\Chrome\Default
+
+E:\Backup\Chrome\User Data
+
+"*cache"
+
+ "E:\$RECYCLE.BIN; "C:\$Recycle.Bin";"*cache";"cache*";caches;plex media**
+
+"C:\$Recycle.Bin"; "E:\$RECYCLE.BIN"; "*Plex Media Server*";"*cache";"caches"
+
+StaticEdit
+
+C:\ProgramData\Microsoft
+
+WS("AlwaysOnTop"),WS("AlwaysOnTop")
+
+"Tidy Sidebar"
+
+"Tidy Sidebar"
+
+WinHide, WinTitle
+WinShow, WinTitle
+
+Tidy Sidebar
+
+Tidy Sidebar
+
+	MyTaskbar("Tidy Sidebar",TaskNum)
+
+hrottleStop.exe
+
+hrottleStop.exe
+
+E:\Downloads\SyMenu\ProgramFiles\SPSSuite\SyMenuSuite
+
+SyMenuSuite\
+
+SyMenuSuite\
+
+	IID_ITaskbarList :="{56FDF342-FD6D-11d0-958A-006097C9A090}"
+	CLSID_TaskbarList:="{56FDF344-FD6D-11d0-958A-006097C9A090}"
+
+between(GKS("JoyZ"),0,49)
+
+If GKS("Joy5")&&Send("{MButton}")
+
+between(GKS("JoyZ"),0,49)
+
+between(GKS("JoyZ"),0,49)
+
+Open Folder
+
+Folder
+
+"%WinDir%\explorer.exe" /select,/e,${File}
+
+Open Folder
+
+Open Folder
+
+If between(GKS("JoyZ"),0,40)&&Send("{MButton}")
+
+, DeltaX * JoyMultiplier, DeltaY * JoyMultiplier * YAxisMult, 0, R
+return
+
+; Joy1:: ;A BUTTON
+; SetMouseDelay, -1
+; Click Left Down
+; SetTimer, WaitForLeftUp, 10
+; return
+#if
+
+button
+; If between(GKS("JoyZ"),0,40)&&Send("{MButton}")
+If between(GKS("JoyZ"),0,40)
+{
+Send("{MButton}")
+
+button
+; If between(GKS("JoyZ"),0,40)&&Send("{MButton}")
+If between(GKS("JoyZ"),0,40)
+{
+Send("{MButton}")
+
+E:\7plus-master\7plus.exe
+
+
+E:\7plus-master\7+-w.ico
+E:\7plus-master\7+-w2.ico
+E:\7plus-master\7plus.ahk
+E:\7plus-master\7plus.ahk - UIaccess.lnk
+
+
+E:\7plus-master\7plus.ahk
+
+
+.\ProgramFiles\SPSSuite\SyMenuSuite\AutoHotkey_Compiler_sps\AutoHotkeyU64.exe
+
+E:\Documents\Double Driver Backup\MS-7976 3-21-2017 3-34-05 PM\Printer\Canon MX920 series Printer
+
+E:\7plus-master\7plus.ahk
+
+
+"E:\7plus-master\7plus.ahk"
+
+C:\Users\Brett\AppData\Local\Temp\clip.png
+
+    "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS"],
+    "file_exclude_patterns": ["*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj","*.o", "*.a", "*.lib", "*.so", "*.dylib", "*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb", ".DS_Store", "*.class", "*.psd", "*.db", "*.sublime-workspace"],
+
+*.pyc
+
+"*.pyc",
+
+"*.ico",
+
+game%20of%20thrones%20season%204/
+
+game of thrones season 5
+
+snapcrackle
+
+Proxy.btguard.com
+
+snapcrackle
+
+Proxy.btguard.com
+
+https://kat.how/usearch/game%20of%20thrones%20season%205/
+
+game of thrones season 5
+
+magnet:?xt=urn:btih:ff514f5449929f3cf431c113d2fde6dd4b61fb56&dn=Game+of+Thrones+Season+5+720p+x264+AC3+5.1+%5BMKV%5D+%2B+Extras&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969
+
+game of thrones season 5
+
+magnet:?xt=urn:btih:cbc2cb0123cbc2fe562eb0a861dc2e43f06ee345&dn=Game+Of+Thrones+Complete+Season+6+720p+%5BMKV%5D+%2B+Extras%2C+Multisubs&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fpublic.popcorn-tracker.org%3A6969
+
+ame of thrones season 6
+
+ame of thrones season 7
+
+E:\AH\clip-sort.txt
+E:\AH\fcv1.22.cfg
+E:\AH\FolderChanges.txt
+E:\AH\folderchangesview 01-22-2017 07.xml
+E:\AH\folderchangesview 01-22-2017 06.htm
+E:\AH\FCV.cfg
+E:\AH\fc.txt
+E:\AH\logobj.json
+E:\AH\MGP.txt
+E:\AH\StrObj_CSV.txt
+E:\AH\csvfileview 01-22-2017 01.json
+
+C:\Users\Brett\AppData\Roaming\deluge
+
+"*.reg",
+
+Obelix469@gmail.com
+
+deluge
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Notepad.exe]
+"Debugger"="\"D:\\PortableApps\\SublimeText\\sublime_text.exe\" -z"
+
+Image File Execution Options\Notepad.exe
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\Notepad.exe]
+"Debugger"="\"D:\\PortableApps\\SublimeText\\sublime_text.exe\" -z"
+
+@="\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\" \"%1\""
+
+"\"C:\\Program Files\\Sublime Text 3\\sublime_text.exe\"
+
+Windows Registry Editor Version 5.00
+
+
+crackthisbitch
+
+Proxy.btguard.com
+
+magnet:?xt=urn:btih:63f9451bdd6192f2f8f93965f44b4b56a22e75ed&dn=Game+of+Thrones+-+Season+4&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Fzer0day.ch%3A1337&tr=udp%3A%2F%2Fopen.demonii.com%3A1337&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fexodus.desync.com%3A6969
+
+https://kat.how/t0-Logan_2017_720p_HD-TS_V.2_x264_AC3-CPG-tt17317577.html
+
+https://kat.how/full/
+
+https://topkickass.net/full/
+
+/topkickass.net/full/
+
+kat.how/full/
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System
+
+PlexMediaPlayer.exe
+
+Licorice8
+
+Podcasts #49, #51, #54, #58, #65 and #69 all about Trump.
+
+SendInput("#{Left}"),Sleep(200)
+
+else, if winactive("ahk_exe PlexMediaPlayer.exe")
+			SendInput("+{Left}"),Sleep(200)
+
+Send(POVADD "{Right}")
+
+POV_Watch:
+	If(POV:=GKS("JoyPOV"))>=0{
+	PoV_Pressed:=True
+	If(POV=0||POV=4500||POV=31500)
+	Send(POVADD "{Up}")
+	If(POV=22500||POV=27000||POV=31500){
+		If GKS("Joy8")
+			SendInput("#{Left}"),Sleep(200)
+			else, if winactive("ahk_exe PlexMediaPlayer.exe")
+			Send("+{Left}"),Sleep(200)
+		Else,	t(	Send(POVADD "{Left}"),,,,2000)
+	}
+	If(POV=13500||POV=18000||POV=22500)
+		{
+		If GKS("Joy8")
+			WS("Bottom"),Sleep(200) ; WinSet, Bottom,,% Win().title
+		Else,	Send(POVADD "{Down}")
+	}If(POV=4500||POV=9000||POV=13500)
+	{
+		If GKS("Joy8"){
+			if winactive("ahk_group browser")
+			; send("{F6}!{enter}")	; send("!d"),send("!{enter}")
+		 ; send("!d!{enter}")
+			 send("!+d"),sleep(200)
+			; send("{SC029}")
+			; SendInput("#{Right}"),Sleep(200)
+			}
+		else, if winactive("ahk_exe PlexMediaPlayer.exe")
+			Send( "+{Right}"),Sleep(200)
+			Else,Send(POVADD "{Right}")
+		}
+	}Return
+
+POV_Watch:
+	If(POV:=GKS("JoyPOV"))>=0{
+	PoV_Pressed:=True
+	If(POV=0||POV=4500||POV=31500)
+	Send(POVADD "{Up}")
+	If(POV=22500||POV=27000||POV=31500){
+		If GKS("Joy8")
+			SendInput("#{Left}"),Sleep(200)
+			else, if winactive("ahk_exe PlexMediaPlayer.exe")
+			Send("+{Left}"),Sleep(200)
+		Else,	t(	Send(POVADD "{Left}"),,,,2000)
+	}
+	If(POV=13500||POV=18000||POV=22500)
+		{
+		If GKS("Joy8")
+			WS("Bottom"),Sleep(200) ; WinSet, Bottom,,% Win().title
+		Else,	Send(POVADD "{Down}")
+	}If(POV=4500||POV=9000||POV=13500)
+	{
+		If GKS("Joy8"){
+			if winactive("ahk_group browser")
+			; send("{F6}!{enter}")	; send("!d"),send("!{enter}")
+		 ; send("!d!{enter}")
+			 send("!+d"),sleep(200)
+			; send("{SC029}")
+			; SendInput("#{Right}"),Sleep(200)
+			}
+		else, if winactive("ahk_exe PlexMediaPlayer.exe")
+			Send( "+{Right}"),Sleep(200)
+			Else,Send(POVADD "{Right}")
+		}
+	}Return
+
+POV_Watch:
+
+	POV_Watch: ; JoyPOV Up Down Left Right
+	If(POV:=GKS("JoyPOV"))>=0{
+		; if GKS("Joy8")
+			; POVADD:="#"
+			; else,POVADD:=""
+
+	; 		; add:="#+"
+	; 	; send {LWinDown}
+	; 	; send {ShiftDown}
+	; }
+	; ; else,add:=""
+	; add:=""
+	; If(POV=0||POV=4500||POV=31500)
+	;     Send %add%{Up}
+	; If(POV=22500||POV=27000||POV=31500)
+	;     Send %add%{Left}
+	; If(POV=13500||POV=18000||POV=22500)
+	;     Send %add%{Down}
+	; If(POV=4500||POV=9000||POV=13500)
+	;     Send %add%{Right} ; t(POV,,,500)
+; POVADD:="",MWADD:=""
+If(POV=0||POV=4500||POV=31500)
+; Send {Up}
+Send(POVADD . "{Up}")
+If(POV=22500||POV=27000||POV=31500)
+t(	Send(POVADD . "{Left}"),,,2000)
+If(POV=13500||POV=18000||POV=22500)
+; Send {Down}
+Send(POVADD . "{Down}")
+If(POV=4500||POV=9000||POV=13500)
+; Send {Right} ; t(POV,,,500)
+Send(POVADD . "{Right}")
+
+}Return
+
+		; if GKS("Joy8")
+			; POVADD:="#"
+			; else,POVADD:=""
+
+	; 		; add:="#+"
+	; 	; send {LWinDown}
+	; 	; send {ShiftDown}
+	; }
+	; ; else,add:=""
+	; add:=""
+	; If(POV=0||POV=4500||POV=31500)
+	;     Send %add%{Up}
+	; If(POV=22500||POV=27000||POV=31500)
+	;     Send %add%{Left}
+	; If(POV=13500||POV=18000||POV=22500)
+	;     Send %add%{Down}
+	; If(POV=4500||POV=9000||POV=13500)
+	;     Send %add%{Right} ; t(POV,,,500)
+; POVADD:="",MWADD:=""
+
+		POV_Watch: ; JoyPOV Up Down Left Right
+	If(POV:=GKS("JoyPOV"))>=0{
+
+If(POV=0||POV=4500||POV=31500)
+; Send {Up}
+Send(POVADD . "{Up}")
+If(POV=22500||POV=27000||POV=31500)
+t(	Send(POVADD . "{Left}"),,,2000)
+If(POV=13500||POV=18000||POV=22500)
+; Send {Down}
+Send(POVADD . "{Down}")
+If(POV=4500||POV=9000||POV=13500)
+; Send {Right} ; t(POV,,,500)
+Send(POVADD . "{Right}")
+
+}Return
+
+
+Joy10
+
+Joy10
+
+?E:\AH\joymouse.ahk 64 UIA.lnk
+
+Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+E:\AH\joymouse.ahk 64 UIA.lnk
+
+E:\AH\joymouse.ahk 64 UIA.lnk
+
+POV_Watch:
+	If(POV:=GKS("JoyPOV"))>=0{
+	PoV_Pressed:=True
+	If(POV=0||POV=4500||POV=31500)
+	Send(POVADD "{Up}")
+	If(POV=22500||POV=27000||POV=31500)
+		If GKS("Joy8")
+			SendInput("#{Left}"),Sleep(200)
+		Else,	t(	Send(POVADD "{Left}"),,,,2000)
+	If(POV=13500||POV=18000||POV=22500)
+		If GKS("Joy8")
+			WS("Bottom"),Sleep(200) ; WinSet, Bottom,,% Win().title
+		Else,	Send(POVADD "{Down}")
+	If(POV=4500||POV=9000||POV=13500)
+		If GKS("Joy8"){
+		if winactive("ahk_group browser")
+		; send("{F6}!{enter}") ;
+		; send("!d"),send("!{enter}")
+
+		 ; send("!d!{enter}")
+		 send("!+d"),sleep(200)
+
+		; send("{SC029}")
+		; SendInput("#{Right}"),Sleep(200)
+		}Else,Send(POVADD "{Right}")
+	}Return
+
+ST("Joy_Trigger_Watch",60),ST("MouseWheel",50),ST("POV_Watch",25),Tidy()
+
+t("hi")
+
+t("exists")
+
+	t("hi")
+
+winactive("ahk_group browser")
+
+t("hi")
+
+ST("AutoTimer",tog(at1,-10,2000)),sleep(30)
+
+ST("AutoTimer",tog(at1,-10,2000)),sleep(30)
+
+Joy1:: ;A BUTTON
+SetMouseDelay, -1
+Click Left Down
+SetTimer, WaitForLeftUp, 10
+return
+
+; If between(GKS("JoyZ"),0,40)&&Send("{MButton}")
+; If between(GKS("JoyZ"),0,40)
+; {
+; Send("{MButton}")
+; return
+; }
+
+; If between(GKS("JoyZ"),0,40)&&Send("{MButton}")
+
+LT_Down
+
+#If GKS("JoyZ")=50
+
+#if GKS("JoyZ")<49&&!GKS("Joy7")
+
+#If !(JoyZ_Down)
+Joy3::GKS("Joy7")?send("{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::
+
+#If !(JoyZ_Down)
+Joy3::GKS("Joy7")?send("{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::GKS("Joy7")?send("{Home}"):(Kwait()<200?send("{BackSpace}"):"")  ; Y Button
+
+
+#If !(JoyZ_Down)
+Joy3::GKS("Joy7")?send("{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::GKS("Joy7")?send("{Home}"):(Kwait()<200?send("{BackSpace}"):"")  ; Y Button
+
+
+#If (JoyZ_Down=50)
+Joy3::GKS("Joy7")?send("{End}"):(Kwait()<200?send("{Space}"):"")  ; X
+Joy4::GKS("Joy7")?send("{Home}"):(Kwait()<200?send("{BackSpace}"):"")  ; Y Button
+
+#if RT_DOWN&&!GKS("Joy7")
+; #if GKS("JoyZ")<49&&!GKS("Joy7") ; &&winactive("ahk_exe chrome.exe"))
+Joy3::Tab
+Joy4::
+If winactive("ahk_group browser")||Winactive("Ahk_exe sublime_Text.exe")
+send("^w")
+else, if WinExist("A")
+WinClose
+return
+
+; send("{F6}!{enter}") send("!d"),send("!{enter}")send("!d!{enter}")
+
+; send("{F6}!{enter}") send("!d"),send("!{enter}")send("!d!{enter}")
+
+Alex Blake
+
+#if RT_DOWN&&!GKS("Joy7")
+; #if GKS("JoyZ")<49&&!GKS("Joy7") ; &&winactive("ahk_exe chrome.exe"))
+Joy3::Tab
+Joy4::
+If winactive("ahk_group browser")||Winactive("Ahk_exe sublime_Text.exe")
+send("^w")
+else, if WinExist("A")
+WinClose
+return
+
+#if RT_DOWN&&!GKS("Joy7")
+; #if GKS("JoyZ")<49&&!GKS("Joy7") ; &&winactive("ahk_exe chrome.exe"))
+Joy3::Tab
+Joy4::
+If winactive("ahk_group browser")||Winactive("Ahk_exe sublime_Text.exe")
+send("^w")
+else, if WinExist("A")
+WinClose
+return
+
+#if RT_DOWN&&!GKS("Joy7")
+; #if GKS("JoyZ")<49&&!GKS("Joy7") ; &&winactive("ahk_exe chrome.exe"))
+Joy3::Tab
+Joy4::
+If winactive("ahk_group browser")||Winactive("Ahk_exe sublime_Text.exe")
+send("^w")
+else, if WinExist("A")
+WinClose
+return
+
+https://www.youtube.com/watch?v=K5tVbVu9Mkg
+
+https://www.youtube.com/watch?v=K5tVbVu9Mkg
+
+ -genprofile
+
+7,362.
+
+Milanna ember
+
+Ann harlow
+
+Bakemonogatari
+
+ ( ?° ?? ?°)?
+
+https://www.youtube.com/watch?v=HpVU6w_7fBk
+
+https://www.youtube.com/watch?v=HpVU6w_7fBk
+https://www.youtube.com/watch?v=l6oQ2JcMA40
+
+Product Key : JYP6B-4VXG9-JJR8H-6CJV7-H84Q4
+
+${GKS Joyz}
+
+Lacivius
+
+FaustianBurgle
+
+::ids::idspispopd469
+
+::ids::idspispopd469
+
+Tidy(),t("hi")
+
+Tidy(),t("hi")
+
+; MoveFiles("C:\Users\Brett\Documents\HTML\*.PDF","E:\PDF")
+; MoveFiles("C:\users\brett\videos\*.*","E:\Videos")
+; MoveFiles("C:\users\brett\documents","E:\documents")
+; a.=CopyFiles("E:\Downloads\*.JPG", "E:\JPG\")
+; FileCopy, E:\Downloads\*.MP4, E:\Videos
+
+; if winexist("ahk_exe ThrottleStop.exe")
+
+
+; if winactive("ahk_group browser"){
+; send("!d"),send("!{enter}") ; send("!d!{enter}") send("{F6}!{enter}")
+; Send {Esc}
+; MouseGetPos, X, Y
+; MouseClick, M, 75, 45,,0
+; MouseMove, X, Y, 0
+; run E:\AH\middle duplicate.ahk
+; }
+
+; run "C:\Program Files (x86)\ThrottleStop_840\ThrottleStop.exe"
+
+; Run "C:\Program Files\AutoHotkey\AutoHotkeyU64_UIA.exe" "E:\AH\joymouse.ahk"
+
+; t([ttog("Tvar",23,34),tvar])
+; SetTimer, POV_Watch,% tog(POV_Watch_P,50,75)
+
+MGP(X,Y)
+
+ST("WatchJoystickSub",5)
+
+; ST("AutoTimer",tog(at1,-10,2000)),sleep(30)
+
+; ST("AutoTimer",tog(at1,-10,2000)),sleep(30)
+
+E:\Documents\Reg\sublime 3 Debug Notepad.reg
+
+JYP6B-4VXG9-JJR8H-6CJV7-H84Q4
+
+INTEL - System - 8/19/2016 12:00:00 AM - 10.1.2.80
+
+Download size: 67 KB
+
+You may need to restart your computer for this update to take effect.
+
+Update type: Optional
+
+INTEL System  driver update released in  August 2016
+
+More information: 
+http://sysdev.microsoft.com/support/default.aspx
+
+Help and Support: 
+http://support.microsoft.com/select/?target=hub
+
+
+Sponsored session
+
+Sponsored session
+ahk_class #32770
+ahk_exe TeamViewer.exe
+
+AutoClose
+
+This was a free session sponsored by www.teamviewer.com.
+TeamViewer sessions are free of charge for personal use.
+
+ We thank you for playing fair!
+
+ControlClick, OK
+
+Intel Corporation - Graphics Adapter WDDM1.1, Graphics Adapter WDDM1.2, Graphics Adapter WDDM1.3 - Intel(R) HD Graphics
+
+Download size: 85.7 MB
+
+You may need to restart your computer for this update to take effect.
+
+Update type: Optional
+
+Intel Corporation Graphics Adapter WDDM1.1, Graphics Adapter WDDM1.2, Graphics Adapter WDDM1.3 software update released in August, 2015
+
+More information: 
+http://sysdev.microsoft.com/support/default.aspx
+
+Help and Support: 
+http://support.microsoft.com/select/?target=hub
+
+
+username.github.io
+
+E:\AH
+
+E:\AH\inc
+E:\AH\lib
+E:\AH\scripts
+E:\AH\txt
+E:\AH\7Plus-Exile.sublime-workspace
+E:\AH\Ahk2Exe.exe.lnk
+E:\AH\Base.log
+E:\AH\BIV.txt
+E:\AH\class_EasyIni.ahk
+E:\AH\Clip.txt
+E:\AH\ddores_26.ico
+E:\AH\desktop.ini
+E:\AH\Divinely Inspired.tmTheme
+E:\AH\Download.ini
+E:\AH\ENV.txt
+E:\AH\Everything regex.txt
+E:\AH\Exile.ahk
+E:\AH\Exile.ahk 64 UIA.lnk
+E:\AH\Exile.ahk 64.lnk
+E:\AH\Exile.sublime-project
+E:\AH\Exile.sublime-workspace
+E:\AH\Full Path Reg Excludes.reg
+E:\AH\hotkeys.ahk
+E:\AH\hotstrings.ahk
+E:\AH\ini.ini
+E:\AH\joymouse.ahk
+E:\AH\joymouse.ahk 64 UIA.lnk
+E:\AH\links.txt
+E:\AH\notes.txt
+E:\AH\onexitapp.ahk
+E:\AH\Paths.txt
+E:\AH\PCRE.ahk
+E:\AH\Perfect Match.ahk
+E:\AH\quotes.txt
+E:\AH\Regex.ini
+E:\AH\Shell.ahk
+E:\AH\ShellHook edit.ahk
+E:\AH\SoundToggleM.ahk
+E:\AH\SoundToggleM.exe
+E:\AH\sub3.reg
+E:\AH\T-Notes.txt
+E:\AH\V.ico
+E:\AH\var.ahk
+E:\AH\WatchFolder_sample.ahk
+
+5e1c9e48ea0c2e3f52843de7cfbfa28d796b990e
+
+ring("bert`t","bertram.arnold@yahoo.com"),Hotstring("ids","idspispopd469")
+; Hotstring("ob","obelix469@gmail.com")  ; adobe acrobat sign in
+
+; ,Hotstring("pp","tuckernuck!")
+
+Hotstring("itunes","Reticule469!"),Hotstring("tst","thetest")
+Hotstring("BCBS","BLUE CROSS AND BLUE SHI
+
+E:\AH\txt

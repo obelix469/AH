@@ -1,0 +1,702 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"err",
+				"ErrorLevel"
+			],
+			[
+				"winse",
+				"WinSetTitle"
+			],
+			[
+				"det",
+				"DetectHiddenWindows"
+			],
+			[
+				"wing",
+				"WinGetText"
+			],
+			[
+				"contr",
+				"ControlGetFocus"
+			],
+			[
+				"a_c",
+				"A_CaretX"
+			],
+			[
+				"X",
+				"XButton2"
+			],
+			[
+				"mouse",
+				"MouseGetPos"
+			],
+			[
+				"Ifwin",
+				"IfWinExist\t#IfWinExist"
+			],
+			[
+				"group",
+				"GroupAdd"
+			],
+			[
+				"ahk",
+				"ahk_group"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Exile.ahk",
+			"settings":
+			{
+				"buffer_size": 3748,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hotkeys.ahk",
+			"settings":
+			{
+				"buffer_size": 5533,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "var.ahk",
+			"settings":
+			{
+				"buffer_size": 131284,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/Functions.ahk",
+			"settings":
+			{
+				"buffer_size": 50986,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "txt/notes.txt",
+			"settings":
+			{
+				"buffer_size": 6726,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "quotes.txt",
+			"settings":
+			{
+				"buffer_size": 26615,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "colo",
+		"selected_items":
+		[
+			[
+				"colo",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/AH"
+	],
+	"file_history":
+	[
+		"/E/AH/joymouse.ahk",
+		"/E/Sublime Text Backups/2017-03-21/E/AH/hotkeys_131608.ahk",
+		"/C/Program Files/AutoHotkey/Installer.ahk",
+		"/E/AH/var.ahk",
+		"/E/Sublime Text Backups/2017-03-26/E/AH/hotkeys_080525.ahk",
+		"/E/Sublime Text Backups/2017-03-26/E/AH/hotkeys_081300.ahk",
+		"/E/Sublime Text Backups/2017-03-26/E/AH/hotkeys_071902.ahk",
+		"/C/Users/Brett/Desktop/Sublime.reg",
+		"/E/Documents/Reg/HKEY_CLASSES_ROOT.Applications.sublime_text.exe.reg",
+		"/C/Users/Brett/Desktop/sublime 3 Debug Notepad.reg",
+		"/E/AH/Download.ini",
+		"/C/Users/Brett/Desktop/sub3.reg",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Brett/AppData/Roaming/deluge/core.conf",
+		"/E/AH/quotes.txt",
+		"/E/Downloads/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Farbar_Recovery_Scan_Tool_(FRST_x64)_sps/fixlist.txt",
+		"/E/AH/middle duplicate.ahk",
+		"/E/Documents/Brett/Local/Microsoft/WebSetup/Panther/Windows_TelemetryData.xml",
+		"/E/AH/hotkeys1.ahk",
+		"/E/Documents/Black Vipers Windows 8.1 Service Configurations  Black Viper  www.blackviper.com.csv",
+		"/E/Documents/Black Vipers Windows 8.1 Service Configurations  Black Viper  www.blackviper.com.pdf",
+		"/E/Documents/Sweden's Fall_ The Cost of Altruism - YouTube_files/saved_resource.html",
+		"/E/Documents/Sweden's Fall_ The Cost of Altruism - YouTube_files/www-watch-transcript-2x-webp-vflp9_n_i.css",
+		"/E/Documents/Sweden's Fall_ The Cost of Altruism - YouTube_files/captions.js.download",
+		"/E/Documents/Sweden's Fall_ The Cost of Altruism - YouTube.html",
+		"/E/Documents/Backup 03-16-2017  BRETT-PC.bki",
+		"/E/AH/lib/Functions2.ahk",
+		"/E/AH/var1.ahk",
+		"/E/AH/Clip2.txt",
+		"/E/AH/Exile.ahk",
+		"/E/AH/Clip.txt",
+		"/E/AH/scripts/xy various info.ahk",
+		"/E/Downloads/Pandora Freemium.user.js",
+		"/E/Downloads/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Farbar_Recovery_Scan_Tool_(FRST_x64)_sps/jjj.txt",
+		"/C/Users/Brett/AppData/Roaming/7plus/Settings.ini",
+		"/C/Users/Brett/AppData/Roaming/7plus/Events.xml",
+		"/C/Users/Brett/Desktop/Bookmarks.html",
+		"/E/Downloads/Iron bookmarks.html",
+		"/C/Users/Brett/Desktop/Bookmarks",
+		"/E/Downloads/takeout-20170308T123608Z-001/Chrome/SearchEngines.json",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Local State",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Safe Browsing Cookies-journal",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/CrashpadMetrics-active.pma",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Preferences",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/lockfile",
+		"/E/Downloads/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CloneApp_sps/Data/cloneapp2.ini",
+		"/C/Program Files (x86)/Google/Chrome/Application/56.0.2924.87/Extensions/external_extensions.json",
+		"/C/Program Files (x86)/Google/Chrome/Application/56.0.2924.87/56.0.2924.87.manifest",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Extensions/nkdalpbojfdilmiboaiedicdbigdabpb/1.7.9_0/manifest.json",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/E/Sublime Text Backups/2017-03-03/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/AutoBackups (Windows)_082537.sublime-settings",
+		"/E/AH/OnetabTxt.txt",
+		"/E/Downloads/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CloneApp_sps/Data/cloneapp.ini",
+		"/E/AH/Print.txt",
+		"/E/AH/lib/StrObj.ahk",
+		"/E/AH/notes.txt",
+		"/E/AH/hotstrings.ahk",
+		"/E/AH/BIV.txt",
+		"/E/AH/onexitapp.ahk",
+		"/E/Downloads/Download YouTube Videos as MP4.user.js",
+		"/E/Documents/Sam Harris _ The End of Faith - YouTube.html",
+		"/E/Documents/win8.1 activation details.txt",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/Divinely Inspired.tmTheme",
+		"/E/Pictures/Alone Wolf (violin) - YouTube.html",
+		"/E/AH/Divinely Inspired.tmTheme",
+		"/E/AH/WatchFolder_sample.ahk",
+		"/E/AH/lib/soundtoggle.ahk",
+		"/E/AH/MyTopAndDownButtons.js",
+		"/E/Torrents/XCOM2/info.nfo",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/kk.tmTheme",
+		"/G/Windows Easy Transfer - Items from old computer.MIG",
+		"/C/Program Files/AutoHotkey/Compiler/Ahk2Exe.exe",
+		"/F/AH/JoystickMouse-Script.ahk"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"C:\\,E:\\",
+			"E:\\AH,E:\\Documents",
+			"E:\\AH",
+			"E:\\AH,E:\\Documents\\Brett",
+			"E:\\AH",
+			"E:\\AH,E:\\Documents",
+			"E:\\AH",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"win(",
+			"POV_Watch:",
+			"sub",
+			"watchjoy",
+			"watch",
+			"exit",
+			"hotkeys",
+			"pov",
+			"plex",
+			"crack",
+			"Image File Execution Options\\",
+			"Image File Execution Options\\Notepad.exe",
+			"joy2",
+			"ws(",
+			"50",
+			"middle",
+			"t\\(",
+			"(t",
+			"transcript",
+			"trans",
+			"cmd",
+			"amazon",
+			"premiu",
+			"home",
+			"snapcrackle",
+			"\\d*-OEM-\\d*-\\d*",
+			"\\d{5}-OEM-\\d{7}-\\d{5}",
+			"produ",
+			"key\\b",
+			"key",
+			"home premium",
+			"prod.*key",
+			"prod",
+			"product key",
+			"win key",
+			"home premium",
+			"requir",
+			"namesp",
+			"mgp",
+			"t(",
+			"t",
+			"mgp",
+			"cmod",
+			"tog",
+			"mouse",
+			"9C-D3-5B-E3-AC-5B",
+			"1jfie",
+			"Vimtag",
+			"vimtag",
+			"laz",
+			"surf",
+			"vox",
+			" --",
+			"url",
+			"window",
+			"videotitl",
+			"absol",
+			"title",
+			"windows",
+			"line",
+			"ttoff",
+			"ws(",
+			"snapcrackl",
+			"t(",
+			"action=4&&",
+			"gettime",
+			" Google Chrome",
+			"crdownload",
+			"cleanfilena",
+			"wordtime",
+			"tidy",
+			"reload",
+			"runclos",
+			"win(",
+			"run",
+			"close",
+			"winf",
+			"run(",
+			"lazjonsucks@yahoo.com",
+			"laz",
+			"joy1",
+			"E:\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"--",
+			" \n --",
+			" --\n ",
+			"",
+			".*",
+			"download",
+			"WinFound",
+			"F:\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Exile.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3748,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1525,
+								1525
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "817102a9",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hotkeys.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5533,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "86f82b53",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "var.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 131284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130021,
+								130021
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "9bc5d606",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 85221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "lib/Functions.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 50986,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										24568,
+										24568
+									],
+									[
+										38665,
+										38665
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								18319,
+								18319
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "f91a80e4",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "txt/notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								371,
+								371
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "bf0efdec",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "quotes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21045,
+								21046
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "62ea7582",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5434.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/AutoHotkey/AutoHotkey.sublime-build",
+	"project": "Exile.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

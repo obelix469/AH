@@ -1,0 +1,1935 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filecop",
+				"FileCopyDir"
+			],
+			[
+				"a_time",
+				"A_TimeIdlePhysical"
+			],
+			[
+				"error",
+				"ErrorLevel"
+			],
+			[
+				"A_sc",
+				"A_ScreenWidth"
+			],
+			[
+				"A_scree",
+				"A_ScreenHeight"
+			],
+			[
+				"a_co",
+				"A_CoordModeMouse"
+			],
+			[
+				"winget",
+				"WinGet"
+			],
+			[
+				"a_timeidl",
+				"A_TimeIdle"
+			],
+			[
+				"ifwin",
+				"IfWinActive\t#IfWinActive"
+			],
+			[
+				"setc",
+				"SetControlDelay"
+			],
+			[
+				"getkeys",
+				"GetKeyState()"
+			],
+			[
+				"a_pro",
+				"A_ProgramFiles"
+			],
+			[
+				"a_script",
+				"A_ScriptFullPath"
+			],
+			[
+				"fileget",
+				"FileGetTime"
+			],
+			[
+				"det",
+				"A_DetectHiddenWindows"
+			],
+			[
+				"LWind",
+				"LWinDown}\t{LWinDown}"
+			],
+			[
+				"Mouse",
+				"MouseMove"
+			],
+			[
+				"rege",
+				"RegExMatch()"
+			],
+			[
+				"a_this",
+				"A_ThisHotkey"
+			],
+			[
+				"POV_Watch",
+				"POV_WatchFunc"
+			],
+			[
+				"A_pr",
+				"A_PriorHotkey"
+			],
+			[
+				"A_Prior",
+				"A_PriorKey"
+			],
+			[
+				"A_time",
+				"A_TimeIdle"
+			],
+			[
+				"whee",
+				"WheelDown"
+			],
+			[
+				"A_tim",
+				"A_TimeSinceThisHotkey"
+			],
+			[
+				"A_c",
+				"A_CaretX"
+			],
+			[
+				"bac",
+				"BackSpace"
+			],
+			[
+				"Ctrl",
+				"CtrlDown"
+			],
+			[
+				"Filecre",
+				"FileCreateShortcut"
+			],
+			[
+				"Back",
+				"BackSpace"
+			],
+			[
+				"file",
+				"FileCopy"
+			],
+			[
+				"%",
+				"%ProgramFiles%"
+			],
+			[
+				"in",
+				"IntegerFast"
+			],
+			[
+				"float",
+				"FloatFast"
+			],
+			[
+				"if",
+				"IfWinNotExist\t#IfWinNotExist"
+			],
+			[
+				"ifwine",
+				"IfWinExist"
+			],
+			[
+				"m",
+				"M("
+			],
+			[
+				"reg",
+				"RegExReplace"
+			],
+			[
+				"re",
+				"regexmatch"
+			],
+			[
+				"regex",
+				"RegExReplace"
+			],
+			[
+				"regexm",
+				"RegExMatch"
+			],
+			[
+				"send",
+				"SendMessage"
+			],
+			[
+				"Ahk",
+				"ahk_exe"
+			],
+			[
+				"wing",
+				"WinGetActiveTitle"
+			],
+			[
+				"winac",
+				"WinActive()"
+			],
+			[
+				"form",
+				"FormatTime"
+			],
+			[
+				"__",
+				"__Set()\t.__Set()"
+			],
+			[
+				"a_thi",
+				"A_ThisFunc"
+			],
+			[
+				"a_lo",
+				"A_LoopFileExt"
+			],
+			[
+				"DHW",
+				"A_DetectHiddenWindows"
+			],
+			[
+				"a_care",
+				"A_CaretY"
+			],
+			[
+				"a_ca",
+				"A_CaretY"
+			],
+			[
+				"min",
+				"MinParams\t.MinParams"
+			],
+			[
+				"MIN",
+				"MinParams\t.MinParams"
+			],
+			[
+				"A_C",
+				"A_CaretX"
+			],
+			[
+				"is",
+				"IsBuiltIn\t.IsBuiltIn"
+			],
+			[
+				"a_tim",
+				"A_TimeSinceThisHotkey"
+			],
+			[
+				"winwait",
+				"WinWaitClose"
+			],
+			[
+				"a_c",
+				"A_CaretY"
+			],
+			[
+				"clipbo",
+				"Clipboard"
+			],
+			[
+				"Ini",
+				"IniRead"
+			],
+			[
+				"Regex",
+				"RegExMatch()"
+			],
+			[
+				"Key",
+				"KeyWait"
+			],
+			[
+				"Numpa",
+				"NumpadSub"
+			],
+			[
+				"REGEX",
+				"RegExMatch()"
+			],
+			[
+				"Error",
+				"ErrorLevel"
+			],
+			[
+				"winge",
+				"WinGetTitle"
+			],
+			[
+				"Filer",
+				"FileRecycle"
+			],
+			[
+				"regwr",
+				"REG_DWORD"
+			],
+			[
+				"a_t",
+				"A_TickCount"
+			],
+			[
+				"a_prio",
+				"A_PriorKey"
+			],
+			[
+				"filere",
+				"FileReadLine"
+			],
+			[
+				"a_lin",
+				"A_LineNumber"
+			],
+			[
+				"ahk",
+				"ahk_class"
+			],
+			[
+				"a_prior",
+				"A_PriorHotkey"
+			],
+			[
+				"clip",
+				"Clipboard"
+			],
+			[
+				"str",
+				"StringSplit"
+			],
+			[
+				"contro",
+				"ControlGet"
+			],
+			[
+				"a_s",
+				"A_ScriptHwnd"
+			],
+			[
+				"win",
+				"WinExist()"
+			],
+			[
+				"sett",
+				"SetTitleMatchMode"
+			],
+			[
+				"Process",
+				"ProcessName"
+			],
+			[
+				"ifw",
+				"IfWinExist\t#IfWinExist"
+			],
+			[
+				"pixel",
+				"PixelSearch"
+			],
+			[
+				"last",
+				"LastFound"
+			],
+			[
+				"a_",
+				"A_Desktop"
+			],
+			[
+				"Max",
+				"MaxThreads\t#MaxThreads"
+			],
+			[
+				"mouseget",
+				"MouseGetPos"
+			],
+			[
+				"Mousegetpos",
+				"MouseGetPos"
+			],
+			[
+				"read",
+				"ReadLine()\t.ReadLine()"
+			],
+			[
+				"_%",
+				"_%A_Index%"
+			],
+			[
+				"gui",
+				"GuiContextMenu"
+			],
+			[
+				"mous",
+				"MouseGetPos"
+			],
+			[
+				"max",
+				"MaxIndex()\t.MaxIndex()"
+			],
+			[
+				"inir",
+				"IniWrite"
+			],
+			[
+				"byref",
+				"IsByRef()"
+			],
+			[
+				"a_scre",
+				"A_ScreenWidth"
+			],
+			[
+				"a_screen",
+				"A_ScreenHeight"
+			],
+			[
+				"getk",
+				"GetKeyState()"
+			],
+			[
+				"AUTO",
+				"AutoSize"
+			],
+			[
+				"string",
+				"StringReplace"
+			],
+			[
+				"ini",
+				"IniWrite"
+			],
+			[
+				"fil",
+				"FileRead"
+			],
+			[
+				"med",
+				"Media_Stop"
+			],
+			[
+				"winw",
+				"WinWaitClose"
+			],
+			[
+				"a_scrip",
+				"A_ScriptFullPath"
+			],
+			[
+				"lastfo",
+				"LastFoundExist"
+			],
+			[
+				"pa",
+				"Parse"
+			],
+			[
+				"list",
+				"ListVars"
+			],
+			[
+				"ma",
+				"MaxIndex()\t.MaxIndex()"
+			],
+			[
+				"A_T",
+				"A_ThisFunc"
+			],
+			[
+				"A_this",
+				"A_ThisMenuItem"
+			],
+			[
+				"a_gui",
+				"A_GuiEvent"
+			],
+			[
+				"spash",
+				"SplashTextOn"
+			],
+			[
+				"ifgreater",
+				"IfGreaterOrEqual"
+			],
+			[
+				"input",
+				"InputLevel\t#InputLevel"
+			],
+			[
+				"Watch",
+				"WatchCursor"
+			],
+			[
+				"iTunes",
+				"iTunesApp"
+			],
+			[
+				"a_loop",
+				"A_LoopField"
+			],
+			[
+				"a_g",
+				"A_GuiHeight"
+			],
+			[
+				"a_gu",
+				"A_GuiEvent"
+			],
+			[
+				"A_scriptd",
+				"A_ScriptDir"
+			],
+			[
+				"a_scr",
+				"A_ScriptFullPath"
+			],
+			[
+				"winwai",
+				"WinWaitActive"
+			],
+			[
+				"wincl",
+				"WinWaitClose"
+			],
+			[
+				"winact",
+				"WinActive()"
+			],
+			[
+				"alt",
+				"AltUp}\t{AltUp}"
+			],
+			[
+				"altd",
+				"AltDown}\t{AltDown}"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Exile.ahk",
+			"settings":
+			{
+				"buffer_size": 3951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CCleaner_Portable_sps/ccleaner.ini",
+			"settings":
+			{
+				"buffer_size": 9352,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "hotkeys.ahk",
+			"settings":
+			{
+				"buffer_size": 5149,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "var.ahk",
+			"settings":
+			{
+				"buffer_size": 119487,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/Functions.ahk",
+			"settings":
+			{
+				"buffer_size": 48115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "joymouse.ahk",
+			"settings":
+			{
+				"buffer_size": 6755,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "quotes.txt",
+			"settings":
+			{
+				"buffer_size": 18676,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/WatchFolder.ahk",
+			"settings":
+			{
+				"buffer_size": 11987,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 9625,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BIV.txt",
+			"settings":
+			{
+				"buffer_size": 1892,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/SendMessageList-Script.ahk",
+			"settings":
+			{
+				"buffer_size": 4559,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scripts/ShellHook.ahk",
+			"settings":
+			{
+				"buffer_size": 735,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "OldFuncs.ahk",
+			"settings":
+			{
+				"buffer_size": 3545,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/xcom 2/steamapps/common/XComGame/Mods/AllSoldiersGainXP/Config/XComAllSoldiersGainXP.ini",
+			"settings":
+			{
+				"buffer_size": 1097,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"install\t",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"Snippet: ",
+				"Snippet: h"
+			],
+			[
+				"ana",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"edi",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"gut",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pa",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"r",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"Line E",
+				"Line Endings Unify"
+			],
+			[
+				"vme",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: Add Repository",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"WriteLine(\"-------------------------------\");",
+			"Console.WriteLine(\"-------------------------------\");",
+			"%windir%\\logs\\cbs\\cbs.log",
+			"python -m webbrowser -t \"http://www.python.org\"",
+			"import requests",
+			"view.run_command(\"AHK_Autocomplete\")",
+			"view.run_command(\"example\")",
+			"view.run_command(\"ahk\", {\"cmd\":\"$win_spy\"})",
+			"echo hi",
+			"import path",
+			"path",
+			"curdir()",
+			"dir()",
+			"import struct",
+			"print(os.path.basename)",
+			"print(os.basename)",
+			"print(os.basename",
+			"print(os.path)",
+			"print(\"hi\")",
+			"print \"hi\"",
+			"print hi",
+			"python",
+			"py",
+			"import os",
+			"import cv2",
+			"python",
+			"py",
+			"python",
+			"py",
+			"print(\"hi\")",
+			"python",
+			"python35",
+			"python",
+			"py",
+			"python",
+			"py",
+			"python",
+			"py",
+			"view.settings().get('syntax')",
+			"¬",
+			"\t\"ignored_packages\":",
+			"]",
+			"[",
+			"\"igno_kg\":",
+			"    \"show_in_ning\":,",
+			"\"gutter\": true,",
+			"gfd",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/AH",
+		"/E/AH/inc"
+	],
+	"file_history":
+	[
+		"/E/AH/Exile.ahk",
+		"/F/Drivers BRETT-PC 02-07-2017/DrvBK 02-07-2017 03.txt",
+		"/E/Documents/folderchangesview 02-07-2017 03.xml",
+		"/C/Users/Brett/Documents/FolderChanges.txt",
+		"/E/AH/lib/StrObj.ahk",
+		"/E/Downloads/Zip/Notepad2BE/Notepad2.ini",
+		"/E/AH/inc/IncludeM.ahk",
+		"/E/AH/lib/Hotstring.ahk",
+		"/E/AH/lib/Hotstrings.ahk",
+		"/E/AH/quotes.txt",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/kk.tmTheme",
+		"/C/Users/Brett/Documents/pentagon al zuul.txt",
+		"/E/AH/backup/Hotkeystring Backup/hotstrings.ahk",
+		"/G/autorun.inf",
+		"/C/Nirsoft/NirSoft/lastactivityview.cfg",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.588706aca45ac4/readme.txt",
+		"/C/Program Files (x86)/XCOM 2/Binaries/Win64/steam_api.ini",
+		"/E/xcom 2/steamapps/common/Binaries/Win64/MEX.ini",
+		"/E/Torrents/XCOM2/info.nfo",
+		"/C/Users/Brett/Documents/Reg/HKCU.Software.Microsoft.Command Processor-DisableUNCCheck.reg",
+		"/C/Users/Brett/Documents/Reg/Add_Maximum_processor_state.reg",
+		"/E/xcom 2/steamapps/common/Binaries/Win64/Launcher/MEX.ini",
+		"/E/xcom 2/steamapps/common/Binaries/Win64/Launcher/steam_appid.txt",
+		"/E/xcom 2/steamapps/common/Binaries/Win64/steam_appid.txt",
+		"/E/xcom 2/steamapps/common/Version.txt",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.588554adcd2ee4c/ReadMe.txt",
+		"/C/Users/Brett/Documents/My Games/XCOM2/XComGame/Config/XComModOptions.ini",
+		"/E/AH/FolderChanges.txt",
+		"/E/AH/folderchangesview 01-22-2017 07.xml",
+		"/C/Users/Brett/Documents/ntfslinksview 01-22-2017 06.xml",
+		"/C/Users/Brett/Documents/recentfilesview 01-20-2017 12.htm",
+		"/E/AH/csvfileview 01-22-2017 01.json",
+		"/E/AH/fc.txt",
+		"/E/AH/MGP.txt",
+		"/E/AH/StrObj_CSV.txt",
+		"/E/AH/lib/String-object-file.ahk.txt",
+		"/E/AH/logobj.json",
+		"/C/Nirsoft/NirSoft/fc tab.txt",
+		"/C/Nirsoft/NirSoft/FolderChanges.txt",
+		"/E/AH/jh",
+		"/E/FolderChanges.html",
+		"/E/AH/lib/WatchFolder.ahk",
+		"/C/Users/Brett/Downloads/pentagon al zuul.txt",
+		"/C/Users/Brett/Documents/archeripconfig rest.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CloneApp_sps/Data/CloneApp 01-18-2017 11.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/NirSoftSuite/GUIPropView_x64_sps/guipropview 01-15-2017 02.xml",
+		"/E/AH/lib/Functions.ahk",
+		"/E/AH/ENV.txt",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/4.2.7_0/LICENSE",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/GPUCache/data_0",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Cache/data_0",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Bookmarks",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Login Data",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Extensions/dgmacifhhpefamjmolpipkijcofcmbgp/5.1_0/options.js",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Local Extension Settings/dhdgffkkebhmkfjojejmpbldmpobfkfo/001324.log",
+		"/C/Users/Brett/AppData/Local/Google/Chrome/User Data/Default/Extensions/dhdgffkkebhmkfjojejmpbldmpobfkfo/4.2.7_0/manifest.json",
+		"/E/AH/BIV.txt",
+		"/E/AH/Clip.txt",
+		"/E/AH/PCRE.ahk",
+		"/C/Users/Brett/Downloads/cloneapp2.ini",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CloneApp_sps/Data/cloneapp2.ini",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CloneApp_sps/Data/update.ini",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.587e75b865af7e/freecell.exe",
+		"/C/Users/Brett/AppData/Roaming/7plus/ClosedWindowsOutsideScreen.xml",
+		"/C/Users/Brett/AppData/Roaming/7plus/Hotstrings.xml",
+		"/C/Users/Brett/AppData/Roaming/7plus/ProgramCache.json",
+		"/C/Program Files (x86)/XCOM 2/XComGame/Mods/AllSoldiersGainXP/Config/XComAllSoldiersGainXP.ini",
+		"/C/Users/Brett/Documents/Affidavit-of-Residence-Template.txt",
+		"/H/7976v1x (2).txt",
+		"/C/Users/Brett/AppData/Roaming/XnViewMP/bookmark.ini",
+		"/C/Users/Brett/Documents/Txt/Session_buddy/csvfileview 01-12-2017 10.xml",
+		"/E/AH/joymouse.ahk",
+		"/E/AH/scripts/GetActiveBrowserURLedit.ahk",
+		"/E/AH/Download.ini",
+		"/E/AH/lib/Fullscreen.ahk",
+		"/E/AH/clip-sort.txt",
+		"/E/AH/id 722898.ahk",
+		"/E/AH/hotkeys.ahk",
+		"/E/AH/txt/var(last).ahk",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Snap2IMG_sps/ReadMe.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/XnViewMP_(x64)_sps/UI/toolbar.ini",
+		"/C/Users/Brett/Pictures/Icons/fssort.ini",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/WSUS_Offline_Update_sps/log/download.log",
+		"/C/Users/Brett/Downloads/cookies.txt",
+		"/C/Users/Brett/Downloads/cookies (1).txt",
+		"/C/Users/Brett/Documents/Txt/cookies.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Snappy_Driver_Installer_Lite_sps/R524.sps.version",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Snappy_Driver_Installer_Lite_sps/tools/SDI/settings.cfg",
+		"/E/AH/fg.txt",
+		"/E/AH/ghh.txt",
+		"/C/Users/Brett/Documents/freecell.zip",
+		"/C/Users/Brett/Downloads/session_buddy_export_2017_01_10_01_13_17.md",
+		"/C/Users/Brett/AppData/Roaming/Sublime Text 3/Packages/User/AutoHotkey.sublime-settings",
+		"/E/AH/Paths.txt",
+		"/E/AH/var.ahk",
+		"/C/Users/Brett/Downloads/session_buddy_export_2017_01_10_01_13_22.json",
+		"/E/AH/Regex.ini",
+		"/E/AH/scripts/Joystick Test Script.ahk",
+		"/C/Program Files/NetBeans 8.2/bin/netbeans",
+		"/C/Program Files/NetBeans 8.2/etc/netbeans.conf",
+		"/C/Program Files/NetBeans 8.2/nb/config/Modules/org-netbeans-modules-bugzilla-exceptionreporter.xml",
+		"/C/Users/Brett/AppData/Roaming/NetBeans/8.2/var/log/messages.log",
+		"/C/Users/Brett/Documents/NetBeans/8.2/lock",
+		"/C/Users/Brett/AppData/Roaming/NetBeans/8.2/build.properties",
+		"/C/Users/Brett/Downloads/tampermonkey_backup/Yays! (Yet Another Youtube Script).user.js",
+		"/C/Users/Brett/Dropbox/Public/Top Secret.txt",
+		"/C/Program Files/Java/jdk1.8.0_111/bin/jmc.ini",
+		"/C/Users/Brett/Documents/NetBeansProjects/netbeans-project.properties",
+		"/E/AH/netbeans.log",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.5866b9a0a8189af/release",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.5866baf8a86cbed/README",
+		"/C/Users/Brett/Documents/SpecialFolders/SpecialFolders.xml",
+		"/C/Users/Brett/Documents/SpecialFolders/specialfolders.htm",
+		"/C/Users/Brett/workspace/.metadata/.log",
+		"/C/Users/Brett/Downloads/manifest.json",
+		"/C/Program Files (x86)/Actual Window Manager/Readme.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/SterJo_Chrome_Passwords_sps/config.ini",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/VirtuaWin_sps/modules/i-conized-readme.txt",
+		"/C/Users/Brett/Downloads/win32wm/README.TXT",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.5861b27f204e3f/readme.txt",
+		"/C/Users/Brett/AppData/Local/Temp/BNZ.5861b395248d41/README.txt",
+		"/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/VirtuaWin_sps/modules/VWPreview_1.6/COPYING.TXT",
+		"/C/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Universal_Extractor_2_sps/UniExtract.ini",
+		"/C/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/Gridy_sps/Gridy.ini",
+		"/E/AH/_id 133924.ahk",
+		"/E/AH/lib/funcs.ahk",
+		"/C/Users/Brett/Desktop/7plus.ahk",
+		"/E/AH/lib/soundtoggle.ahk"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"E:\\AH",
+			"C:\\Users\\Brett\\AppData\\Local\\Google\\Chrome\\User Data\\Default",
+			"C:\\Users\\Brett\\AppData\\Local\\Google\\Chrome\\User Data\\Default,C:\\Users\\Brett\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\GPUCache\\data_0-*.txt",
+			"C:\\Users\\Brett\\AppData\\Local\\Google\\Chrome\\User Data\\Default",
+			"<open folders>",
+			"E:\\AH",
+			"E:|AH",
+			"C:\\",
+			"E:\\",
+			"E:\\7plus-master",
+			"E:\\7plus-master\\Events",
+			"E:\\AH",
+			"E:\\7plus-master",
+			"E:\\AH",
+			"E:\\7plus-master",
+			"C:\\Users\\Brett\\AppData\\Roaming\\Sublime Text 3",
+			"E:\\AH,C:\\Users\\Brett\\AppData\\Roaming\\Sublime Text 3",
+			"E:\\AH",
+			"E:\\7plus-master",
+			"E:\\AH",
+			"E:\\7plus-master",
+			"C:\\,E:\\",
+			"E:\\AH,C:\\,E:\\",
+			"E:\\AH",
+			"E:\\7plus-master",
+			"E:\\AH,E:\\7plus-master",
+			"E:\\AH",
+			"D:\\",
+			"E:\\AH",
+			"C:\\Users\\Brett\\Documents\\ChromePass 08-19-2016 7.32.37 PM.txt",
+			"C:\\Users\\Brett\\AppData\\Roaming\\Sublime Text 3",
+			"E:\\AH",
+			"E:\\AH,C:\\Users\\Brett\\AppData\\Roaming\\Sublime Text 3\\Packages\\AutoHotkey",
+			"E:\\AH",
+			"E:\\AH,E:\\Google Drive",
+			"E:\\AH",
+			"C:\\Users\\Brett\\AppData\\Roaming\\Sublime Text 3\\Packages",
+			"E:\\AH",
+			"C:\\",
+			"E:\\AH"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"key",
+			"&&",
+			"send",
+			"filemov",
+			"string",
+			"inclu",
+			"move",
+			"kwait",
+			"q\\(",
+			"kwa",
+			"HK\\(",
+			"between",
+			"^\\}?t\\(",
+			"\\}?t\\(",
+			"\\}?t(",
+			"\\}?bt(",
+			"\\bt(",
+			"contain",
+			"\\bin(",
+			"in",
+			"hotstring",
+			"winset",
+			"CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\"))",
+			"ewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\"))",
+			"CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\"))",
+			"^;",
+			"\\}?m\\(",
+			"\\b\\,\\b",
+			"\\R*",
+			"(\\})\\s*(,)\\s*(\\{)",
+			"(\\})\\s*,\\s*(\\{)",
+			"(\\}\\s*)(,)(\\s*\\{)",
+			" For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }",
+			"atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))\n t(FileMove(Name,\"E:\\ANIME\\xvid\",1))\n }If(Action=4&&instr(Name,\"videoplayback\")&&instr(OldName,\"crdownload\")){\n Obj:=O[filegettime(name,\"C\")],t(FileMove(Name,obj.target,1))\n\tR:=\"mklink /H \"\"\" name \"\"\" \"\"\" obj.LinkFile \"\"\"\"\n\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))\n t(FileMove(Name,\"C:\\Users\\Brett\\Videos\",1))\n If regexmatch(name,\"[.]m?html?\")",
+			" else if !regexmatch(name,\"\\.(crdownload|tmp|temp)\")&&action=4\n  CO:={T:=filegettime(name,\"C\"):C},CO:=r(r(strobj(CO),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),t(IniWrite(RemoveEmptyDash(co),\"Download.ini\",T?T++:\"FAIL\"))\n If(Action=4&&instr(Name,\"xvideos\")&&instr(oldName,\"crdownload\")){\n atitle:=r(wgt(\"XVID\"),\" *?-? ?XVID.*\"),t(MoveTo:=\"E:\\ANIME\\\" (atitle?atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))\n t(FileMove(Name,\"E:\\ANIME\\xvid\",1))\n }If(Action=4&&instr(Name,\"videoplayback\")&&instr(OldName,\"crdownload\")){",
+			"WatchFolderFunc(){\n\t static O:={}\n For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }\n else if !regexmatch(name,\"\\.(crdownload|tmp|temp)\")&&action=4\n  CO:={T:=filegettime(name,\"C\"):C},CO:=r(r(strobj(CO),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),t(IniWrite(RemoveEmptyDash(co),\"Download.ini\",T?T++:\"FAIL\"))\n If(Action=4&&instr(Name,\"xvideos\")&&instr(oldName,\"crdownload\")){\n atitle:=r(wgt(\"XVID\"),\" *?-? ?XVID.*\"),t(MoveTo:=\"E:\\ANIME\\\" (atitle?atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))\n t(FileMove(Name,\"E:\\ANIME\\xvid\",1))\n }If(Action=4&&instr(Name,\"videoplayback\")&&instr(OldName,\"crdownload\")){\n Obj:=O[filegettime(name,\"C\")],t(FileMove(Name,obj.target,1))\n\tR:=\"mklink /H \"\"\" name \"\"\" \"\"\" obj.LinkFile \"\"\"\"\n\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))\n t(FileMove(Name,\"C:\\Users\\Brett\\Videos\",1))\n If regexmatch(name,\"[.]m?html?\")\n t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n If instr(name,\".pdf\")\n t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n if instr(name,\"session_buddy_export_\")&&action=4&&!instr(name,\"crdownload\")\n  t(Filecopy(Name,A_MyDocuments \"\\txt\\Session_buddy\\\",1))\n }}",
+			"\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))\n t(FileMove(Name,\"C:\\Users\\Brett\\Videos\",1))\n If regexmatch(name,\"[.]m?html?\")\n t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n If instr(name,\".pdf\")\n t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n if instr(name,\"session_buddy_export_\")&&action=4&&!instr(name,\"crdownload\")",
+			" t(FileMove(Name,\"E:\\ANIME\\xvid\",1))\n }If(Action=4&&instr(Name,\"videoplayback\")&&instr(OldName,\"crdownload\")){\n Obj:=O[filegettime(name,\"C\")],t(FileMove(Name,obj.target,1))\n\tR:=\"mklink /H \"\"\" name \"\"\" \"\"\" obj.LinkFile \"\"\"\"\n\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))\n t(FileMove(Name,\"C:\\Users\\Brett\\Videos\",1))",
+			" if instr(name,\"session_buddy_export_\")&&action=4&&!instr(name,\"crdownload\")\n  t(Filecopy(Name,A_MyDocuments \"\\txt\\Session_buddy\\\",1))\n }}",
+			" Obj:=O[filegettime(name,\"C\")],t(FileMove(Name,obj.target,1))\n\tR:=\"mklink /H \"\"\" name \"\"\" \"\"\" obj.LinkFile \"\"\"\"\n\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))",
+			"WatchFolderFunc(){\n\t static O:={}\n For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }\n else if !regexmatch(name,\"\\.(crdownload|tmp|temp)\")&&action=4\n  CO:={T:=filegettime(name,\"C\"):C},CO:=r(r(strobj(CO),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),t(IniWrite(RemoveEmptyDash(co),\"Download.ini\",T?T++:\"FAIL\"))\n If(Action=4&&instr(Name,\"xvideos\")&&instr(oldName,\"crdownload\")){\n atitle:=r(wgt(\"XVID\"),\" *?-? ?XVID.*\"),t(MoveTo:=\"E:\\ANIME\\\" (atitle?atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))\n t(FileMove(Name,\"E:\\ANIME\\xvid\",1))\n }If(Action=4&&instr(Name,\"videoplayback\")&&instr(OldName,\"crdownload\")){\n Obj:=O[filegettime(name,\"C\")],t(FileMove(Name,obj.target,1))\n\tR:=\"mklink /H \"\"\" name \"\"\" \"\"\" obj.LinkFile \"\"\"\"\n\t}If(Action=4&&instr(Name,\".mp4\")&&instr(OldName,\"crdownload\"))\n t(FileMove(Name,\"C:\\Users\\Brett\\Videos\",1))\n ; If regexmatch(name,\"[.]m?html?\")\n ; t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n ; If instr(name,\".pdf\")\n ; t(FileMove(Name,A_MyDocuments \"\\HTML\",1))\n if instr(name,\"session_buddy_export_\")&&action=4&&!instr(name,\"crdownload\")\n  t(Filecopy(Name,A_MyDocuments \"\\txt\\Session_buddy\\\",1))\n }}",
+			"\t static O:={}\n For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }\n else if !regexmatch(name,\"\\.(crdownload|tmp|temp)\")&&action=4\n  CO:={T:=filegettime(name,\"C\"):C},CO:=r(r(strobj(CO),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),t(IniWrite(RemoveEmptyDash(co),\"Download.ini\",T?T++:\"FAIL\"))\n If(Action=4&&instr(Name,\"xvideos\")&&instr(oldName,\"crdownload\")){\n atitle:=r(wgt(\"XVID\"),\" *?-? ?XVID.*\"),t(MoveTo:=\"E:\\ANIME\\\" (atitle?atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))",
+			"\t static O:={}\n For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ",
+			"y \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }",
+			"\t static O:={}\n For Each,C In Changes {\n Action:=C.Action,Name:=C.Name,OldName:=C.oldname,isdir:=C.isdirC\n If(Action=4&&instr(Name,\"videoplayback\")&&instr(Name,\"crdownload\")){\n NewName:=CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".mp4\"\n WorkingDir:=\"C:\\Users\\Brett\\Videos\"\n Target:= WorkingDir \"\\\" Newname\n LinkFile:=Directory \"\\\" CleanFileName(SR(WGAT(),\" - YouTube - Google Chrome\")) \".lnk\"\n FCS:=Func(\"FileCreateShortcut\"),RunState:=1\n O[T:=filegettime(name,\"C\")]:=Obj:=%FCS%(Target,LinkFile,WorkingDir,Args,Description,IconFile,ShortcutKey,IconNumber,RunState)\n IniWrite,% r(r(strobj(Obj),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),Download.ini,% T  ; O[Obj[Time]:=filegettime(name,\"C\")]:=OBJ\n }\n else if !regexmatch(name,\"\\.(crdownload|tmp|temp)\")&&action=4\n  CO:={T:=filegettime(name,\"C\"):C},CO:=r(r(strobj(CO),\"(`r?`n){1,}\",\"`n\"),\"(`r|`n)$\",\"`r`n\"),t(IniWrite(RemoveEmptyDash(co),\"Download.ini\",T?T++:\"FAIL\"))\n If(Action=4&&instr(Name,\"xvideos\")&&instr(oldName,\"crdownload\")){\n atitle:=r(wgt(\"XVID\"),\" *?-? ?XVID.*\"),t(MoveTo:=\"E:\\ANIME\\\" (atitle?atitle:a_now) \".\" spath(name).ext),FileCopy(Name,MoveTo,1) ;append(\"`n\",\"log.txt\",\"n\"))",
+			"filegettime",
+			"fileget",
+			"tog\\(",
+			"\\btog\\(",
+			"tovg",
+			"filegettime",
+			"fileget",
+			"reportf",
+			"\\bshftclick\\b",
+			"\\bmclick\\b",
+			"mclick",
+			"clamp\\(",
+			"win\\(",
+			"clamp",
+			"enter",
+			"^in\\(",
+			"in(",
+			"ifin(",
+			"ifin",
+			"ifin(",
+			"\\d+,\\d+,(\\d+,)",
+			"(\\d+,\\d+,)\\d+,",
+			"watch",
+			"watchfold",
+			"get",
+			"YAxisMultiplier",
+			"diff(",
+			"diff",
+			"HK",
+			"t(",
+			"read(",
+			"ini",
+			"iw(",
+			"ini",
+			"iw",
+			"iw(",
+			"IW(",
+			"IW",
+			"\")\n",
+			"iw",
+			"ini",
+			"iw(",
+			"\n- ",
+			"\\n-\\n",
+			"\\n\\s\\n",
+			"\\n",
+			"\\n\\n",
+			"\\n\\s",
+			"\\n\\s\\n",
+			"\\nd\\n",
+			"\\n\\n",
+			"\\n\\W\\n",
+			"-",
+			"\\n[[:hyphen:]]",
+			"\\n[[:dash:]]",
+			"\\n[[:Punct:]]",
+			"\\n[Punct]",
+			"\\s[Punct]",
+			"\\s\\W",
+			"\\s-\\s",
+			"\\s=\\s",
+			"\\s[-]\\s",
+			"\\s-\\s",
+			"\\R-\\s",
+			"\\R-\\R",
+			"\\s",
+			"reportf",
+			"JoyThreshold",
+			"laud",
+			"homedrive",
+			"homepath",
+			"move(",
+			"mgp",
+			"^sc",
+			"E:\\SyMenu\\ProgramFiles\\SPSSuite\\SyMenuSuite\\Eusing_Free_Registry_Cleaner_sps\\Languages\\",
+			"E:\\SyMenu\\ProgramFiles\\SPSSuite\\SyMenuSuite\\_Trash\\20161228-03.30.58.Alternate_Pic_View_Portable_sps\\PicView\\QRCodeGenerator_",
+			"E:\\SyMenu\\ProgramFiles\\SPSSuite\\SyMenuSuite\\Listary_sps\\Languages\\",
+			"E:\\SyMenu\\ProgramFiles\\SPSSuite\\SyMenuSuite\\_Trash\\20161228-03.30.58.Alternate_Pic_View_Portable_sps\\PicView\\",
+			"\\R",
+			"version|appinfo\nCatalan(Spain)\nSpanish(Spain).ini\nDutch(Nederlands).ini\nGerman.ini\nJapanese.ini\nKorean.ini\nSlovak.ini",
+			"E:\\SyMenu\\ProgramFiles\\SPSSuite\\SyMenuSuite\\Wise_Registry_Cleaner_sps\\Languages\\",
+			"2000",
+			"t("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"$1$2$3",
+			"$1,$3",
+			"$1-$3",
+			"$1",
+			"YAxisMult",
+			"",
+			"JThresh",
+			"|",
+			"",
+			"<Time>2000</Time>",
+			"Exitapp",
+			"Else",
+			"Return",
+			"If",
+			"$1$2",
+			"$1",
+			"$0",
+			"&&",
+			">=2000",
+			"ZKey",
+			"ZLastKey",
+			"Zkey",
+			"||",
+			"Modifier",
+			"V",
+			"\\.crdownload",
+			"bb",
+			"",
+			";\n",
+			"\n",
+			"",
+			"#s",
+			"\"%username%\":f",
+			"LA",
+			"",
+			"    ",
+			"\\t\\t\\t\\t",
+			"       ",
+			"\\t\\t\\t\\t",
+			" && ",
+			"\\\\n\\n",
+			"\\n\\\\n",
+			"\\\\n",
+			"\"\\\\n\"",
+			"\"\\n\"",
+			"\\t",
+			"\"\\t\"",
+			"\\t&",
+			"\\t",
+			"",
+			" | ",
+			"  ",
+			"\\t",
+			"$1\\t\\ttarget= $2",
+			"$1  target= $2",
+			"$1 $2",
+			"",
+			"$4",
+			"$2",
+			"$0",
+			"$1",
+			"$0",
+			"$&",
+			"$1",
+			"pos",
+			"",
+			"I",
+			"PropertyItem",
+			"=\"",
+			"=\"\"",
+			"ControlNN",
+			"{a",
+			"SendInput ",
+			"  ",
+			"   ",
+			"  ",
+			" ",
+			"  ",
+			"FileName",
+			"OFolder",
+			"\\[Software20$1\\]",
+			"\\[Software$1[0]$2\\]",
+			"\\[Software[$1]0$2\\]",
+			"\\[Software$10$2\\]",
+			"\\[Software$1 0$2\\]",
+			"\\[Software$10$2\\]",
+			"\\[Software2$1\\]",
+			"",
+			"\"%username%\":f",
+			"",
+			".",
+			"",
+			", list,",
+			",% ControlNN",
+			"MyWinGetAttr",
+			"WinGetAttr1",
+			"Txt",
+			"(this)",
+			"this",
+			"O",
+			"FPos",
+			"\"\\p{Math_Symbol\"",
+			"m \"",
+			"T_",
+			"_",
+			"FileP",
+			"Ar",
+			"N",
+			"BASE:CLASSLIST",
+			"H",
+			"a.=\"$1\"",
+			"",
+			",",
+			"",
+			"\",\"",
+			",",
+			"<TRNAMT>",
+			"This.Funcs",
+			"BC.Funcs",
+			"",
+			"This.Funcs",
+			"This.Hotstring",
+			"BASE:LIST",
+			"CM",
+			"to(a.=\"`n\" ",
+			"to(a.=",
+			"Mouse"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Exile.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2004,
+								2004
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "817102a9",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 665.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/SyMenu/ProgramFiles/SPSSuite/SyMenuSuite/CCleaner_Portable_sps/ccleaner.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1782,
+								1782
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "999c056a",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "hotkeys.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2088,
+								2088
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "86f82b53",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1229.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "var.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								119257,
+								119257
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "9bc5d606",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 73511.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "lib/Functions.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23173,
+								23238
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "f91a80e4",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4309.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "joymouse.ahk",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5810,
+								5810
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "f1eb7a64",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2406.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "quotes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18127,
+								18127
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "62ea7582",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 8660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/WatchFolder.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4776,
+								4776
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "f2e39904",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 722.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								637,
+								637
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "cd64484a",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 521.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "BIV.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1892,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "c803cb54",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 912.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "scripts/SendMessageList-Script.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4254,
+								4254
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "7142e630",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3732.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "scripts/ShellHook.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 735,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "autohotkey",
+							"buffer_scroll_name": "354bb440",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "OldFuncs.ahk",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2811,
+								2811
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "00bfc1c2",
+							"spell_check": false,
+							"syntax": "Packages/User/AutoHotkey.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1352.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/xcom 2/steamapps/common/XComGame/Mods/AllSoldiersGainXP/Config/XComAllSoldiersGainXP.ini",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								439,
+								439
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "b28bdf4b",
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.444304371951,
+			0.885318693664,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 166.0
+	},
+	"output.find_results":
+	{
+		"height": 159.0
+	},
+	"pinned_build_system": "",
+	"project": "/C/Users/Brett/AppData/Roaming/Sublime Text 3/Exile 11-04-2016.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
